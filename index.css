@@ -95,7 +95,7 @@ header{
 
 /* Index */
 #heroImage {
-	background-image: url(/images/lunarbackground.png);
+	background-image: url(/images/lunarBackground.png);
 	background-size: cover;
 	height: 90vh;
 }
