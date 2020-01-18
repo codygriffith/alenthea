@@ -14,7 +14,7 @@
 <body>
 	<?php include 'sections/header.php';?>
 	<div id="heroImage" class="flex center">
-		<img src="/images/alentheaFullLogo.png">
+		<img src="/images/alentheaFullLogo.svg">
 	</div>
 	<div class="flex row center full" id="services">
 		<div class="flex column center serviceTile">
