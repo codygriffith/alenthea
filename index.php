@@ -7,6 +7,7 @@
 <link href="sections/contact.css" rel="stylesheet" type="text/css">
 <link href="sections/footer.css" rel="stylesheet" type="text/css">
 <!-- <meta http-equiv="refresh" content="1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 </head>
