@@ -10,7 +10,7 @@
 <body>
     <?php include "../sections/header.php";?>
     <div id="bigOlText" class="flex column">
-            <img src="/images/logosbranding.png">
+            <img src="/images/logosBranding.png"> 
         </div>
         <h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
 	<!-- <div id="serviceBanner" class="flex center-left column">
