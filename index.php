@@ -8,7 +8,7 @@
 <link href="sections/footer.css" rel="stylesheet" type="text/css">
 <!-- <meta http-equiv="refresh" content="1"> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<base href="http://www.alenthea.com/index.html">
+<!-- <base href="http://www.alenthea.com/index.html"> -->
 
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
