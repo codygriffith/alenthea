@@ -4,6 +4,8 @@
 	<link href="../index.css" rel="stylesheet" type="text/css">
     <link href="../pages/style.css" rel="stylesheet" type="text/css">
 	<link href="../pages/marketing.css" rel="stylesheet" type="text/css">
+	<link href="../pages/branding.css" rel="stylesheet" type="text/css">
+
 	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
 	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
 </head>
@@ -15,25 +17,22 @@
         <h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
 
 
-	<div class="flex row center marketing-service">
-		<h1>Content Marketing</h1>
-		<p>Drive customer loyalty and make yourself recognizable to a broader audience. The value 
-		   of your brand can sometimes feel invisible, but when prices rise with demand the 
-		   return becomes apparent.
-		</p>
-	</div>
-    <h1 id="servicesHeader" class="centerText">Our Services</h1>
 
-    <div class="flex row center wrap" id="servicesList">
-            <h2>Logo Design</h2>
-            <h2>Business Cards</h2>
-            <h2>Promotional Material</h2>
-            <h2>Social Media</h2>
-            <h2>Brand Style Guide</h2>
-            <h2>Stationery</h2>
-            <h2>E-mail Blasts</h2>
-            <h2>Package Design</h2>        
-    </div>
+
+
+		<h1 id="servicesHeader" class="centerText">Our Services</h1>
+
+<div class="flex row center wrap" id="servicesList">
+		<h2>Logo Design</h2>
+		<h2>Business Cards</h2>
+		<h2>Promotional Material</h2>
+		<h2>Social Media</h2>
+		<h2>Brand Style Guide</h2>
+		<h2>Stationery</h2>
+		<h2>E-mail Blasts</h2>
+		<h2>Package Design</h2>        
+</div>
+
 
 	<!-- <div class="full flex center">
 		<h4 id="sectionHeader" class="flex column center">Services:</h4>
