@@ -1,6 +1,5 @@
 <header class="flex row center dark white-text">
 		<a href="/index.php" id="headerLogo">
-			<img src="/images/headerLogo.png">
 			<img src="images/headerLogo.png">
 		</a>
 		<a href="/pages/webDesign.php">Web Design</a>
