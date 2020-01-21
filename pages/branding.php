@@ -4,8 +4,10 @@
 	<link href="../index.css" rel="stylesheet" type="text/css">
     <link href="../pages/style.css" rel="stylesheet" type="text/css">
     <link href="../pages/branding.css" rel="stylesheet" type="text/css">
+	<link href="../pages/marketing.css" rel="stylesheet" type="text/css">
 	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
 	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
+
 </head>
 <body>
     <?php include "../sections/header.php";?>
