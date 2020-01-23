@@ -1,5 +1,8 @@
 #serviceBanner {
     height: auto;
+    background-image: url(../images/minimalBackground.png);
+    background-size: 114%;
+    background-position: bottom;
 }
 
 #serviceImage img{
