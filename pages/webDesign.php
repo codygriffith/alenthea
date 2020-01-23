@@ -11,7 +11,7 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<div id="serviceBanner" class="flex center-left column">
-	<div id="serviceImage" class="flex column center">
+	<div id="serviceImage" class="flex column">
             <img src="/images/webDesign2.svg">
         </div>
 		<!-- <h1>Website Design & Development</h1> -->
