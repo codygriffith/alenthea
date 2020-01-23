@@ -10,13 +10,17 @@
 </head>
 <body>
 	<?php include "../sections/header.php";?>
-	<div id="serviceBanner" class="flex center-left column">
+	<div id="bigOlText" class="flex column">
+            <img src="/images/logosBranding.png"> 
+        </div>
+        <h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+	<!-- <div id="serviceBanner" class="flex center-left column">
 	<div id="serviceImage" class="flex column">
             <img src="/images/webDesign2.svg">
-        </div>
+        </div> -->
 		<!-- <h1>Website Design & Development</h1> -->
-		<!-- <h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3> -->
-	</div>
+		<!-- <h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3>
+	</div> -->
 	
 	<div class="full flex center">
 		<h4 id="sectionHeader" class="flex column center">Our websites are loaded with features:</h4>
