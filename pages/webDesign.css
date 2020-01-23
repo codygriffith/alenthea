@@ -1,3 +1,7 @@
 #serviceBanner {
     height: auto;
 }
+
+#serviceImage img{
+    width: 85%;
+}
