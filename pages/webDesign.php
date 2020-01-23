@@ -10,7 +10,7 @@
 	<?php include "../sections/header.php";?>
 	<div id="serviceBanner" class="flex center-left column">
 	<div id="bigOlText" class="flex column">
-            <img src="/images/logosBranding.png"> 
+            <img src="/images/webDesign.svg"> 
         </div>
 		<!-- <h1>Website Design & Development</h1>
 		<h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3> -->
