@@ -3,8 +3,8 @@
 <head>
 	<link href="../index.css" rel="stylesheet" type="text/css">
 	<link href="../pages/style.css" rel="stylesheet" type="text/css">
-	<link href="../pages/branding.css" rel="stylesheet" type="text/css">
-    <link href="../pages/webDesign.css" rel="stylesheet" type="text/css">
+	<!-- <link href="../pages/branding.css" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="../pages/webDesign.css" rel="stylesheet" type="text/css"> -->
 	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
 	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
 </head>
@@ -14,8 +14,8 @@
 	<div id="bigOlText" class="flex column">
             <img src="/images/webDesign.svg"> 
         </div>
-		<!-- <h1>Website Design & Development</h1>
-		<h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3> -->
+		<h1>Website Design & Development</h1>
+		<h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3>
 	</div>
 	
 	<div class="full flex center">
