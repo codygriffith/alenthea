@@ -12,7 +12,7 @@
 	<?php include "../sections/header.php";?>
 	<div id="serviceBanner" class="flex center-left column">
 	<div id="serviceImage" class="flex column center">
-            <img src="/images/webDesign.svg">
+            <img src="/images/webDesign2.svg">
         </div>
 		<!-- <h1>Website Design & Development</h1> -->
 		<!-- <h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3> -->
