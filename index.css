@@ -214,10 +214,11 @@ header{
 	}
 
 	#homepage-pitch{
-		font-size: 3.5vw;
+		font-size: 3.75vw;
 		font-weight: 700;
 		padding:0 2%;
 		line-height: 150%;
+		text-align: justify;
 	}
   }
 
