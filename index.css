@@ -244,6 +244,11 @@ mobileHeader{
 	mobileHeader{
 		display: flex !important;
 	}
+
+	#toggle{
+		font-size: 14vw;
+		padding: 4vw;
+	}
   }
 
 

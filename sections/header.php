@@ -14,7 +14,7 @@
 	<a href="/index.php" id="headerLogo">
 			<img src="../alenthea/images/headerLogo.png">
 		</a>
-		<div id="toggle">bar</div>
+		<div id="toggle">=</div>
 	</div>
 		
 		<a href="/pages/webDesign.php">Web Design</a>
