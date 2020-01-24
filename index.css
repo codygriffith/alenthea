@@ -207,7 +207,10 @@ header{
 	}
 
 	#heroImage{
-		height: 30vh;
+		height: 100vh;
+	}
+	#heroImage img {
+		width: 60%;
 	}
   }
 
