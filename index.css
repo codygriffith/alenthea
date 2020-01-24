@@ -212,6 +212,10 @@ header{
 	#heroImage img {
 		width: 60%;
 	}
+
+	#homepage-pitch{
+		font-size: 3.5vw;
+	}
   }
 
 
