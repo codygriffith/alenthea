@@ -209,10 +209,13 @@ mobileHeader{
 
 
 @media only screen and (max-width: 800px) {
-	header a {
-		font-size: 3vw;
+	mobileHeader a {
+		font-size: 8vw;
+		padding-right: 4vw;
+		text-decoration: none;
 	}
 
+	
 	#heroImage{
 		height: 90vh;
 	}
@@ -243,12 +246,35 @@ mobileHeader{
 
 	mobileHeader{
 		display: flex !important;
+		text-align: right;
+		padding-bottom: 2vw;
 	}
 
 	#toggle{
 		font-size: 14vw;
-		padding: 4vw;
+		padding: 2vw 4vw;
 	}
+
+	#mobileHeaderLinks {
+		display: contents;
+		font-size: 8vw;
+		height: 0;
+
+	}
+
+	.mobileHeaderLinks {
+		line-height: 150%;
+		/* display: none; */
+		font-size: inherit;
+		height: inherit;
+		overflow: hidden;
+		transition: height .5s ;
+
+	}
+  }
+
+  .toggle {
+	  height: 10vh !important;
   }
 
 
