@@ -201,9 +201,13 @@ header{
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
 	header a {
 		font-size: 3vw;
+	}
+
+	#heroImage{
+		height: 30vh;
 	}
   }
 
