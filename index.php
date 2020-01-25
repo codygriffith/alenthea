@@ -19,45 +19,57 @@
 	<div id="heroImage" class="flex center">
 		<img src="images/alentheaFullLogo.svg">
 	</div>
-	<div class="flex row center full" id="services">
+	<div class="flex row center full wrap" id="services">
 		<div class="flex column center serviceTile">
-			<div class="flex medium full center serviceIcon">
-				<img src="images/desktop.png">
+		<div class="flex medium full center serviceIcon desktopServiceIcon">
+				<img src="images/webDev-light.svg">
 			</div>
-			<div class="flex column center serviceTileContent light">
+			<div class="flex medium full center serviceIcon mobileServiceIcon">
+				<img src="images/webDev-dark.svg">
+			</div>
+			<div id="webDesign" class="flex column center serviceTileContent light">
 				<h2>Web Design</h1>
 				<p>Mobile friendly, responsive, and beautiful across all devices.</P>
 				<a href="/pages/webDesign.php" class="button">View More</a>
 			</div>
 		</div>
 		<div class="flex column center serviceTile">
-			<div class="flex medium full center serviceIcon">
-				<img src="images/desktop.png">
+		<div class="flex medium full center serviceIcon desktopServiceIcon">
+				<img src="images/ecommerce-light.svg">
 			</div>
-			<div class="flex column center serviceTileContent light">
+			<div id="ecommerce" class="flex column center serviceTileContent light">
 				<h2>E-Commerce</h1>
 				<p>Grow your customer base and reach new potential.</P>
 				<a href="/pages/ecommerce.php" class="button">View More</a>
 			</div>
+			<div  class="flex medium full center serviceIcon mobileServiceIcon">
+				<img src="images/ecommerce-dark.svg">
+			</div>
 		</div>
 		<div class="flex column center serviceTile">
-			<div class="flex medium full center serviceIcon">
-				<img src="images/desktop.png">
+			<div class="flex medium full center serviceIcon desktopServiceIcon">
+				<img src="images/ecommerce-light.svg">
 			</div>
-			<div class="flex column center serviceTileContent light">
+			<div class="flex medium full center serviceIcon mobileServiceIcon">
+				<img src="images/ecommerce-dark.svg">
+			</div>
+			<div id="onlineMarketing" class="flex column center serviceTileContent light">
 				<h2>Online Marketing</h1>
 				<p>Spread awareness for your products or brand.</P>
 				<a href="/pages/marketing.php" class="button">View More</a>
 			</div>
 		</div>
 		<div class="flex column center serviceTile">
-			<div class="flex medium full center serviceIcon">
-				<img src="images/desktop.png">
+		<div class="flex medium full center serviceIcon desktopServiceIcon">
+				<img src="images/ecommerce-light.svg">
 			</div>
-			<div class="flex column center serviceTileContent light">
+			<div id="logosBranding" class="flex column center serviceTileContent light">
 				<h2>Logos & Branding</h1>
 				<p>Give your brand a new, fresh, and timeless appearance.</P>
 				<a href="/pages/logos.php" class="button">View More</a>
+			</div>
+			<div class="flex medium full center serviceIcon mobileServiceIcon">
+				<img src="images/ecommerce-dark.svg">
 			</div>
 		</div>
 	</div>

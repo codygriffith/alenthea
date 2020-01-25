@@ -83,7 +83,7 @@ header{
 }
 
 .light {
-	background-color:rgba(205,209,218,1);
+	/* background-color:rgba(205,209,218,1); */
 }
 
 .medium {
@@ -206,6 +206,9 @@ mobileHeader{
 	display: none !important;
 }
 
+.mobileServiceIcon {
+	display: none;
+}
 
 
 @media only screen and (max-width: 800px) {
@@ -278,9 +281,78 @@ mobileHeader{
 	}
 
 	#toggleBar:hover {
-		
-cursor: pointer !important;
+		cursor: pointer !important;
 	}
+
+	.serviceTile{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		padding: 6% 3%;
+	}
+
+	.serviceIcon{
+		width: 25%;
+	}
+	.serviceIcon img{
+		width: 80%;
+	}
+
+	#services{
+		margin-top: 0;
+	}
+
+	.serviceTileContent {
+		width: 72%;
+	}
+
+	.serviceTileContent h2{
+		font-size: 7vw;
+	}
+
+	.serviceTileContent p{
+		font-size: 3.8vw;
+		text-align: inherit;
+		width: 90%;
+		/* display: none; */
+	}
+
+	.serviceTileContent a{
+		font-size: 3.5vw;
+	}
+
+	.serviceIcon::before, .serviceIcon::after {
+		content: "";
+		border-top: .2vw white solid;
+		width: 40%;
+		display: none;
+	}
+
+	#webDesign, #onlineMarketing {
+		align-items: flex-end;
+	}
+
+	#ecommerce, #logosBranding{
+		align-items: flex-start;
+	}
+
+	#webDesign p, #onlineMarketing p{
+		text-align: end;
+	}
+
+	.serviceIcon{
+		background-color: rgba(0,0,0,0);
+	}
+
+	.mobileServiceIcon {
+		display: initial;
+	}
+
+	.desktopServiceIcon {
+		display: none;
+	}
+
+
   }
 
   .toggle {
