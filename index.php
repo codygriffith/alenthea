@@ -17,15 +17,15 @@
 <body>
 	<?php include 'sections/header.php';?>
 	<div id="heroImage" class="flex center">
-		<img src="images/alentheaFullLogo.svg">
+		<img src="/images/alentheaFullLogo.svg">
 	</div>
 	<div class="flex row center full wrap" id="services">
 		<div class="flex column center serviceTile">
 		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="images/webDev-light.svg">
+				<img src="/images/webDev-light.svg">
 			</div>
 			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="images/webDev-dark.svg">
+				<img src="/images/webDev-dark.svg">
 			</div>
 			<div id="webDesign" class="flex column center serviceTileContent light">
 				<h2>Web Design</h1>
@@ -35,7 +35,7 @@
 		</div>
 		<div class="flex column center serviceTile">
 		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="images/ecommerce-light.svg">
+				<img src="/images/ecommerce-light.svg">
 			</div>
 			<div id="ecommerce" class="flex column center serviceTileContent light">
 				<h2>E-Commerce</h1>
@@ -43,15 +43,15 @@
 				<a href="/pages/ecommerce.php" class="button">View More</a>
 			</div>
 			<div  class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="images/ecommerce-dark.svg">
+				<img src="/images/ecommerce-dark.svg">
 			</div>
 		</div>
 		<div class="flex column center serviceTile">
 			<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="images/ecommerce-light.svg">
+				<img src="/images/ecommerce-light.svg">
 			</div>
 			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="images/ecommerce-dark.svg">
+				<img src="/images/ecommerce-dark.svg">
 			</div>
 			<div id="onlineMarketing" class="flex column center serviceTileContent light">
 				<h2>Online Marketing</h1>
@@ -61,7 +61,7 @@
 		</div>
 		<div class="flex column center serviceTile">
 		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="images/ecommerce-light.svg">
+				<img src="/images/ecommerce-light.svg">
 			</div>
 			<div id="logosBranding" class="flex column center serviceTileContent light">
 				<h2>Logos & Branding</h1>
@@ -75,7 +75,7 @@
 	</div>
 	<p id="homepage-pitch" class="font-two">Our <span class="text-highlight">Hand-Crafted</span> Solutions  are uniquely developed for each individual client for a product that stands out from the rest and delivers <span class="text-highlight">Complete Satisfaction</span> for both yourself and users alike.</p>
 	<div class="flex center row light" id="missionBanner">
-		<img src="images/alentheaFullDark">
+		<img src="/images/alentheaFullDark.png">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br>No Matter How Big Or Small.</h3>
 	</div>
 	<?php include 'sections/contact.php';?>
