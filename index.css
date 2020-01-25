@@ -79,7 +79,7 @@ header{
 
 /* Color */
 .dark {
-	/* background-color:rgba(0,0,0,.95); */
+	background-color:rgba(0,0,0,.95);
 }
 
 .light {
@@ -203,7 +203,7 @@ header{
 }
 
 mobileHeader{
-	display: none !important;
+	/* display: none !important; */
 }
 
 
@@ -274,6 +274,11 @@ mobileHeader{
 		overflow: hidden;
 		transition: height .5s;
 		padding-right: 4vw;
+		background-color: #000000d4;
+	}
+
+	#toggleBar:hover {
+		cursor: pointer !important;
 	}
   }
 
