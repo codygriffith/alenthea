@@ -76,7 +76,7 @@
 	<p id="homepage-pitch" class="font-two">Our <span class="text-highlight">Hand-Crafted</span> Solutions  are uniquely developed for each individual client for a product that stands out from the rest and delivers <span class="text-highlight">Complete Satisfaction</span> for both yourself and users alike.</p>
 	<div class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullDark.png">
-		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br>No Matter How Big Or Small.</h3>
+		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br> No Matter How Big Or Small.</h3>
 	</div>
 	<?php include 'sections/contact.php';?>
 	<?php include 'sections/footer.php';?>

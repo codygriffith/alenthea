@@ -199,7 +199,7 @@ header{
 
 #missionBanner img{
 	width: 15vw;
-	padding: 2% 0;
+	padding: 1.5% 1%;
 }
 
 mobileHeader{
@@ -227,11 +227,12 @@ mobileHeader{
 	}
 
 	#homepage-pitch{
-		font-size: 4.50vw;
+		font-size: 4.5vw;
 		font-weight: 700;
 		padding:0 2%;
 		line-height: 150%;
 		text-align: justify;
+		display: none;
 	}
 
 	#headerContact {
@@ -351,7 +352,20 @@ mobileHeader{
 	.desktopServiceIcon {
 		display: none;
 	}
-
+	#missionBanner h3{
+		font-size: 4vw;
+		padding: 0 2%;
+	}
+	#missionBanner br{
+		display: none;
+			}
+	.contactHeader {
+		display: none;
+	}
+	#mobileContactHeader{
+		display: block;
+	}
+	
 
   }
 

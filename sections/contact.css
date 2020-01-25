@@ -16,7 +16,7 @@ textarea {
     width: 100%;
 }
 
-#contactHeader {
+.contactHeader {
     width: auto;
     font-size: 3vw;
     color: #1d1d1d;
