@@ -203,7 +203,7 @@ header{
 }
 
 mobileHeader{
-	/* display: none !important; */
+	display: none !important;
 }
 
 
@@ -278,7 +278,8 @@ mobileHeader{
 	}
 
 	#toggleBar:hover {
-		cursor: pointer !important;
+		
+cursor: pointer !important;
 	}
   }
 

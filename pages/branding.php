@@ -6,7 +6,7 @@
     <link href="../pages/branding.css" rel="stylesheet" type="text/css">
 	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
 	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
-
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
     <?php include "../sections/header.php";?>

@@ -5,6 +5,7 @@
 <title>Contact Us</title>
 <link href="/index.css" rel="stylesheet" type="text/css">
 <!-- <meta http-equiv="refresh" content="1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
