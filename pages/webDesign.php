@@ -52,11 +52,11 @@
 			<!-- <a class="button">Yeet me</a> -->
 		</div>
 	</div>
-	<div id="bigOlText" class="flex column">
+	<div id="bigOlText" class="flex column secondBigText">
 		<h1>Latest Technologies;</h1>
 		<h1>Highest Standards.</h1>
 	</div>
-	<p id="littleOlText">We build our sites to last the test of time. We use the latest technologies and the best inustry practices for a product that works across any device for years to come.</p>
+	<p id="littleOlText" class="secondLittleText">We build our sites to last the test of time. We use the latest technologies and the best inustry practices for a product that works across any device for years to come.</p>
 	<!-- <?php include "../sections/blog.php";?> -->
 	<br>
 	<?php include "../sections/contact.php";?>

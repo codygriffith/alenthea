@@ -40,7 +40,9 @@
         font-size: 4.45vw;
     }
     #bigOlText {
-        padding-bottom: 5vh;
+        padding-bottom: 4vw;
+        padding-top: 4vw;
+        /* padding-right: 3vw; */
     }
     #bigOlText img {
         width: 100%;
@@ -64,6 +66,19 @@
         font-size: 4.2vw;
         font-weight: 500;
         padding-bottom: 2vw;
+    }
+
+    .secondBigText{
+        padding-right: 2vw !important;
+        padding-left: 2vw !important;
+    }
+
+    .secondBigText h1{
+        font-size: 8.75vw;
+    }
+
+    .secondLittleText {
+        display: none;
     }
 
 }
