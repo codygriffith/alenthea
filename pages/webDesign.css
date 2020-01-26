@@ -33,7 +33,8 @@
         width: 96%;
     }
     #sectionHeader{
-        font-size: 4.5vw;
+        font-size: 6.5vw;
+        margin: 5% 0px 4% 0%;
     }
     #littleOlText {
         font-size: 4.45vw;
@@ -44,4 +45,25 @@
     #bigOlText img {
         width: 100%;
     }
+
+    #serviceTiles{
+        flex-direction: column;
+        
+    }
+
+    #serviceTiles h1{
+        font-size: 6vw;
+    }
+
+    #serviceTiles div{
+        width: 85%;
+        margin-bottom: 5vw;
+    }
+
+    #serviceTiles p{
+        font-size: 4.2vw;
+        font-weight: 500;
+        padding-bottom: 2vw;
+    }
+
 }

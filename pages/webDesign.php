@@ -24,7 +24,7 @@
 	</div> -->
 	
 	<div class="full flex center">
-		<h4 id="sectionHeader" class="flex column center">Our websites are loaded with features:</h4>
+		<h4 id="sectionHeader" class="flex column center">Loaded with features:</h4>
 	</div>
 
 	<div class="flex row wrap center" id="serviceTiles">
