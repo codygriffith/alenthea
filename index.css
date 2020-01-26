@@ -376,11 +376,12 @@ mobileHeader{
 		box-shadow: none !important;
 	}
 	#mobileContactHeader{
-		font-size: 5vw;
+		font-size: 6.5vw;
 		display: block;
 		width: fit-content;
 		margin: auto !important;
 		text-shadow: none;
+		margin-bottom: 2vw !important;
 	}
 
 	#missionBanner img{
@@ -388,11 +389,13 @@ mobileHeader{
 	}
 	#homepageContact {
 		flex-direction: column;
+		padding: 0 5% !important;
 	}
 	#contactName, #contactEmail {
 		width: 100% !important;
-		font-size: 5.25vw;
+		font-size: 6.25vw;
 		background-color: #e6e8ed;
+		padding: 1% !important;
 	}
 
 	form * {
@@ -404,8 +407,9 @@ mobileHeader{
 	}
 
 	textarea {
-		font-size: 5.25vw !important;
+		font-size: 6.25vw !important;
 		background-color: #e6e8ed;
+		padding: 1% !important;
 	}
 
 	.serviceTileContent * {
@@ -413,8 +417,10 @@ mobileHeader{
 	}
 
 	#contactSubmit{
-		
-font-size: 6vw !important;
+		font-size: 7vw !important;
+		display: block;
+		width: fit-content;
+		margin: auto !important;
 	}
 	
 
