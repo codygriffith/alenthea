@@ -13,7 +13,7 @@ body * {
 
 /* Header */
 #headerLogo img {
-	width: 2.75vw;
+	width: 5.75vw;
 }
 
 header a {
@@ -248,9 +248,10 @@ mobileHeader{
 	}
 
 	#headerLogo img{
-		width: 10vw;
+		width: 16vw;
 		/* padding: 4vw; */
-		padding-left: 3vw;
+		padding-left: 2vw;
+		margin-bottom: -2vw;
 	}
 
 	mobileHeader{

@@ -1,6 +1,6 @@
 <header class="flex row center dark white-text">
 		<a href="/index.php" id="headerLogo">
-			<img src="/images/headerLogo.png">
+			<img src="/images/alentheaFullLogo_light.svg">
 		</a>
 		<a href="/pages/webDesign.php">Web Design</a>
 		<a href="/pages/branding.php">Logos & Branding</a>
@@ -12,7 +12,7 @@
 <mobileHeader class="flex column dark white-text">
 	<div onclick="myFunction()" id="toggleBar" class="row flex center space-between full">
 	<a href="/index.php" id="headerLogo">
-			<img src="/images/headerLogo.png">
+			<img src="/images/alentheaFullLogo_light.svg">
 		</a>
 		<div id="toggle">=</div>
 	</div>

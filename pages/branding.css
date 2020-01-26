@@ -256,3 +256,10 @@
     font-weight: 700;
     text-shadow: darkgrey 0.1vw 0.1vw;
 }
+
+
+@media only screen and (max-width: 800px) {
+    mobileHeader{
+        position: unset;
+    }
+}
