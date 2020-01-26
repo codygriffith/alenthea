@@ -21,7 +21,7 @@ textarea {
     font-size: 3vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
-    box-shadow: #59647b 0vw 0.1vw;
+    box-shadow: #59647b 0vw 0.05vw;
     background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
     margin: auto;
     line-height: 100%;

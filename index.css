@@ -210,6 +210,10 @@ mobileHeader{
 	display: none;
 }
 
+#mobileContactHeader {
+	display: none;
+}
+
 
 @media only screen and (max-width: 800px) {
 	mobileHeader a {
@@ -289,7 +293,7 @@ mobileHeader{
 		width: 100%;
 		display: flex;
 		flex-direction: row;
-		padding: 6% 3%;
+		padding: 6% 2%;
 	}
 
 	.serviceIcon{
@@ -308,18 +312,24 @@ mobileHeader{
 	}
 
 	.serviceTileContent h2{
-		font-size: 7vw;
+		font-size: 7.75vw;
+		color: rgba(27, 27, 27, 0.6784313725490196);
+		font-weight: 700;
 	}
 
 	.serviceTileContent p{
-		font-size: 3.8vw;
+		font-size: 4.6vw;
 		text-align: inherit;
-		width: 90%;
+		width: 98%;
 		/* display: none; */
+		margin-left: 1vw;
+		margin-right: 1vw;
+		font-weight: 400;
 	}
 
 	.serviceTileContent a{
 		font-size: 3.5vw;
+		margin-top: 3vw;
 	}
 
 	.serviceIcon::before, .serviceIcon::after {
@@ -339,6 +349,8 @@ mobileHeader{
 
 	#webDesign p, #onlineMarketing p{
 		text-align: end;
+		line-height: 6vw;
+		opacity: .85;
 	}
 
 	.serviceIcon{
@@ -353,7 +365,7 @@ mobileHeader{
 		display: none;
 	}
 	#missionBanner h3{
-		font-size: 4vw;
+		font-size: 4.25vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
@@ -361,9 +373,48 @@ mobileHeader{
 			}
 	.contactHeader {
 		display: none;
+		box-shadow: none !important;
 	}
 	#mobileContactHeader{
+		font-size: 5vw;
 		display: block;
+		width: fit-content;
+		margin: auto !important;
+		text-shadow: none;
+	}
+
+	#missionBanner img{
+		width: 25%;
+	}
+	#homepageContact {
+		flex-direction: column;
+	}
+	#contactName, #contactEmail {
+		width: 100% !important;
+		font-size: 5.25vw;
+		background-color: #e6e8ed;
+	}
+
+	form * {
+		margin: 0 !important;
+		font-size: 2vw;
+		padding: 0 !important;
+		border: none;
+		margin-top: 2vw !important;
+	}
+
+	textarea {
+		font-size: 5.25vw !important;
+		background-color: #e6e8ed;
+	}
+
+	.serviceTileContent * {
+		margin: 0;
+	}
+
+	#contactSubmit{
+		
+font-size: 6vw !important;
 	}
 	
 
