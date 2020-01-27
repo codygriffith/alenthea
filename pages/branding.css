@@ -201,6 +201,8 @@
 
 #servicesList {
     justify-content: center;
+    -webkit-justify-content: center;
+
 }
 
 #servicesList h1{
