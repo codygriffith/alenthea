@@ -200,7 +200,7 @@
 }
 
 #servicesList {
-    justify-content: space-between;
+    justify-content: center;
 }
 
 #servicesList h1{
@@ -261,5 +261,11 @@
 @media only screen and (max-width: 800px) {
     mobileHeader{
         position: unset;
+    }
+
+    #servicesList h2{
+        font-size: 5.25vw;
+        padding: 1%;
+        margin: 2%;
     }
 }
