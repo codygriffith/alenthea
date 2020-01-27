@@ -25,7 +25,7 @@
 				<img src="/images/webDev-light.svg">
 			</div>
 			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/webDev-dark.svg">
+				<img src="/images/webDev-darkest.svg">
 			</div>
 			<div id="webDesign" class="flex column center serviceTileContent light">
 				<h2>Web Design</h1>
@@ -43,7 +43,7 @@
 				<a href="/pages/ecommerce.php" class="button">View More</a>
 			</div>
 			<div  class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/ecommerce-dark.svg">
+				<img src="/images/ecommerce-darkest.svg">
 			</div>
 		</div>
 		<div class="flex column center serviceTile">
@@ -51,7 +51,7 @@
 				<img src="/images/ecommerce-light.svg">
 			</div>
 			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/ecommerce-dark.svg">
+				<img src="/images/onlineMarketing-darkest.svg">
 			</div>
 			<div id="onlineMarketing" class="flex column center serviceTileContent light">
 				<h2>Online Marketing</h1>
@@ -69,7 +69,7 @@
 				<a href="/pages/logos.php" class="button">View More</a>
 			</div>
 			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="images/ecommerce-dark.svg">
+				<img src="images/logoBranding-darkest.svg">
 			</div>
 		</div>
 	</div>

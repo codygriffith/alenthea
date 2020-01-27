@@ -241,7 +241,7 @@ mobileHeader{
 	}
 
 	#headerContact {
-		display: none;
+	margin-bottom: 1vw;
 	}
 
 	header{
@@ -270,7 +270,7 @@ mobileHeader{
 
 	#mobileHeaderLinks {
 		display: contents;
-		font-size: 8vw;
+		font-size: 7.5vw;
 		height: 0;
 		/* padding-right: 2vw; */
 		opacity: .5;
@@ -285,6 +285,7 @@ mobileHeader{
 		transition: height .5s;
 		padding-right: 4vw;
 		background-color: #000000d4;
+		/* padding-bottom: 3vw; */
 	}
 
 	#toggleBar:hover {
@@ -302,7 +303,8 @@ mobileHeader{
 		width: 25%;
 	}
 	.serviceIcon img{
-		width: 80%;
+		width: 84%;
+		opacity: 0.9;
 	}
 
 	#services{
@@ -315,8 +317,10 @@ mobileHeader{
 
 	.serviceTileContent h2{
 		font-size: 7.75vw;
-		color: rgba(27, 27, 27, 0.6784313725490196);
+		/* color: rgba(27, 27, 27, 0.6784313725490196); */
 		font-weight: 700;
+		color: #1b1b1b;
+		opacity: .9;
 	}
 
 	.serviceTileContent p{
@@ -367,7 +371,7 @@ mobileHeader{
 		display: none;
 	}
 	#missionBanner h3{
-		font-size: 4.25vw;
+		font-size: 4.75vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
@@ -384,6 +388,7 @@ mobileHeader{
 		margin: auto !important;
 		text-shadow: none;
 		margin-bottom: 2vw !important;
+		margin-top: 2vw !important;
 	}
 
 	#missionBanner img{
@@ -429,7 +434,7 @@ mobileHeader{
   }
 
   .toggle {
-	  height: 10vh !important;
-  }
+	  height: 11vh !important;
+	 }
 
 
