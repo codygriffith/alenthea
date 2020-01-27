@@ -25,13 +25,13 @@
 		<h1 id="servicesHeader" class="centerText">Our Services</h1>
 
 <div class="flex row center wrap" id="servicesList">
-		<h2>Logo Design</h2>
-		<h2>Business Cards</h2>
-		<h2>Promotional Material</h2>
+		<h2>E-Commerce</h2>
+		<h2>Lead Collection</h2>
+		<h2>Local Search</h2>
+		<h2>Ad Campaigns</h2>
+		<h2>Mailing Lists</h2>
 		<h2>Social Media</h2>
-		<h2>Brand Style Guide</h2>
-		<h2>Stationery</h2>
-		<h2>E-mail Blasts</h2>
+		<h2>Sales Funnels</h2>
 		<h2>Package Design</h2>        
 </div>
 
