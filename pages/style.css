@@ -91,8 +91,8 @@
     padding-left: 6%;
     padding-right: 6%;
     padding-right: 15vw;
-    padding-top: 2vh;
-    padding-bottom: 12vh;
+    padding-top: 2vw;
+    padding-bottom: 7vw;
     color: #ecf3ff;
     background-color: rgba(0,0,0,.95);
     background-image: url("../images/starsBackground.jpg");
@@ -102,6 +102,7 @@
 #bigOlText h1:nth-child(2){
     text-align: end;
     margin-top: 3vw;
+    text-align: right;
 }
 
 #littleOlText {
