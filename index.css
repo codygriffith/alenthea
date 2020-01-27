@@ -116,7 +116,7 @@ header{
 }
 
 #heroImage img {
-	height: 70%;
+	width: 64%;
 	margin: auto;
 }
 
@@ -155,13 +155,13 @@ header{
 
 #homepage-pitch {
 	padding: 0 5%;
-	font-size: 2vw;
-    color: #1b1b1b;
-    line-height: 140%;
-    margin: 3.5% 0;
-    text-shadow: grey 0.05vw 0.05vw;
-    font-style: italic;
-    font-weight: 500;
+	font-size: 1.85vw;
+	color: #1b1b1b;
+	line-height: 140%;
+	margin: 3.5% 0;
+	text-shadow: grey 0.05vw 0.05vw;
+	font-style: italic;
+	font-weight: 500;
 	text-align: left;
 }
 
@@ -201,7 +201,7 @@ header{
 }
 
 #missionBanner h3{
-	font-size: 2.5vw;
+	font-size: 2.25vw;
 	margin: auto;
 	padding: 0 5%;
 	color: #1b1b1b;
@@ -214,7 +214,7 @@ header{
 }
 
 #missionBanner img{
-	width: 15vw;
+	width: 12vw;
 	padding: 1.5% 1%;
 	margin: auto;
 }
@@ -231,6 +231,21 @@ mobileHeader{
 	display: none;
 }
 
+@media screen and (min-width: 800px) {
+    header a{
+        font-size: 2.25vw !important;
+	}
+	#headerLogo img{
+		width: 6vw;
+	}
+	#heroImage img {
+		width: 27% !important;
+		margin-top: 4vw;
+	}
+	#heroImage {
+		height: 35vw;
+	}
+}
 
 @media only screen and (max-width: 800px) {
 	mobileHeader a {
