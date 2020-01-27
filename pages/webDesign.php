@@ -56,7 +56,7 @@
 		<h1>Latest Technologies;</h1>
 		<h1>Highest Standards.</h1>
 	</div>
-	<p id="littleOlText" class="secondLittleText">We build our sites to last the test of time. We use the latest technologies and the best inustry practices for a product that works across any device for years to come.</p>
+	<p id="littleOlText" class="secondLittleText">Our sites woirk exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
 	<!-- <?php include "../sections/blog.php";?> -->
 	<br>
 	<?php include "../sections/contact.php";?>

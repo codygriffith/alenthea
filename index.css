@@ -13,12 +13,13 @@ body * {
 
 /* Header */
 #headerLogo img {
-	width: 5.75vw;
+	width: 8vw;
 }
 
 header a {
-	font-size: 2vw;
+	font-size: 2.5vw;
 	text-decoration: none;
+	padding-right: 4vw;
 }
 
 

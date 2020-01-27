@@ -264,8 +264,34 @@
     }
 
     #servicesList h2{
-        font-size: 5.25vw;
-        padding: 1%;
-        margin: 2%;
+        font-size: 5.25vw !important;
+        padding: 1% !important;
+        margin: 2% !important;
+    }
+    #bigOlText{
+        padding-bottom: 8vw;
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+    #bigOlText img{
+        width: 90vw;
+    }
+    #littleOlText{
+        font-size: 4vw;
+        width: 90%;
+    }
+    #servicesHeader {
+    font-size: 6.5vw;
+}
+
+    #propBoxes {
+        flex-direction: column;
+        align-items: center !important;
+    }
+    #propBoxes p{
+        font-size: 5vw !important;
+        width: 85vw !important;
+        margin: 2vw;
+        padding: 1vw !important;
     }
 }

@@ -92,7 +92,7 @@
     padding-right: 6%;
     padding-right: 15vw;
     padding-top: 2vh;
-    padding-bottom: 14vh;
+    padding-bottom: 12vh;
     color: #ecf3ff;
     background-color: rgba(0,0,0,.95);
     background-image: url("../images/starsBackground.jpg");
@@ -107,7 +107,7 @@
 #littleOlText {
     font-size: 2vw;
     color: #1d1d1d;
-    width: 80%;
+    width: 90%;
     margin: auto;
     margin-top: -4vw;
     background-color: #ecf3ff;
