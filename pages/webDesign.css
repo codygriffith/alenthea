@@ -11,15 +11,14 @@
 }
 
 #bigOlText img {
-    width: 72vw;
+    width: 51vw;
 }
 
 
 
 #littleOlText {
-    font-size: 2.75vw;
+    font-size: 2.3vw;
     font-weight: 700;
-    text-align: center;
 }
 
 @media only screen and (max-width: 800px) {
@@ -37,6 +36,7 @@
     }
     #littleOlText {
         font-size: 4.45vw;
+        text-align: center;
     }
     #bigOlText {
         padding-bottom: 7vw;

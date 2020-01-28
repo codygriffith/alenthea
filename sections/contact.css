@@ -4,7 +4,7 @@
 
 form * {
     margin: 1%;
-    font-size: 2vw;
+    font-size: 1.7vw;
     padding: .5vw;
 }
 
@@ -18,7 +18,7 @@ textarea {
 
 .contactHeader {
     width: auto;
-    font-size: 3vw;
+    font-size: 2.5vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.05vw;
@@ -39,7 +39,7 @@ textarea {
 
 #contactSubmit {
     font-weight: 600;
-    font-size: 2.25vw;
+    font-size: 1.8vw;
     margin-top: 0;
 }
 

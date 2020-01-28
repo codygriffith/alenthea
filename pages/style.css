@@ -27,14 +27,14 @@
 
 #serviceTiles {
     justify-content: space-between;
-    width: 98%;
+    width: 95%;
     margin: auto;
     margin-bottom: 4vw;
 }
 
 #serviceTiles div {
-    width: 28.5%;
-    padding: 1% 2%;
+    width: 28%;
+    padding: 1% 1%;
     background-color:rgba(88, 100, 125, 0.15);
     border-radius: .2vw;
     box-shadow: grey .1vw .1vw .2vw;
@@ -42,14 +42,16 @@
 }
 #serviceTiles h1 {
     margin-bottom: 2%;
-    font-size: 2vw;
+    font-size: 1.8vw;
     color: #232b3b;
 }
 
 #serviceTiles p{
     margin-left: 4%;
     text-align: justify;
-    font-size: 1.40vw;
+    font-size: 1.3vw;
+    font-weight: 500;
+    opacity: 0.7;
 }
 
 #serviceTiles a {
@@ -62,7 +64,7 @@
 
 #sectionHeader {
     width: auto;
-    font-size: 3vw;
+    font-size: 2.5vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
@@ -72,7 +74,6 @@
     margin-bottom: 1vw;
     text-align: center;
     display: inline;
-
 }
 
 #homepage-pitch {
@@ -87,7 +88,7 @@
 }
 
 #bigOlText {
-    font-size: 2.75vw;
+    font-size: 2.5vw;
     padding-left: 6%;
     padding-right: 6%;
     padding-right: 15vw;
@@ -101,7 +102,7 @@
 
 #bigOlText h1:nth-child(2){
     text-align: end;
-    margin-top: 3vw;
+    margin-top: 2vw;
     text-align: right;
 }
 

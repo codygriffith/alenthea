@@ -27,7 +27,7 @@ header a {
 
 
 header{
-	padding: 1vw;
+	padding: 0.5vw;
 }
 
 /* Flex */
@@ -96,7 +96,7 @@ header{
 }
 
 .light {
-	/* background-color:rgba(205,209,218,1); */
+	background-color:rgba(205,209,218,1);
 }
 
 .medium {
@@ -135,7 +135,7 @@ header{
 }
 
 .serviceTileContent p{
-	font-size: 1.5vw;
+	font-size: 1.4vw;
 }
 
 .serviceIcon {
@@ -143,7 +143,7 @@ header{
 }
 
 .serviceIcon img{
-	width: 15%;
+	width: 4.5vw;
 	padding: 0 2%;
 }
 
@@ -179,7 +179,7 @@ header{
 }
 
 .serviceTileContent h2 {
-	font-size: 2vw;
+	font-size: 1.75vw;
 	font-weight: 500;
 }
 
@@ -187,7 +187,7 @@ header{
 	text-decoration: none;
 	background: none;
 	border: none;
-	font-size: 1.6vw;
+	font-size: 1.4vw;
 	padding: 0;
 	border-bottom: .25vw solid rgba(89, 100, 123, .65);
 	color: black;
@@ -236,7 +236,7 @@ mobileHeader{
         font-size: 2.25vw !important;
 	}
 	#headerLogo img{
-		width: 6vw;
+		width: 5vw;
 	}
 	#heroImage img {
 		width: 27% !important;
@@ -344,6 +344,7 @@ mobileHeader{
 
 	.serviceTileContent {
 		width: 72%;
+		background-color: unset !important;
 	}
 
 	.serviceTileContent h2{
