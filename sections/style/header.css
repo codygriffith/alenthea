@@ -1,0 +1,102 @@
+/* Header */
+#headerLogo img {
+	width: 8vw;
+}
+
+header a {
+	font-size: 2.7vw;
+	text-decoration: none;
+	padding-right: 4vw;
+}
+
+
+header{
+	padding: 0.5vw;
+}
+
+
+mobileHeader{
+	display: none !important;
+}
+
+.mobileServiceIcon {
+	display: none;
+}
+
+#mobileContactHeader {
+	display: none;
+}
+.toggle {
+    height: 11vh !important;
+   }
+
+@media screen and (max-width: 800px) {
+    mobileHeader a {
+		font-size: 8vw;
+		/* padding-right: 4vw; */
+		text-decoration: none;
+    }
+    
+	#headerLogo img{
+		width: 5vw;
+	}
+	
+
+    mobileHeader a {
+		font-size: 8vw;
+		/* padding-right: 4vw; */
+		text-decoration: none;
+	}
+
+	#headerContact {
+	margin-bottom: 1vw;
+	}
+
+	header{
+		display: none !important;
+	}
+
+	#headerLogo img{
+		width: 16vw;
+		/* padding: 4vw; */
+		padding-left: 2vw;
+		margin-bottom: -2vw;
+	}
+
+	mobileHeader{
+		display: flex !important;
+		text-align: right;
+		/* padding-bottom: 2vw; */
+		position: absolute;
+		width: 100%;
+	}
+
+	#toggle{
+		font-size: 14vw;
+		padding-right: 2vw;
+	}
+
+	#mobileHeaderLinks {
+		display: contents;
+		font-size: 7.5vw;
+		height: 0;
+		/* padding-right: 2vw; */
+		opacity: .5;
+	}
+
+	.mobileHeaderLinks {
+		line-height: 150%;
+		/* display: none; */
+		font-size: inherit;
+		height: inherit;
+		overflow: hidden;
+		transition: height .5s;
+		padding-right: 4vw;
+		background-color: #000000d4;
+		/* padding-bottom: 3vw; */
+	}
+
+	#toggleBar:hover {
+		cursor: pointer !important;
+	}
+}

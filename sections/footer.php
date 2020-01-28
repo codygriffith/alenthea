@@ -1,3 +1,6 @@
+<style>
+<?php include 'style/footer.css'; ?>
+</style>
 <footer class="flex row center dark white-text thin-text">
     <div id="footerPhone" class="flex footerContact column center">
         <h1>Give Us A Call</h1>

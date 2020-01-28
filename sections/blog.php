@@ -1,3 +1,6 @@
+<style>
+<?php include '/sections/style/header.css'; ?>
+</style>
 <div class="full flex center">
 		<h4 id="sectionHeader" class="flex column center">Check Out Our Blog</h4>
 	</div>

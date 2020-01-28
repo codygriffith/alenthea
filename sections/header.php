@@ -1,3 +1,7 @@
+<style>
+<?php include 'style/header.css'; ?>
+</style>
+
 <header class="flex row center dark white-text">
 		<a href="/index.php" id="headerLogo">
 			<img src="/images/alentheaFullLogo_light.svg">

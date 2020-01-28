@@ -3,11 +3,10 @@
 <head>
 <meta charset="utf-8">
 <title>Alenthea Design Co.</title>
-<link href="index.css" rel="stylesheet" type="text/css">
-<link href="sections/contact.css" rel="stylesheet" type="text/css">
-<link href="sections/footer.css" rel="stylesheet" type="text/css">
-<!-- <meta http-equiv="refresh" content="1"> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/index.css" rel="stylesheet" type="text/css">
+<!-- <meta http-equiv="refresh" content="1"> -->
 <!-- <base href="http://www.alenthea.com/index.html"> -->
 
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
@@ -16,70 +15,88 @@
 
 <body>
 	<?php include 'sections/header.php';?>
-	<div id="heroImage" class="flex center">
-		<img src="/images/alentheaFullLogo.svg">
-	</div>
-	<div class="flex row center full wrap" id="services">
-		<div class="flex column center serviceTile">
-		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="/images/webDev-light.svg">
-			</div>
-			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/webDev-darkest.svg">
-			</div>
-			<div id="webDesign" class="flex column center serviceTileContent light">
-				<h2>Web Design</h1>
-				<p>Mobile friendly, responsive, and beautiful across all devices.</P>
-				<a href="/pages/webDesign.php" class="button">View More</a>
-			</div>
-		</div>
-		<div class="flex column center serviceTile">
-		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="/images/ecommerce-light.svg">
-			</div>
-			<div id="ecommerce" class="flex column center serviceTileContent light">
-				<h2>E-Commerce</h1>
-				<p>Grow your customer base and reach new potential.</P>
-				<a href="/pages/ecommerce.php" class="button">View More</a>
-			</div>
-			<div  class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/ecommerce-darkest.svg">
-			</div>
-		</div>
-		<div class="flex column center serviceTile">
-			<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="/images/ecommerce-light.svg">
-			</div>
-			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="/images/onlineMarketing-darkest.svg">
-			</div>
-			<div id="onlineMarketing" class="flex column center serviceTileContent light">
-				<h2>Online Marketing</h1>
-				<p>Spread awareness for your products or brand.</P>
-				<a href="/pages/marketing.php" class="button">View More</a>
-			</div>
-		</div>
-		<div class="flex column center serviceTile">
-		<div class="flex medium full center serviceIcon desktopServiceIcon">
-				<img src="/images/ecommerce-light.svg">
-			</div>
-			<div id="logosBranding" class="flex column center serviceTileContent light">
-				<h2>Logos & Branding</h1>
-				<p>Give your brand a new, fresh, and timeless appearance.</P>
-				<a href="/pages/logos.php" class="button">View More</a>
-			</div>
-			<div class="flex medium full center serviceIcon mobileServiceIcon">
-				<img src="images/logoBranding-darkest.svg">
-			</div>
-		</div>
-	</div>
-	<p id="homepage-pitch" class="font-two">Our <span class="text-highlight">Hand-Crafted</span> Solutions  are uniquely developed for each individual client for a product that stands out from the rest and delivers <span class="text-highlight">Complete Satisfaction</span> for both yourself and users alike.</p>
+	<main>
+		<section id="heroImage" class="flex center">
+			<img src="/images/alentheaFullLogo.svg">
+		</section>
+
+		<section class="flex row center full wrap" id="services">
+			<section id="webDesign" class="flex column center serviceTile light">
+				<div class="flex medium center serviceIconContainer">
+					<picture>
+						<source media="(max-width: 800px)" srcset="/images/webDev-darkest.svg">
+						<source media="(min-width: 800px)" srcset="/images/webDev-light.svg">
+						<img src="/images/webDev-dark.svg" alt="Flowers">
+					</picture>
+				</div>
+				<div class="serviceTileContent">
+					<h1>Web Design</h1>
+					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
+					<a href="/pages/webDesign.php" class="button">View More</a>
+				</div>
+			</section>
+			<section id="ecommerce" class="flex column center serviceTile light">
+				<div class="flex medium center serviceIconContainer">
+					<picture>
+						<source media="(max-width: 800px)" srcset="/images/ecommerce-darkest.svg">
+						<source media="(min-width: 800px)" srcset="/images/ecommerce-light.svg">
+						<img src="/images/ecommerce-light.svg" alt="Flowers">
+					</picture>
+				</div>
+				<div class="serviceTileContent">
+					<h1>E-Commerce</h1>
+					<p>Grow your customer base and reach new potential.</p>	
+					<a href="/pages/ecommerce.php" class="button">View More</a>
+				</div>
+			</section>
+			<section id="onlineMarketing" class="flex column center serviceTile light">
+				<div class="flex medium center serviceIconContainer">
+					<picture>
+						<source media="(max-width: 800px)" srcset="/images/onlineMarketing-darkest.svg">
+						<source media="(min-width: 800px)" srcset="/images/onlineMarketing-light.svg">
+						<img src="/images/onlineMarketing-darkest.svg" alt="Flowers">
+					</picture>
+				</div>
+				<div class="serviceTileContent">
+					<h1>Online Marketing</h1>
+					<p>Spread awareness for your products or brand.</p>	
+					<a href="/pages/onlineMarketing.php" class="button">View More</a>
+				</div>
+			</section>
+			<section id="logosBranding" class="flex column center serviceTile light">
+				<div class="flex medium center serviceIconContainer">
+					<picture>
+						<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
+						<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
+						<img src="/images/logoBranding-light.svg" alt="Flowers">
+					</picture>
+				</div>
+				<div class="serviceTileContent">
+					<h1>Logos & Branding</h1>
+					<p>Give your brand a new, fresh, and timeless appearance.</p>	
+					<a href="/pages/onlineMarketing.php" class="button">View More</a>
+				</div>
+			</section>
+		</section>
+
+		<section>
+			<p id="homepage-pitch" class="font-two">
+				Our 
+				<span class="text-highlight">Hand-Crafted</span> 
+				Solutions  are uniquely developed for each individual client for a product that stands out from the 
+				rest and delivers 
+				<span class="text-highlight">Complete Satisfaction</span> 
+				for both yourself and users alike.
+			</p>
+		</section>
 	<div class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullDark.png">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br> No Matter How Big Or Small.</h3>
 	</div>
+	</main>
 	<?php include 'sections/contact.php';?>
 	<?php include 'sections/footer.php';?>
 </body>
+
 	
 </html>

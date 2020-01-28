@@ -1,11 +1,11 @@
 <!doctype html>
 <html>
 <head>
-	<link href="../index.css" rel="stylesheet" type="text/css">
+	<link href="../style.css" rel="stylesheet" type="text/css">
+	<link href="style/page.css" rel="stylesheet" type="text/css">
+
     <link href="../pages/style.css" rel="stylesheet" type="text/css">
     <link href="../pages/branding.css" rel="stylesheet" type="text/css">
-	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
-	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>

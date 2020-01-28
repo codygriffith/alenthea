@@ -1,0 +1,100 @@
+#homepageContact {
+	padding: 0 15%;
+}
+
+form * {
+    margin: 1%;
+    font-size: 1.7vw;
+    padding: .5vw;
+}
+
+input{
+    flex-grow: auto;
+}
+
+textarea {
+    width: 100%;
+}
+
+.contactHeader {
+    width: auto;
+    font-size: 2.5vw;
+    color: #1d1d1d;
+    text-shadow: grey 0.05vw 0.05vw;
+    box-shadow: #59647b 0vw 0.05vw;
+    background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
+    margin: auto;
+    line-height: 100%;
+    margin-bottom: 2.5%;
+    margin-top: 2%;
+}
+
+#contactName {
+    width: 30%;
+}
+
+#contactEmail{
+    width: 60%;
+}
+
+#contactSubmit {
+    font-weight: 600;
+    font-size: 1.8vw;
+    margin-top: 0;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+
+.contactHeader {
+    display: none;
+    box-shadow: none !important;
+}
+#mobileContactHeader{
+    font-size: 6.5vw;
+    display: block;
+    width: fit-content;
+    margin: auto !important;
+    text-shadow: none;
+    margin-bottom: 2vw !important;
+    margin-top: 2vw !important;
+}
+
+#missionBanner img{
+    width: 25%;
+}
+#homepageContact {
+    flex-direction: column;
+    padding: 0 5% !important;
+}
+#contactName, #contactEmail {
+    width: 100% !important;
+    font-size: 6.25vw;
+    background-color: #e6e8ed;
+    padding: 1% !important;
+}
+
+form * {
+    margin: 0 !important;
+    font-size: 2vw;
+    padding: 0 !important;
+    border: none;
+    margin-top: 2vw !important;
+}
+
+textarea {
+    font-size: 6.25vw !important;
+    background-color: #e6e8ed;
+    padding: 1% !important;
+}
+
+
+
+#contactSubmit{
+    font-size: 7vw !important;
+    display: block;
+    width: fit-content;
+    margin: auto !important;
+}
+}

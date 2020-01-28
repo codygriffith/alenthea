@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-	<link href="../index.css" rel="stylesheet" type="text/css">
+	<link href="../style.css" rel="stylesheet" type="text/css">
+	<link href="style/page.css" rel="stylesheet" type="text/css">
+
 	<link href="../pages/style.css" rel="stylesheet" type="text/css">
 	<link href="../pages/branding.css" rel="stylesheet" type="text/css">
 
 	<link href="../pages/marketing.css" rel="stylesheet" type="text/css">
 
-	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
-	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -17,11 +17,6 @@
 		<img src="/images/onlinemarketing.svg"> 
     </div>
         <h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
-
-
-
-
-
 		<h1 id="servicesHeader" class="centerText">Our Services</h1>
 
 <div class="flex row center wrap" id="servicesList">
@@ -34,43 +29,6 @@
 		<h2>Sales Funnels</h2>
 		<h2>Package Design</h2>        
 </div>
-
-
-	<!-- <div class="full flex center">
-		<h4 id="sectionHeader" class="flex column center">Services:</h4>
-	</div> -->
-
-	<!-- <div class="flex row wrap center" id="serviceTiles"> -->
-        <!-- <div> -->
-            <!-- <img src="../images/promotional.png"> -->
-			<!-- <h1>Promotional Material</h1> -->
-			<!-- <p>Billboards, Email Blasts, Flyers - anywhere you may promote or advertise your services.</p> -->
-			<!-- <a class="button">Yeet me</a> -->
-        <!-- </div> -->
-        <!-- <div> -->
-			<!-- <h1>Social Media</h1> -->
-			<!-- <p>Effectively Communicate your brand across swocial media to attrzct and maintain a dedicated audience.</p> -->
-			<!-- <a class="button">Yeet me</a> -->
-
-		<!-- </div> -->
-		<!-- <div> -->
-			<!-- <h1>Brand Strategy</h1> -->
-			<!-- <p>Plan for your brand's success. Develop an effective strategy to promote growth and plan for the future</p> -->
-			<!-- <a class="button">Yeet me</a> -->
-
-		<!-- </div> -->
-		<!-- <div> -->
-			<!-- <h1>Style Guidelines</h1> -->
-			<!-- <p>Create a cohesive set of rules outlining your look across all media channels with a Brand Style Guideline.</p> -->
-			<!-- <a class="button">Yeet me</a> -->
-        <!-- </div> -->
-        
-        <!-- <div> -->
-			<!-- <h1>Promotional Products</h1> -->
-			<!-- <p>Shirts, Pens, Keychains and other items given away or sold at cost to promote your brand.</p> -->
-			<!-- <a class="button">Yeet me</a> -->
-		<!-- </div> -->
-    <!-- </div> -->
 
 	<div id="propBoxes" class="flex row center">
 	 <h1 id="servicesHeader" class="centerText">Our Services</h1>

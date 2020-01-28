@@ -2,6 +2,8 @@
 <html>
 <head>
 	<link href="../index.css" rel="stylesheet" type="text/css">
+	<link href="style/page.css" rel="stylesheet" type="text/css">
+
 	<link href="../pages/style.css" rel="stylesheet" type="text/css">
 	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
 	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
