@@ -1,0 +1,46 @@
+#bigOlText {
+    background-image: url("/images/starsBackground.jpg");
+    padding: 2vw 0 10vw 0;
+}
+
+#bigOlText h1:nth-child(2){
+    text-align: end;
+    margin-top: 2vw;
+}
+
+#bigOlText {
+    background-image: url("/images/starsBackground.jpg");
+}
+
+#propBoxes {
+    background-image: url("/images/starsBackground.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    #bigOlText{
+        padding-bottom: 6vw;
+    }
+    #bigOlText img{
+        width: 95vw;
+    }
+    #littleOlText{
+        font-size: 4vw;
+        width: 90%;
+    }
+    #servicesHeader{
+        font-size: 6.5vw;
+    }
+}

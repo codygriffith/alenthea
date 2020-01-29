@@ -1,6 +1,14 @@
 <!doctype html>
 <html>
 <head>
+	<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "Organization",
+		  "url": "http://www.alenthea.com",
+		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png"
+		}
+		</script>
 <meta charset="utf-8">
 <title>Alenthea Design Co.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">

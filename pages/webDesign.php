@@ -3,10 +3,7 @@
 <head>
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
-
-	<link href="../pages/style.css" rel="stylesheet" type="text/css">
-	<!-- <link href="../pages/branding.css" rel="stylesheet" type="text/css"> -->
-    <link href="../pages/webDesign.css" rel="stylesheet" type="text/css">
+	<link href="style/webDesign.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -15,13 +12,7 @@
             <img src="/images/webDesign2.svg"> 
         </div>
         <h3 id="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
-	<!-- <div id="serviceBanner" class="flex center-left column">
-	<div id="serviceImage" class="flex column">
-            <img src="/images/webDesign2.svg">
-        </div> -->
-		<!-- <h1>Website Design & Development</h1> -->
-		<!-- <h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3>
-	</div> -->
+	
 	
 	<div class="full flex center">
 		<h4 id="sectionHeader" class="flex column center">Loaded with features:</h4>
@@ -57,8 +48,6 @@
 		<h1>Highest Standards.</h1>
 	</div>
 	<p id="littleOlText" class="secondLittleText">Our sites woirk exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
-	<!-- <?php include "../sections/blog.php";?> -->
-	<br>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

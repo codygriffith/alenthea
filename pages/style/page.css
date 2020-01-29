@@ -1,3 +1,131 @@
 mobileheader {
     position: unset !important;
 }
+
+
+
+#sectionHeader {
+    width: auto;
+    font-size: 2.5vw;
+    color: #1d1d1d;
+    text-shadow: grey 0.05vw 0.05vw;
+    box-shadow: #59647b 0vw 0.1vw;
+    background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
+    margin: auto;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    text-align: center;
+    display: inline;
+}
+
+#bigOlText {
+    padding: 3vw 6vw 7vw 6vw;
+    background-color: rgba(0,0,0,.95);
+    background-position: initial;
+    background-size: cover;
+}
+
+#bigOlText img{
+    width: 50vw;
+    margin: auto;
+    padding: 1%;
+}
+
+
+#bigOlText h1:nth-child(2){
+    text-align: end;
+    margin-top: 2vw;
+    text-align: right;
+}
+
+
+#littleOlText {
+    font-size: 2.3vw;
+    color: #1d1d1d;
+    width: 80%;
+    margin: auto;
+    margin-top: -4vw;
+    background-color: #ecf3ff;
+    padding: 1.5%;
+    padding-top: .75%;
+    box-shadow: #00000061 0.1vw 0.1vw 0.5vw;
+    font-weight: 700;
+}
+
+#servicesList {
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+
+#servicesList li {
+    margin: 1% 2%;
+    font-weight: 500;
+    font-size: 2vw;
+    color: #1d1d1dc9;
+    background-color: #82acd745;
+    padding: .5%;
+    display: flex;
+    box-shadow: #232b3bb8 0.2vw 0.2vw;
+    border-radius: 0.2vw;
+}
+
+#servicesHeader {
+    width: fit-content;
+    font-size: 2.5vw;
+    color: #1d1d1d;
+    text-shadow: grey 0.05vw 0.05vw;
+    box-shadow: #59647b 0vw 0.1vw;
+    background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
+    margin: auto;
+    margin-bottom: 1.8vw;
+    /* margin-top: 3vw; */
+}
+
+
+
+
+#propBoxes {
+    font-size: 2.75vw;
+    padding-top: 5vh;
+    margin-top: 4vw;
+    padding-bottom: 10vh;
+    color: #ecf3ff;
+    background-color: rgba(0,0,0,.95);
+    text-shadow: rgb(36, 36, 36) 0px 0px 10px, rgb(109, 110, 163) 0px 0px, rgb(109, 110, 163) 1px 1px, rgb(109, 110, 163) 2px 2px, rgb(109, 110, 163) 3px 3px;
+}
+#propBoxes div{
+    align-items: unset;
+}
+
+#propBoxes p{
+    width: 28%;
+    /* text-align: justify; */
+    background: #fffffff2;
+    text-shadow: none;
+    color: #1b1b1bdb;
+    padding: 0.6%;
+    font-size: 2vw;
+    font-weight: 700;
+    text-shadow: darkgrey 0.1vw 0.1vw;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    #propBoxes {
+        flex-direction: column;
+        align-items: center !important;
+    }
+    #propBoxes p{
+        font-size: 5vw !important;
+        width: 85vw !important;
+        margin: 2vw;
+        padding: 1vw !important;
+    }
+}

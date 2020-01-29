@@ -87,36 +87,11 @@
     /* background-color: lightsteelblue; */
 }
 
-#bigOlText {
-    font-size: 2.5vw;
-    padding-left: 6%;
-    padding-right: 6%;
-    padding-right: 15vw;
-    padding-top: 2vw;
-    padding-bottom: 7vw;
-    color: #ecf3ff;
-    background-color: rgba(0,0,0,.95);
-    background-image: url("../images/starsBackground.jpg");
-    text-shadow: rgb(36, 36, 36) 0px 0px 10px, rgb(109, 110, 163) 0px 0px, rgb(109, 110, 163) 1px 1px, rgb(109, 110, 163) 2px 2px, rgb(109, 110, 163) 3px 3px;
-}
 
 #bigOlText h1:nth-child(2){
     text-align: end;
     margin-top: 2vw;
     text-align: right;
-}
-
-#littleOlText {
-    font-size: 2vw;
-    color: #1d1d1d;
-    width: 90%;
-    margin: auto;
-    margin-top: -4vw;
-    background-color: #ecf3ff;
-    padding: 1%;
-    padding-top: .5%;
-    box-shadow: #00000061 0.1vw 0.1vw 0.5vw;
-    font-weight: 500;
 }
 
 
