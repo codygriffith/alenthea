@@ -1,0 +1,14 @@
+#bigOlText {
+    background-image: url("/images/starsBackground.jpg");
+    color: white;
+    text-align: center;
+}
+
+#bigOlText h1{
+    font-size: 4.5vw;
+}
+
+@media only screen and (max-width: 800px) {
+
+
+}

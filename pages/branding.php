@@ -3,7 +3,7 @@
 <head>
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
-    <link href="../pages/branding.css" rel="stylesheet" type="text/css">
+    <link href="style/branding.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
