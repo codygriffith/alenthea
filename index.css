@@ -9,8 +9,13 @@
 	
 .serviceIconContainer img{
 	width: 4.5vw;
-	padding: .5vw 1vw;
+	/* padding: .5vw 1vw; */
 }
+
+.serviceIconContainer picture{
+		display: flex;
+		padding: .5vw;
+	}
 	
 .serviceIconContainer::before, .serviceIconContainer::after {
 	content: "";
@@ -153,7 +158,7 @@
 	margin: 0;
 	display: inline;
 	/* font-family: 'Roboto'; */
-
+	font-size: 2vw;
 }
 
 
@@ -195,6 +200,8 @@
 		background-color: unset ;
 	}
 
+
+
 	.serviceTileContent h1{
 		font-size: 7.75vw;
 		/* color: rgba(27, 27, 27, 0.6784313725490196); */
@@ -220,6 +227,7 @@
 
 	#webDesign *, #onlineMarketing *{
 		text-align: end;
+		align-items: flex-end;
 	}
 
 	#ecommerce, #logosBranding{
@@ -229,6 +237,7 @@
 
 	#ecommerce *, #logosBranding *{
 		text-align: start;
+		align-items: flex-start;
 	}
 
 	.serviceTileContent p{

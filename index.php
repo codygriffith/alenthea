@@ -37,7 +37,7 @@
 						<img src="/images/webDev-dark.svg" alt="Flowers">
 					</picture>
 				</div>
-				<div class="serviceTileContent">
+				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
 					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
 					<a href="/pages/webDesign.php" class="button">View More</a>
@@ -51,7 +51,7 @@
 						<img src="/images/ecommerce-light.svg" alt="Flowers">
 					</picture>
 				</div>
-				<div class="serviceTileContent">
+				<div class="serviceTileContent flex column center">
 					<h1>E-Commerce</h1>
 					<p>Grow your customer base and reach new potential.</p>	
 					<a href="/pages/ecommerce.php" class="button">View More</a>
@@ -65,7 +65,7 @@
 						<img src="/images/onlineMarketing-darkest.svg" alt="Flowers">
 					</picture>
 				</div>
-				<div class="serviceTileContent">
+				<div class="serviceTileContent flex column center">
 					<h1>Online Marketing</h1>
 					<p>Spread awareness for your products or brand.</p>	
 					<a href="/pages/onlineMarketing.php" class="button">View More</a>
@@ -79,7 +79,7 @@
 						<img src="/images/logoBranding-light.svg" alt="Flowers">
 					</picture>
 				</div>
-				<div class="serviceTileContent">
+				<div class="serviceTileContent flex column center">
 					<h1>Logos & Branding</h1>
 					<p>Give your brand a new, fresh, and timeless appearance.</p>	
 					<a href="/pages/onlineMarketing.php" class="button">View More</a>
