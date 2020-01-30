@@ -8,7 +8,7 @@
 }
 	
 .serviceIconContainer img{
-	width: 4.5vw;
+	width: 4.25vw;
 	/* padding: .5vw 1vw; */
 }
 
@@ -33,7 +33,7 @@
 }
 
 .serviceTile h1{
-	font-size: 1.75vw;
+	font-size: 1.8vw;
 	font-weight: 500;
 }
 	
@@ -43,7 +43,7 @@
 }
 
 .button {
-	font-size: 1.4vw;
+	font-size: 1.25vw;
 	padding: 0;
 	border-bottom: .25vw solid rgba(89, 100, 123, .65);
 	color: black;
