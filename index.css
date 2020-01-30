@@ -54,7 +54,7 @@
 
 /* Hero Image */
 #heroImage {
-	background-image: url(images/lunarBackground.png);
+	background-image: url(images/lunarBackground.jpg);
 	background-size: cover;
 	height: 90vh;
 }
