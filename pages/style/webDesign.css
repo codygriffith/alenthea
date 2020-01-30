@@ -11,7 +11,8 @@
 }
 
 #bigOlText img {
-    width: 51vw;
+    width: 58vw;
+    margin: unset;
 }
 
 #bigOlText {
