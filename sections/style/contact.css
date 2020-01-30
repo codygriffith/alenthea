@@ -96,5 +96,7 @@ textarea {
     display: block;
     width: fit-content;
     margin: auto !important;
+    margin-top: 2vw !important;
+    padding: .5vw !important;
 }
 }

@@ -16,6 +16,8 @@
 
 #bigOlText {
     background-image: url("/images/starsBackground.jpg");
+    color: white;
+    font-size: 2.4vw;
 }
 
 #littleOlText {
