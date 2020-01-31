@@ -4,8 +4,9 @@
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
 	<link href="style/marketing.css" rel="stylesheet" type="text/css">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Online & Digital Marketing | Columbus, Georgia | Alenthea Web Design</title>
+	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
 </head>
 <body>
     <?php include "../sections/header.php";?>
@@ -14,7 +15,7 @@
 	</div>
 	
 	<section>
-		<h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+		<h3 id="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement.</h3>
 	</section>
 	
 	<section>

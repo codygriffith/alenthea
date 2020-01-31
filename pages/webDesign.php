@@ -5,6 +5,8 @@
 	<link href="style/page.css" rel="stylesheet" type="text/css">
 	<link href="style/webDesign.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Web Design & Development | Columbus, Georgia | Alenthea Web Design</title>
+	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
 </head>
 <body>
 	<?php include "../sections/header.php";?>
