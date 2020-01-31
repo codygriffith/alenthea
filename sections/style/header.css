@@ -9,10 +9,10 @@ header a {
 	text-decoration: none;
 }
 
-
-header{
-	padding: 0.75vw;
+.desktop #headerLogo img {
+	padding: 1vw 4vw 1vw 0;
 }
+
 
 
 mobileHeader{
@@ -27,36 +27,26 @@ mobileHeader{
 	display: none;
 }
 .toggle {
-    height: 11vh !important;
+    height: 12.5vh !important;
    }
 
 
    
 
 @media screen and (max-width: 800px) {
-    mobileHeader a {
+    .mobile a {
 		font-size: 8vw;
 		/* padding-right: 4vw; */
 		text-decoration: none;
     }
     
 	#headerLogo img{
-		width: 5vw;
+		width: 4vw;
 	}
 	
-
-    mobileHeader a {
+    .mobile a {
 		font-size: 8vw;
-		/* padding-right: 4vw; */
 		text-decoration: none;
-	}
-
-	#headerContact {
-	margin-bottom: 1vw;
-	}
-
-	header{
-		display: none !important;
 	}
 
 	#headerLogo img{
@@ -66,16 +56,14 @@ mobileHeader{
 		margin-bottom: -2vw;
 	}
 
-	mobileHeader{
-		display: flex !important;
+	.mobile{
 		text-align: right;
-		/* padding-bottom: 2vw; */
 		position: absolute;
 		width: 100%;
 	}
 
 	#toggle{
-		font-size: 14vw;
+		font-size: 12vw;
 		padding-right: 2vw;
 	}
 

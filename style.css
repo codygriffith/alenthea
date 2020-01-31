@@ -96,3 +96,16 @@ ul {
 .highlight {
 	background-color: rgba(180, 207, 221, 1);
 }
+
+.mobile {
+	display: none;
+}
+
+@media screen and (max-width: 800px) {
+	.desktop{
+		display: none;
+	}
+	.mobile{
+		display: flex !important;
+	}
+}

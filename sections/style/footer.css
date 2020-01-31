@@ -1,12 +1,11 @@
 /* Footer */
 #footerLogo {
-	width:30%;
+	width:30vw;
 	margin: auto;
 }
 
-footer{
-	/* width: 100vw; */
-	padding: 1%;
+footer .mobile, footer .desktop {
+	padding: 2vw 0 2vw 0;
 }
 
 .footerContact h1{
@@ -28,4 +27,28 @@ footer{
 
 #footerPhone, #footerEmail {
 	margin: auto;
+}
+
+@media screen and (max-width: 800px) {
+	#footerLogo {
+		width: 20vw;
+		margin: unset;
+	}
+	#footerPhone, #footerEmail {
+		width: 60vw;
+		flex-direction: row;
+		justify-content: flex-start;
+		margin: 3vw 0 3vw 0;
+	}
+	.footerContact h1{
+		font-size: 5vw;
+		margin-right: 3vw;
+		padding-bottom: 0;
+	}
+	
+	.footerContact h2{
+		font-size: 5.25vw;
+		border: none;
+		padding-top: 0;
+	}
 }
