@@ -44,6 +44,7 @@
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
 <meta name="description" content="Our Hand-Crafted Solutions are uniquely developed for each individual client for a product that stands out from the rest and delivers Complete Satisfaction for both yourself and users alike." />
+<meta name="keywords" content="Web, Design, Logos, Branding, Online, Marketing, Development" />
 <!-- <meta http-equiv="refresh" content="1"> -->
 <!-- <base href="http://www.alenthea.com/index.html"> -->
 

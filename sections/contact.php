@@ -2,7 +2,7 @@
 <?php include 'style/contact.css'; ?>
 </style>
 <form class="flex row space-between wrap" id="homepageContact">
-    <h1 id="" class="centerText contactHeader">We Look Forward To Hearing From You</h1>
+    <h3 class="centerText contactHeader">We Look Forward To Hearing From You</h3>
     <h1 id="mobileContactHeader" class="centerText contactHeader">Lets Get Started</h1>
 
     <label for="contactName">Your Name:</label>
