@@ -49,7 +49,15 @@
 		<h1>Latest Technologies;</h1>
 		<h1>Highest Standards.</h1>
 	</div>
-	<p id="littleOlText" class="secondLittleText">Our sites woirk exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+	<p id="littleOlText" class="secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+	<section class="flex center row" id="hosting">
+		<img src="/images/server.jpg">
+		<div class="flex center column">
+			<h1>HOSTING</h1>
+			<h2>Low to No Cost</h2>
+			<a class="button">Learn More</a>
+		</div>
+	</section>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

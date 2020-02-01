@@ -58,10 +58,31 @@
     margin: auto;
     padding-top: 1vw;
     font-size: 1.5vw;
-    float: right;
-    
+    float: right;   
 }
-
+#hosting{
+    padding: 1vw 5vw 1vw 5vw;
+    background-size: 48%;
+    background-position: left;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+#hosting h1{
+    font-size: 9vw;
+    line-height: 100%;
+}
+#hosting h2{
+    font-size: 4.75vw;
+    line-height: 100%;
+}
+#hosting img{
+    width: 30vw;
+}
+#hosting a{
+    font-size: 2.5vw;
+    /* line-height: 60%; */
+    margin-top: 2vw;
+}
 @media only screen and (max-width: 800px) {
     mobileHeader {
         position: unset;

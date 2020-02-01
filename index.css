@@ -42,15 +42,7 @@
 	font-weight: 500;
 }
 
-.button {
-	font-size: 1.25vw;
-	padding: 0;
-	border-bottom: .25vw solid rgba(89, 100, 123, .65);
-	color: black;
-	cursor: pointer;
-	margin-bottom: 1vw;
-	display: inline-flex;
-}
+
 
 /* Hero Image */
 #heroImage {
