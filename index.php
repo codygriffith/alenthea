@@ -92,7 +92,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
-						<img src="/images/logoBranding-light.svg" alt="Alenthea Logo 'Big N'>
+						<img src="/images/logoBranding-light.svg" alt="Alenthea Logo">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
