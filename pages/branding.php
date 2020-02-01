@@ -54,7 +54,7 @@
 	<?php include "../sections/header.php";?>
 	
     <div id="bigOlText" class="flex column">
-        <img src="/images/logosBranding.png"> 
+        <img src="/images/logosBranding.png" alt="Logos and Branding"> 
 	</div>
 
 	<section>
