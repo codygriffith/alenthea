@@ -53,7 +53,7 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<div id="bigOlText" class="flex column">
-            <img src="/images/webDesign2.svg"> 
+            <img src="/images/webDesign2.svg" alt="Web Design"> 
         </div>
         <h3 id="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
 	
@@ -93,7 +93,7 @@
 	</div>
 	<p id="littleOlText" class="secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
 	<section class="flex center row" id="hosting">
-		<img src="/images/server.jpg">
+		<img src="/images/server.jpg" alt="Server Illustration">
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
