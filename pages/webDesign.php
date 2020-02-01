@@ -24,19 +24,14 @@
   			"itemListElement": [{
          	  "@type": "ListItem",
           	  "position": 1,
-         	  "name": "Books",
-         	  "item": "https://example.com/books"
+         	  "name": "Alenthea Design Co",
+         	  "item": "http://alenthea.com/index.php"
   	    	},{
         	  "@type": "ListItem",
           	  "position": 2,
-          	  "name": "Authors",
-              "item": "https://example.com/books/authors"
-            },{
-    	      "@type": "ListItem",
-    	      "position": 3,
-   	          "name": "Ann Leckie",
-    	      "item": "https://example.com/books/authors/annleckie"
-  	    	}]
+          	  "name": "Alenthea Web Design",
+              "item": "http://alenthea.com/pages/webDesign.php"
+            }]
 		}
         
 		</script>
