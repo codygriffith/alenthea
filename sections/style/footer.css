@@ -1,5 +1,5 @@
 /* Footer */
-#footerLogo {
+.footerLogo {
 	width:30vw;
 	margin: auto;
 }
@@ -25,16 +25,16 @@ footer .mobile, footer .desktop {
 	margin: 0;
 }
 
-#footerPhone, #footerEmail {
+.footerPhone, .footerEmail {
 	margin: auto;
 }
 
 @media screen and (max-width: 800px) {
-	#footerLogo {
+	.footerLogo {
 		width: 20vw;
 		margin: unset;
 	}
-	#footerPhone, #footerEmail {
+	.footerPhone, .footerEmail {
 		width: 60vw;
 		flex-direction: row;
 		justify-content: flex-start;
