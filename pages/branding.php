@@ -5,6 +5,8 @@
 	<link href="style/page.css" rel="stylesheet" type="text/css">
     <link href="style/branding.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Logos & Branding - Alenthea  | Columbus, Georgia</title>
+	<meta name="description" content="Your branding is your promise to your customers; Make it mean something." />
 </head>
 <body>
 	<?php include "../sections/header.php";?>
