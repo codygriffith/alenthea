@@ -1,6 +1,6 @@
 #heroImage {
     height: 50vh;
-    background-image: url("../images/greywatercolorback.jpeg");
+    /* background-image: url("../images/greywatercolorback.jpeg"); */
     background-position: top;
     background-position: bottom;
     position: relative;
@@ -21,7 +21,7 @@
 }
 
 #propBoxes {
-    background-image: url(/images/starsBackground.jpg);
+    background-image: url("/images/starsBackground.jpg");
 }
 
 
