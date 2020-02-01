@@ -15,23 +15,31 @@
 		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
-		}
-		{
+		  
+		}</script>
+        <script type="application/ld+json">
+        {
 		  "@context": "https://schema.org",
 		  "@type": "BreadcrumbList",
-  		"itemListElement": [{
-    	  "@type": "ListItem",
-          "position": 1,
-          "name": "Alenthea Design Co",
-          "item": "http://alenthea.com"
-        },{
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Web Design & Development",
-          "item": "http://alenthea.com/pages/webDesihn.php"
-           }]
-      	}
-	</script>
+  			"itemListElement": [{
+         	  "@type": "ListItem",
+          	  "position": 1,
+         	  "name": "Books",
+         	  "item": "https://example.com/books"
+  	    	},{
+        	  "@type": "ListItem",
+          	  "position": 2,
+          	  "name": "Authors",
+              "item": "https://example.com/books/authors"
+            },{
+    	      "@type": "ListItem",
+    	      "position": 3,
+   	          "name": "Ann Leckie",
+    	      "item": "https://example.com/books/authors/annleckie"
+  	    	}]
+		}
+        
+		</script>
 </head>
 <body>
 	<?php include "../sections/header.php";?>
