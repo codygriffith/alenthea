@@ -41,7 +41,7 @@
 	<?php include 'sections/header.php';?>
 	<main>
 		<section id="heroImage" class="flex center">
-			<img src="/images/alentheaFullLogo.svg">
+			<img src="/images/alentheaFullLogo.svg" alt="Alenthea Logo">
 		</section>
 
 		<section class="flex row center full wrap" id="services">
@@ -50,7 +50,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/webDev-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/webDev-light.svg">
-						<img src="/images/webDev-dark.svg" alt="Flowers">
+						<img src="/images/webDev-dark.svg" alt="Alenthea Logo">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -64,7 +64,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/ecommerce-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/ecommerce-light.svg">
-						<img src="/images/ecommerce-light.svg" alt="Flowers">
+						<img src="/images/ecommerce-light.svg" alt="Alenthea Logo">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -78,7 +78,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/onlineMarketing-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/onlineMarketing-light.svg">
-						<img src="/images/onlineMarketing-darkest.svg" alt="Flowers">
+						<img src="/images/onlineMarketing-darkest.svg" alt="Alenthea Logo">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -92,7 +92,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
-						<img src="/images/logoBranding-light.svg" alt="Flowers">
+						<img src="/images/logoBranding-light.svg" alt="Alenthea Logo 'Big N'>
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -114,7 +114,7 @@
 			</p>
 		</section>
 	<div class="flex center row light" id="missionBanner">
-		<img src="/images/alentheaFullLogoDark.svg">
+		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br> No Matter How Big Or Small.</h3>
 	</div>
 	</main>
