@@ -19,7 +19,7 @@
 		{
 		  "@context": "https://schema.org",
 		  "@type": "BreadcrumbList",
-  			"itemListElement": [{
+  		"itemListElement": [{
     	  "@type": "ListItem",
           "position": 1,
           "name": "Alenthea Design Co",
@@ -29,8 +29,8 @@
           "position": 2,
           "name": "Web Design & Development",
           "item": "http://alenthea.com/pages/webDesihn.php"
-        }]
-      }
+           }]
+      	}
 	</script>
 </head>
 <body>
