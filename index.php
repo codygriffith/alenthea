@@ -50,7 +50,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/webDev-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/webDev-light.svg">
-						<img src="/images/webDev-dark.svg" alt="Alenthea Logo">
+						<img src="/images/webDev-dark.svg" alt="Web Design">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -64,7 +64,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/ecommerce-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/ecommerce-light.svg">
-						<img src="/images/ecommerce-light.svg" alt="Alenthea Logo">
+						<img src="/images/ecommerce-light.svg" alt="E-Commerce">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -78,7 +78,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/onlineMarketing-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/onlineMarketing-light.svg">
-						<img src="/images/onlineMarketing-darkest.svg" alt="Alenthea Logo">
+						<img src="/images/onlineMarketing-darkest.svg" alt="Online Marketing">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">
@@ -92,7 +92,7 @@
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
 						<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
-						<img src="/images/logoBranding-light.svg" alt="Alenthea Logo">
+						<img src="/images/logoBranding-light.svg" alt="Logos & Branding">
 					</picture>
 				</div>
 				<div class="serviceTileContent flex column center">

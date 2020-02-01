@@ -5,7 +5,7 @@
 <header>
 	<div class="desktop flex row center dark white-text">
 		<a href="/index.php" id="headerLogo">
-			<img src="/images/alentheaFullLogo_light.svg">
+			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
 		</a>
 		<a href="/pages/webDesign.php">Web Design</a>
 		<a href="/pages/branding.php">Logos & Branding</a>
@@ -17,7 +17,7 @@
 	<div class="mobile flex column dark white-text">
 		<div onclick="myFunction()" id="toggleBar" class="row flex center space-between full">
 			<a href="/index.php" id="headerLogo">
-				<img src="/images/alentheaFullLogo_light.svg">
+				<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
 			</a>
 			<div id="toggle">=</div>
 		</div>
