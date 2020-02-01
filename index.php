@@ -70,7 +70,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>E-Commerce</h1>
 					<p>Grow your customer base and reach new potential.</p>	
-					<a href="/pages/ecommerce.php" class="button">View More</a>
+					<a href="/pages/webDesign.php" class="button">View More</a>
 				</div>
 			</section>
 			<section id="onlineMarketing" class="flex column center serviceTile light">
