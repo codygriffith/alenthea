@@ -10,11 +10,15 @@
 
   gtag('config', 'UA-157506747-1');
 </script>
-
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
 	<link href="style/marketing.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
 	<title>Online & Digital Marketing | Columbus, Georgia | Alenthea Web Design</title>
 	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
 	<script type="application/ld+json">
