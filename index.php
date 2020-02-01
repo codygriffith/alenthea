@@ -11,6 +11,19 @@
 		  "brand": "Alenthea, Alenthea Design Co"
 		}"
 		</script>
+        <script type="application/ld+json">
+        {
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+  			"itemListElement": [{
+         	  "@type": "ListItem",
+          	  "position": 1,
+         	  "name": "Alenthea Design Co",
+         	  "item": "http://alenthea.com/index.php"
+  	    	}]
+		}
+        
+		</script>
 <meta charset="utf-8">
 <title>Alenthea Design Co.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">

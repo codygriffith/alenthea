@@ -7,6 +7,33 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Online & Digital Marketing | Columbus, Georgia | Alenthea Web Design</title>
 	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
+	<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "Organization", 
+		  "url": "http://www.alenthea.com/pages/onlineMarketing.php",
+		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
+		  "brand": "Alenthea, Alenthea Design Co"
+		  
+		}</script>
+        <script type="application/ld+json">
+        {
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+  			"itemListElement": [{
+         	  "@type": "ListItem",
+          	  "position": 1,
+         	  "name": "Alenthea Design Co",
+         	  "item": "http://alenthea.com/index.php"
+  	    	},{
+        	  "@type": "ListItem",
+          	  "position": 2,
+          	  "name": "Alenthea Web Design",
+              "item": "http://alenthea.com/pages/onlineMarketing.php"
+            }]
+		}
+		</script>
 </head>
 <body>
     <?php include "../sections/header.php";?>
