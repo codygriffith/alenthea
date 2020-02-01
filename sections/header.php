@@ -3,6 +3,7 @@
 </style>
 
 <header>
+	
 	<div class="desktop flex row center dark white-text">
 		<a href="/index.php" id="headerLogo">
 			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
