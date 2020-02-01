@@ -7,7 +7,7 @@
 		  "@type": "Organization",
 		  "url": "http://www.alenthea.com",
 		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
-		  "areaServed": "Columbus, Georgia, Alabame, Atlanta",
+		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
 		}"
 		</script>

@@ -7,6 +7,31 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Web Design & Development | Columbus, Georgia | Alenthea Web Design</title>
 	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
+	<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "Organization", 
+		  "url": "http://www.alenthea.com/pages/webDesign.php",
+		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
+		  "brand": "Alenthea, Alenthea Design Co"
+		}
+		{
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+  			"itemListElement": [{
+    	  "@type": "ListItem",
+          "position": 1,
+          "name": "Alenthea Design Co",
+          "item": "http://alenthea.com"
+        },{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web Design & Development",
+          "item": "http://alenthea.com/pages/webDesihn.php"
+        }]
+      }
+	</script>
 </head>
 <body>
 	<?php include "../sections/header.php";?>
