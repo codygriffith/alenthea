@@ -53,7 +53,7 @@
 <body>
     <?php include "../sections/header.php";?>
     <div class="flex column bigOlText">
-		<img src="/images/onlinemarketing.svg"> 
+		<img src="/images/onlinemarketing.svg" alt="Online and Digital Marketing"> 
 	</div>
 	
 	<section>
