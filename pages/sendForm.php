@@ -1,17 +1,17 @@
-<?php
-  $name = $_POST['name'];
-  $visitor_email = $_POST['email'];
-  $message = $_POST['message'];
+<?PHP
+$sender = 'someone@somedomain.tld';
+$recipient = 'you@yourdomain.tld';
 
-  $email_from = 'cody@alenthea.com';
-  $email_subject = "New Form submission";
-  $email_body = "You have received a new message from the user $name Here is the message:\n $message";
+$subject = "php mail test";
+$message = "php test message";
+$headers = 'From:' . $sender;
 
-$to = "cody@alenthea.com";
-
-                            $headers = "From: $email_from \r\n";
-                          
-                            $headers .= "Reply-To: $visitor_email \r\n";
-                          
-                            mail($to,$email_subject,$email_body,$headers);
+if (mail($recipient, $subject, $message, $headers))
+{
+    echo "Message accepted";
+}
+else
+{
+    echo "Error: Message not accepted";
+}
 ?>
