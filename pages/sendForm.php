@@ -1,12 +1,11 @@
 <?PHP
-$sender = 'cody@alenthea.com';
-$recipient = 'cody@alenthea.com';
-
-$subject = "php mail test";
+$to = "someone@example.com";
+$subject = "Test Mail";
 $message = "php test message";
-$headers = 'From:' . $sender;
+$from = "someone@example.com";
+$headers = 'From:' . $from;
 
-if (mail($recipient, $subject, $message, $headers))
+if (mail($to, $subject, $message, $headers))
 {
     echo "Message accepted";
 }
