@@ -134,11 +134,11 @@
 	</div>
 	</main>
 	<?php include 'sections/contact.php';?>
-	<div class="addthis_inline_follow_toolbox"></div>
-
+	<!-- <div class="addthis_inline_follow_toolbox"></div> -->
+	<a href="https://twitter.com/alenthea2?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @alenthea2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	
 	<?php include 'sections/footer.php';?>
 	<!-- Go to www.addthis.com/dashboard to customize your tools --> 
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e3558f28660269b"></script>
+	<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e3558f28660269b"></script> -->
 
 </body>
 
