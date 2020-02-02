@@ -1,5 +1,5 @@
 <?PHP
-$to = "someone@example.com";
+$to = "cody@alenthea.com";
 $subject = "Test Mail";
 $message = "php test message";
 $from = "someone@example.com";
