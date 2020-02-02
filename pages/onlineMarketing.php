@@ -52,12 +52,12 @@
 </head>
 <body>
     <?php include "../sections/header.php";?>
-    <div id="bigOlText" class="flex column">
+    <div class="flex column bigOlText">
 		<img src="/images/onlinemarketing.svg"> 
 	</div>
 	
 	<section>
-		<h3 id="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement.</h3>
+		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement.</h3>
 	</section>
 	
 	<section>

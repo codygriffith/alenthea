@@ -54,12 +54,12 @@
 <body>
 	<?php include "../sections/header.php";?>
 	
-    <div id="bigOlText" class="flex column">
+    <div class="flex column bigOlText">
         <img src="/images/logosBranding.png" alt="Logos and Branding"> 
 	</div>
 
 	<section>
-		<h3 id="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
 	</section>
     
 	<section>

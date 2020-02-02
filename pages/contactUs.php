@@ -26,7 +26,7 @@
 
 <body>
 	<?php include "../sections/header.php";?>
-	<div id="bigOlText" class="flex column">
+	<div class="flex column bigOlText">
         <h1>Lets Do Something Great</h1> 
 	</div>
 	<?php include "../sections/contact.php";?>
