@@ -1,7 +1,7 @@
 <style>
 <?php include 'style/contact.css'; ?>
 </style>
-<form class="flex row space-between wrap" id="homepageContact">
+<form method="post" action="/pages/sendForm.php" class="flex row space-between wrap" id="homepageContact">
     <h3 class="centerText contactHeader">We Look Forward To Hearing From You</h3>
     <h1 id="mobileContactHeader" class="centerText contactHeader">Lets Get Started</h1>
 
@@ -12,7 +12,7 @@
     <input id="contactEmail" type="email" name="email" placeholder="email,">
 
     <label for="moreInfo">How may we help you?</label>
-    <textarea id="moreInfo" placeholder="and what we can do for you."></textarea>
+    <textarea name="message" id="moreInfo" placeholder="and what we can do for you."></textarea>
 
     <label for="promo">Submit</label>
     <input id="contactSubmit" class="button" type="submit">

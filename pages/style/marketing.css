@@ -27,7 +27,7 @@
         font-size: 4vw;
         width: 92vw;
     }
-    #servicesHeader{
+    .servicesHeader{
         font-size: 6.5vw;
     }
 }
