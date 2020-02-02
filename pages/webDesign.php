@@ -53,10 +53,10 @@
 </head>
 <body>
 	<?php include "../sections/header.php";?>
-	<div id="bigOlText" class="flex column">
+	<div class="flex column bigOlText">
             <img src="/images/webDesign2.svg" alt="Web Design"> 
         </div>
-        <h3 id="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
+        <h3 class="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
 	
 	
 	<div class="full flex center">
@@ -88,11 +88,11 @@
 			<!-- <a class="button">Yeet me</a> -->
 		</div>
 	</div>
-	<div id="bigOlText" class="flex column secondBigText">
+	<div class="flex column bigOlText secondBigText">
 		<h1>Latest Technologies;</h1>
 		<h1>Highest Standards.</h1>
 	</div>
-	<p id="littleOlText" class="secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+	<p class="littleOlText secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
 	<section class="flex center row" id="hosting">
 		<img src="/images/server.jpg" alt="Server Illustration">
 		<div class="flex center column">
