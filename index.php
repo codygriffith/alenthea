@@ -53,7 +53,7 @@
 </head>
 
 <body>
-	<!--  -->
+	<?php include 'sections/header.php';?>
 	<main>
 		<section id="heroImage" class="flex center">
 			<img src="/images/alentheaFullLogo.svg" alt="Alenthea Logo">
