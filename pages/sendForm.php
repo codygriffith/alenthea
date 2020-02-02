@@ -1,6 +1,6 @@
 <?PHP
-$sender = 'someone@somedomain.tld';
-$recipient = 'you@yourdomain.tld';
+$sender = 'cody@alenthea.com';
+$recipient = 'cody@alenthea.com';
 
 $subject = "php mail test";
 $message = "php test message";
