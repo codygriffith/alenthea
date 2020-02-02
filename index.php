@@ -131,10 +131,11 @@
 	<div class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams.<br> No Matter How Big Or Small.</h3>
-		<div class="addthis_inline_follow_toolbox"></div>
 	</div>
 	</main>
 	<?php include 'sections/contact.php';?>
+	<div class="addthis_inline_follow_toolbox"></div>
+
 	<?php include 'sections/footer.php';?>
 	<!-- Go to www.addthis.com/dashboard to customize your tools --> 
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e3558f28660269b"></script>
