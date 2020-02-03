@@ -6,7 +6,7 @@
     $email_from = $visitor_email;
     $email_subject = "New Form Submission";
     $email_body = "You have received a new message from the user $name.\n".
-                            "Email: $email_from./n".
+                            "Email: $email_from.\n".
                             "$message".
 
     $to = "cody@alenthea.com";
