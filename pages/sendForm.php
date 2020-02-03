@@ -7,7 +7,7 @@
     $email_subject = "New Form Submission";
     $email_body = "You have received a new message from the user $name.\n".
                             "Email: $email_from.\n".
-                            "$message".
+                            "$message\n\n\n\n\n".
 
     $to = "cody@alenthea.com";
     $headers .= "Reply-To: $visitor_email \r\n";
