@@ -28,7 +28,7 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<div class="flex column bigOlText">
-        <h1>Lets Do Something Great</h1> 
+        <h1>We Will Be In Touch Soon</h1>
 	</div>
 	<?php include "../sections/contact.php";?>
 	<?php include '../sections/footer.php';?>
