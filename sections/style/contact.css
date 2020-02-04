@@ -61,7 +61,7 @@ textarea {
     width: fit-content;
     margin: auto !important;
     text-shadow: none;
-    margin-bottom: 2vw !important;
+    margin-bottom: 0vw !important;
     margin-top: 2vw !important;
 }
 
@@ -74,7 +74,7 @@ textarea {
 }
 #contactName, #contactEmail {
     width: 100% !important;
-    font-size: 6.25vw;
+    font-size: 5.25vw;
     background-color: #e6e8ed;
     padding: 1% !important;
 }
@@ -88,19 +88,17 @@ form * {
 }
 
 textarea {
-    font-size: 6.25vw !important;
+    font-size: 5.25vw !important;
     background-color: #e6e8ed;
     padding: 1% !important;
 }
 
-
-
 #contactSubmit{
-    font-size: 7vw !important;
+    font-size: 5vw !important;
     display: block;
     width: fit-content;
     margin: auto !important;
     margin-top: 2vw !important;
-    padding: .5vw !important;
+    padding: 1vw !important;
 }
 }

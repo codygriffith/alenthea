@@ -8,7 +8,7 @@
 }
 	
 .serviceIconContainer img{
-	width: 3.8vw;
+	width: 3.7vw;
 	/* padding: .5vw 1vw; */
 }
 
@@ -58,7 +58,7 @@
 	margin-bottom: 4vw;
 }
 #heroImage {
-	height: 35vw;
+	height: 38vw;
 }
 
 /* Mission Banner */
@@ -137,7 +137,7 @@
 	font-size: 1.85vw;
 	color: #1b1b1b;
 	line-height: 140%;
-	margin: 3.5% 0;
+	margin: 5.5vw 0;
 	text-shadow: grey 0.05vw 0.05vw;
 	font-style: italic;
 	font-weight: 500;
