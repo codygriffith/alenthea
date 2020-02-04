@@ -28,8 +28,15 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<div class="flex column bigOlText">
-        <h1>We Will Be In Touch Soon</h1>
-	</div>
+        <h1>Your Message Was Sent</h1>
+    </div>
+    <!-- <section>
+        <div class="flex row" id="sectionHeader">
+            <h2>Check out our blog for useful tips:<h2>
+        </div>
+        
+    </section>
+     -->
 	<?php include "../sections/contact.php";?>
 	<?php include '../sections/footer.php';?>
 </body>
@@ -49,14 +56,8 @@
     $headers .= "Reply-To: $visitor_email \r\n";
     $headers = "From: $email_from \r\n";
     
-    if (mail($to,$email_subject,$email_body,$headers))
-    {
-        echo "Message accepted";
-    }
-    else
-    {
-        echo "Error: Message not accepted";
-    }
+    mail($to,$email_subject,$email_body,$headers);
+   
 ?>
 	
 </html>
