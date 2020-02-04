@@ -21,7 +21,9 @@
 }
 
 #propBoxes {
-    background-image: url("/images/starsBackground.jpg");
+    background-image: url("/images/abstractBackground.jpg");
+    background-size: 100%;
+    background-position: left;
 }
 
 

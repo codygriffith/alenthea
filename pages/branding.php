@@ -77,9 +77,9 @@
 	</section>
 
 	<section id="propBoxes" class="flex column center">
-		<h1 class="centerText servicesHeader">Our Services</h1>
+		<h1 class="centerText servicesHeader">Brand or Bust</h1>
 		<div class="flex full center">
-			<p>Drive customer loyalty and make yourself recognizable to a broader audience.</p>
+			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
 			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
 			<p>With a strong following it is much easier and efficient to test and release new products.</p>
 		</div>
