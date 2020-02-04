@@ -8,11 +8,11 @@
 		<a href="/index.php" id="headerLogo">
 			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
 		</a>
-		<a href="/pages/webDesign">Web Design</a>
+		<a href="/pages/web-design">Web Design</a>
 		<a href="/pages/branding">Logos & Branding</a>
 		<!-- <a href="/pages/ecommerce.php">E-Commerce</a> -->
-		<a href="/pages/onlineMarketing">Online Marketing</a>
-		<a id="headerContact" href="/pages/contactUs">Contact Us</a>
+		<a href="/pages/marketing">Online Marketing</a>
+		<a id="headerContact" href="/pages/contact">Contact Us</a>
 	</div>
 
 	<div class="mobile flex column dark white-text">
