@@ -100,14 +100,14 @@ header .mobile {
 #propBoxes p{
     width: 28%;
     /* text-align: justify; */
-    background: #57517cba;
+    background: #504a75c2;
     text-shadow: none;
     color: #ffffffdb;
     padding: 0.6%;
     font-size: 2vw;
     font-weight: 600;
     text-shadow: #1b1b1b 0.2vw 0.2vw;
-    box-shadow: #255e63 0.4vw 0.4vw 0vw;
+    box-shadow: #6fdcc8 0.4vw 0.4vw 0vw;
     border-radius: 0.2vw;
 }
 

@@ -4,7 +4,7 @@
 <form method="post" action="/pages/sendForm" class="flex row space-between wrap" id="homepageContact">
     <h3 class="centerText contactHeader">We Look Forward To Hearing From You</h3>
     <h1 id="mobileContactHeader" class="centerText contactHeader">Lets Get Started</h1>
-
+    <div>
     <label for="contactName">Your Name:</label>
     <input id="contactName" type="text" name="name" placeholder="Your name,">
 
@@ -16,4 +16,5 @@
 
     <label for="promo">Submit</label>
     <input id="contactSubmit" class="button" type="submit">
+</div>
 </form>
