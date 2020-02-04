@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/pages/branding" />
+<link rel="canonical" href="https://alenthea.com/pages/onlineMarketing.php" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -17,16 +17,16 @@
 	<link rel="manifest" href="/site.webmanifest">
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
-    <link href="style/branding.css" rel="stylesheet" type="text/css">
+	<link href="style/marketing.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Logos & Branding - Alenthea  | Columbus, Georgia</title>
-	<meta name="description" content="Your branding is your promise to your customers; Make it mean something." />
+	<title>Online & Digital Marketing | Columbus, Georgia | Alenthea Web Design</title>
+	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "http://www.alenthea.com/pages/branding.php",
+		  "url": "http://www.alenthea.com/pages/onlineMarketing.php",
 		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
@@ -45,34 +45,31 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Alenthea Web Design",
-              "item": "http://alenthea.com/pages/branding.php"
+              "item": "http://alenthea.com/pages/onlineMarketing.php"
             }]
 		}
-        
 		</script>
 </head>
 <body>
-	<?php include "../sections/header.php";?>
-	
+    <?php include "../sections/header.php";?>
     <div class="flex column bigOlText">
-        <img src="/images/logosBranding.png" alt="Logos and Branding"> 
+		<img src="/images/onlinemarketing.svg" alt="Online and Digital Marketing"> 
 	</div>
-
+	
 	<section>
-		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement.</h3>
 	</section>
-    
+	
 	<section>
 		<h1 class="centerText servicesHeader">Our Services</h1>
 		<ul class="flex row center wrap" id="servicesList">
-				<li>Logo Design</li>
-            	<li>Business Cards</li>
-            	<li>Promotional Material</li>
+				<li>E-Commerce</li>
+            	<li>Lead Collection</li>
+            	<li>Local Search</li>
+            	<li>Ad Campaigns</li>
+            	<li>Mailing Lists</li>
             	<li>Social Media</li>
-            	<li>Brand Style Guide</li>
-            	<li>Stationery</li>
-            	<li>E-mail Blasts</li>
-            	<li>Package Design</li>
+            	<li>Sales Funnels</li>
 		</ul>
 	</section>
 
@@ -84,7 +81,6 @@
 			<p>With a strong following it is much easier and efficient to test and release new products.</p>
 		</div>
 	</section>
-
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

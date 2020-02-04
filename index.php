@@ -73,7 +73,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
 					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
-					<a href="/pages/webDesign" class="button">View More</a>
+					<a href="/pages/web-design" class="button">View More</a>
 				</div>
 			</section>
 			<section id="ecommerce" class="flex column center serviceTile light">
@@ -87,7 +87,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>E-Commerce</h1>
 					<p>Grow your customer base and reach new potential.</p>	
-					<a href="/pages/webDesign" class="button">View More</a>
+					<a href="/pages/web-design" class="button">View More</a>
 				</div>
 			</section>
 			<section id="onlineMarketing" class="flex column center serviceTile light">
@@ -101,7 +101,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Online Marketing</h1>
 					<p>Spread awareness for your products or brand.</p>	
-					<a href="/pages/onlineMarketing" class="button">View More</a>
+					<a href="/pages/marketing" class="button">View More</a>
 				</div>
 			</section>
 			<section id="logosBranding" class="flex column center serviceTile light">
