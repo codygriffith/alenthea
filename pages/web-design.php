@@ -101,6 +101,12 @@
 			<a class="button">Learn More</a>
 		</div>
 	</section>
+	<section id="ecommerce" class="flex column bigOlText">
+		<div>
+			<h1>E-Commerce</h1>
+			<p>Take your business online and market your products across the most popular platforms.<p>
+		</div>
+	</section>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

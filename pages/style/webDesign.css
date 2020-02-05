@@ -18,7 +18,7 @@
 .bigOlText {
     background-image: url("/images/starsBackground.jpg");
     color: white;
-    font-size: 2.4vw;
+    font-size: 8.4vw;
 }
 
 .littleOlText {
@@ -70,19 +70,48 @@
 #hosting h1{
     font-size: 9vw;
     line-height: 100%;
+    text-shadow: #90adcc 0.3vw 0.3vw;
 }
 #hosting h2{
     font-size: 4.75vw;
     line-height: 100%;
+    text-shadow: #90adcc 0.1vw 0.1vw;
 }
+
 #hosting img{
     width: 30vw;
 }
+
 #hosting a{
     font-size: 2.5vw;
     /* line-height: 60%; */
     margin-top: 2vw;
 }
+
+#ecommerce{
+    padding: 2vw 2vw 2vw 2vw;
+    background-image: url("/images/minimalBackground4.jpg");
+    background-size: 100%;
+    background-position: center;
+}
+#ecommerce div{
+    background-color: #ffffffb8;
+    padding: 2vw;
+}
+
+#ecommerce h1{
+    font-size: 5.25vw;
+    margin-bottom: 1vw;
+    color: #1b1b1b;
+    text-shadow: #60b4e6c4 0.15vw 0.15vw;
+}
+
+#ecommerce p{
+    font-size: 3.25vw;
+    padding-left: 6vw;
+    color: #1b1b1b;
+}
+
 @media only screen and (max-width: 800px) {
     mobileHeader {
         position: unset;
@@ -158,6 +187,11 @@
         font-size: 4vw;
         font-weight: 400;
     }
-    
+    #ecommerce h1{
+
+    }
+    #ecommerce p{
+        
+    }
 
 }

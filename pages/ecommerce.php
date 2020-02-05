@@ -1,57 +1,90 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-	<link href="../index.css" rel="stylesheet" type="text/css">
-	<link href="style/page.css" rel="stylesheet" type="text/css">
+<link rel="canonical" href="https://alenthea.com/pages/branding" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	<link href="../pages/style.css" rel="stylesheet" type="text/css">
-	<link href="../sections/contact.css" rel="stylesheet" type="text/css">
-	<link href="../sections/footer.css" rel="stylesheet" type="text/css">
+  gtag('config', 'UA-157506747-1');
+</script>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link href="../style.css" rel="stylesheet" type="text/css">
+	<link href="style/page.css" rel="stylesheet" type="text/css">
+    <link href="style/branding.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>Logos & Branding - Alenthea  | Columbus, Georgia</title>
+	<meta name="description" content="Your branding is your promise to your customers; Make it mean something." />
+	<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "Organization", 
+		  "url": "http://www.alenthea.com/pages/branding.php",
+		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
+		  "brand": "Alenthea, Alenthea Design Co"
+		  
+		}</script>
+        <script type="application/ld+json">
+        {
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+  			"itemListElement": [{
+         	  "@type": "ListItem",
+          	  "position": 1,
+         	  "name": "Alenthea Design Co",
+         	  "item": "http://alenthea.com/index.php"
+  	    	},{
+        	  "@type": "ListItem",
+          	  "position": 2,
+          	  "name": "Alenthea Web Design",
+              "item": "http://alenthea.com/pages/branding.php"
+            }]
+		}
+        
+		</script>
 </head>
 <body>
 	<?php include "../sections/header.php";?>
-	<div id="serviceBanner" class="flex center-left column">
-		<h1>E-Commerce</h1>
-		<h3>Out-class and out-rank your competition with a strong, hand-crafted, online experience.</h3>
-	</div>
 	
-	<div class="full flex center">
-		<h4 id="sectionHeader" class="flex column center">Our websites are loaded with features:</h4>
+    <div class="flex column bigOlText">
+        <img src="/images/logosBranding.png" alt="Logos and Branding"> 
 	</div>
 
-	<div class="flex row wrap center" id="serviceTiles">
-		<div>
-			<h1>Mobile Ready</h1>
-			<p>All of our designs are built responsively and with all possible screensizes in mind.</p>
-			<!-- <a class="button">Yeet me</a> -->
+	<section>
+		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+	</section>
+    
+	<section>
+		<h1 class="centerText servicesHeader">Our Services</h1>
+		<ul class="flex row center wrap" id="servicesList">
+				<li>Logo Design</li>
+            	<li>Business Cards</li>
+            	<li>Promotional Material</li>
+            	<li>Social Media</li>
+            	<li>Brand Style Guide</li>
+            	<li>Stationery</li>
+            	<li>E-mail Blasts</li>
+            	<li>Package Design</li>
+		</ul>
+	</section>
 
+	<section id="propBoxes" class="flex column center">
+		<h1 class="centerText servicesHeader">Brand or Bust!</h1>
+		<div class="flex full center">
+			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
+			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
+			<p>With a strong following it is much easier and efficient to test and release new products.</p>
 		</div>
-		<div>
-			<h1>Dynamic Content</h1>
-			<p>Dynamic web sites are faster, more secure, and delivers fresh content.</p>
-			<!-- <a class="button">Yeet me</a> -->
+	</section>
 
-		</div>
-		<div>
-			<h1>Domain Email</h1>
-			<p>Impress your audience with your own "@yourdomain" custom email address.</p>
-			<!-- <a class="button">Yeet me</a> -->
-
-		</div>
-		<div>
-			<h1>Intelligent S.E.O.</h1>
-			<p>Place your content in front of the right people when they need you most.</p>
-			<!-- <a class="button">Yeet me</a> -->
-		</div>
-	</div>
-	<div id="bigOlText" class="flex column">
-		<h1>Latest Technologies;</h1>
-		<h1>Highest Standards.</h1>
-	</div>
-	<p id="littleOlText">We build our sites to last the test of time. We use the latest technologies and the best inustry practices for a product that works across any device for years to come.</p>
-	<!-- <?php include "../sections/blog.php";?> -->
-	<br>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>
