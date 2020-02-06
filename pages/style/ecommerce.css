@@ -29,7 +29,7 @@
 }
 
 #captureCustomers h2 {
-    text-shadow: #9baaff 0.15vw 0.15vw;
+    text-shadow: #90adcc 0.15vw 0.15vw;
 }
 
 #serviceTile {
@@ -54,6 +54,20 @@
 }
 
 .secondBigText h1{
-    font-size: 6vw;
-    text-shadow: #6a72a3 .15vw .15vw;
+    font-size: 5.5vw;
+    text-shadow: #16495c 0.35vw 0.35vw;
+    line-height: 100%;
+    /* margin-bottom: 3vw; */
+}
+
+h1 {}
+
+.secondBigText{
+    background-image: url("/images/FULFILMENT.SVG");
+    background-size: cover;
+    background-position: center;
+    height: 25vw;
+    padding-top: 1vw;
+    /* margin-bottom: 10vw; */
+    padding-bottom: 2vw;
 }

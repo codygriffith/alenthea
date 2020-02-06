@@ -64,7 +64,7 @@
 
 
 		<div class="full flex center">
-		<h4 class="flex column center sectionHeader">Technology We Use:</h4>
+		<h4 class="flex column center sectionHeader">Our Technology:</h4>
 	</div>
 
 	<div class="flex row wrap center" id="serviceTiles">
@@ -93,7 +93,7 @@
 		<h1>Product fulfilment;</h1>
 		<h1>Product photography.</h1>
 	</div>
-	<p class="littleOlText secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+	<p class="littleOlText secondLittleText">We are here for all of your needs. Find out what we can do for you.</p>
 
 
 
