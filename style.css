@@ -49,6 +49,11 @@ ul {
 	-webkit-flex-direction: row;
 }
 
+.row-reverse {
+	flex-direction: row-reverse;
+	-webkit-flex-direction: row-reverse;
+}
+
 .center {
 	justify-content: space-evenly;
 	-webkit-justify-content: space-evenly;
@@ -72,6 +77,10 @@ ul {
 
 .space-between {
 	justify-content: space-between;
+}
+
+.space-around {
+	justify-content: space-around;
 }
 
 /* Text */

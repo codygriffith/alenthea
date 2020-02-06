@@ -1,0 +1,59 @@
+.bigOlText h1{
+    font-size: 8.5vw;
+    text-shadow: #6a72a3 0.3vw 0.3vw;
+}
+
+#captureCustomers h1{
+    text-align: center;
+    /* margin-bottom: 5vw; */
+    font-size: 3.25vw;
+    color: #1b1b1b;
+}
+
+#captureCustomers h2{
+    text-align: center;
+    margin-bottom: 4vw;
+    font-size: 4.5vw;
+    color: #1c1c1c;
+    margin-top: auto;
+}
+
+#captureCustomers{
+    /* padding: 2vw 6vw; */
+    /* background-image: url("/images/abstractBackground2.jpg"); */
+    margin: auto 0 auto 0;
+}
+
+#captureCustomers img{
+    width: 13vw;
+}
+
+#captureCustomers h2 {
+    text-shadow: #9baaff 0.15vw 0.15vw;
+}
+
+#serviceTile {
+    margin-bottom: 2;
+}
+
+#serviceTiles div{
+    width: 20%;
+    padding: 1vw;
+    /* height: auto; */
+    display: flex;
+}
+
+#serviceTiles div img{
+    width: 100%;
+    /* max-height: 17vw; */
+}
+
+#serviceTiles div {
+    background: none;
+    box-shadow: none;
+}
+
+.secondBigText h1{
+    font-size: 6vw;
+    text-shadow: #6a72a3 .15vw .15vw;
+}

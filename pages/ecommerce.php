@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/pages/branding" />
+<link rel="canonical" href="https://alenthea.com/pages/web-design" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -17,16 +17,18 @@
 	<link rel="manifest" href="/site.webmanifest">
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="style/page.css" rel="stylesheet" type="text/css">
-    <link href="style/branding.css" rel="stylesheet" type="text/css">
+	<link href="style/webDesign.css" rel="stylesheet" type="text/css">
+	<link href="style/ecommerce.css" rel="stylesheet" type="text/css">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Logos & Branding - Alenthea  | Columbus, Georgia</title>
-	<meta name="description" content="Your branding is your promise to your customers; Make it mean something." />
+	<title>Web Design - Alenthea | Columbus, Georgia</title>
+	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "http://www.alenthea.com/pages/branding.php",
+		  "url": "http://www.alenthea.com/pages/webDesign.php",
 		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
@@ -45,7 +47,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Alenthea Web Design",
-              "item": "http://alenthea.com/pages/branding.php"
+              "item": "http://alenthea.com/pages/webDesign.php"
             }]
 		}
         
@@ -54,36 +56,90 @@
 <body>
 	<?php include "../sections/header.php";?>
 	
-    <div class="flex column bigOlText">
-        <img src="/images/logosBranding.png" alt="Logos and Branding"> 
+	<div class="flex column bigOlText">
+        <h1>E-Commerce</h1> 
+    </div>
+		<h3 class="littleOlText">Take your business online and market your products across the most popular platforms.</h3>
+	
+
+
+		<div class="full flex center">
+		<h4 class="flex column center sectionHeader">Technology We Use:</h4>
 	</div>
 
-	<section>
-		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
-	</section>
-    
-	<section>
-		<h1 class="centerText servicesHeader">Our Services</h1>
-		<ul class="flex row center wrap" id="servicesList">
-				<li>Logo Design</li>
-            	<li>Business Cards</li>
-            	<li>Promotional Material</li>
-            	<li>Social Media</li>
-            	<li>Brand Style Guide</li>
-            	<li>Stationery</li>
-            	<li>E-mail Blasts</li>
-            	<li>Package Design</li>
-		</ul>
-	</section>
+	<div class="flex row wrap center" id="serviceTiles">
+		<div>
+			<img src="/images/shopify_logo_whitebg.svg" alt="">
 
-	<section id="propBoxes" class="flex column center">
-		<h1 class="centerText servicesHeader">Brand or Bust!</h1>
-		<div class="flex full center">
-			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
-			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
-			<p>With a strong following it is much easier and efficient to test and release new products.</p>
+		</div>
+		<div>
+			<img src="/images/wordpress.png" alt="">
+
+		</div>
+		<div>
+			<img src="/images/facebook.png" alt="">
+		</div>
+		<div>
+			<img src="/images/instagram.jpg" alt="">
+		</div>
+	</div>
+
+
+
+
+
+
+	<div class="flex column bigOlText secondBigText">
+		<h1>Product fulfilment;</h1>
+		<h1>Product photography.</h1>
+	</div>
+	<p class="littleOlText secondLittleText">Our sites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+
+
+
+
+
+
+
+
+
+	<section id="captureCustomers" class="flex column">
+		<!-- <h1 class="sectionHeader">Find New Customers</h1> -->
+	<section class="flex row-reverse  center">
+		<h2>Recover Abandoned Carts</h2>
+		<img src="/images/ecomcart.png">
+	</section>
+	<section class="flex row space-around">
+		<h2>Retarget Website Visitors</h2>
+		<img src="/images/retarget.png">
+	</section>
+	</section>
+		
+
+	
+	
+	
+	
+	
+	<section id="ecommerce" class="flex column bigOlText">
+		<div>
+			<h1>E-Commerce</h1>
+			<p>Take your business online and market your products across the most popular platforms.<p>
 		</div>
 	</section>
+
+
+	<section class="flex center row" id="hosting">
+		<img src="/images/server.jpg" alt="Server Illustration">
+		<div class="flex center column">
+			<h1>HOSTING</h1>
+			<h2>Low to No Cost</h2>
+			<a class="button">Learn More</a>
+		</div>
+	</section>
+
+
+
 
 	<?php include "../sections/contact.php";?>
 	<br><br>
