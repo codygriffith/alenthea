@@ -4,9 +4,15 @@
 	padding-right: 4vw;
 }
 
+header li{
+	display: flex;
+}
+
 header a {
 	font-size: 2.2vw;
 	text-decoration: none;
+	background-color: #0d0d0d;
+	padding: 0 .5vw .5vw .5vw;
 }
 
 .desktop #headerLogo img {
@@ -27,16 +33,27 @@ mobileHeader{
 	display: none;
 }
 .toggle {
-    height: 12.5vh !important;
-   }
+    height: 8.5vh !important;
+}
 
 
-   
+
+header ul li ul {
+	position: absolute;
+	height: 0;
+	overflow: hidden;
+}
+
+header ul li ul li{
+	display: block;
+}
 
 @media screen and (max-width: 800px) {
     .mobile a {
 		font-size: 8vw;
-		/* padding-right: 4vw; */
+		padding-right: 7vw;
+		background-color: unset;
+
 		text-decoration: none;
     }
     
@@ -44,10 +61,6 @@ mobileHeader{
 		width: 4vw;
 	}
 	
-    .mobile a {
-		font-size: 8vw;
-		text-decoration: none;
-	}
 
 	#headerLogo img{
 		width: 16vw;
@@ -87,7 +100,4 @@ mobileHeader{
 		/* padding-bottom: 3vw; */
 	}
 
-	#toggleBar:hover {
-		cursor: pointer !important;
-	}
 }

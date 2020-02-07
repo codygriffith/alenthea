@@ -60,9 +60,6 @@
         <h1>E-Commerce</h1> 
     </div>
 		<h3 class="littleOlText">Take your business online and market your products across the most popular platforms.</h3>
-	
-
-
 		<div class="full flex center">
 		<h4 class="flex column center sectionHeader">Our Technology:</h4>
 	</div>
@@ -70,11 +67,9 @@
 	<div class="flex row wrap center" id="serviceTiles">
 		<div>
 			<img src="/images/shopify_logo_whitebg.svg" alt="">
-
 		</div>
 		<div>
 			<img src="/images/wordpress.png" alt="">
-
 		</div>
 		<div>
 			<img src="/images/facebook.png" alt="">
@@ -121,22 +116,22 @@
 	
 	
 	
-	<section id="ecommerce" class="flex column bigOlText">
+	<!-- <section id="ecommerce" class="flex column bigOlText">
 		<div>
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms.<p>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="flex center row" id="hosting">
+	<!-- <section class="flex center row" id="hosting">
 		<img src="/images/server.jpg" alt="Server Illustration">
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
 			<a class="button">Learn More</a>
 		</div>
-	</section>
+	</section> -->
 
 
 
