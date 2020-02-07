@@ -60,8 +60,9 @@
     /* margin-bottom: 3vw; */
 }
 
-h1 {}
-
+#serviceTiles {
+    width: 80%;
+}
 .secondBigText{
     background-image: url("/images/FULFILMENT.SVG");
     background-size: cover;
