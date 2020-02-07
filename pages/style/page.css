@@ -61,7 +61,7 @@ header .mobile {
     margin: 1% 3%;
     font-weight: 500;
     font-size: 2.25vw;
-    color: #1d1d1d;
+    color: #46484b;
     background-color: #82acd745;
     padding: .5%;
     display: flex;
@@ -77,8 +77,8 @@ header .mobile {
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
     margin: auto;
-    margin-bottom: 1.8vw;
-    margin-top: 3vw;
+    margin-bottom: 3.8vw;
+    margin-top: 1.5vw;
 }
 
 
