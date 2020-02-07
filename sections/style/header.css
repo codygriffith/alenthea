@@ -13,6 +13,7 @@ header a {
 	text-decoration: none;
 	background-color: #0d0d0d;
 	padding: 0 .5vw .5vw .5vw;
+	z-index: 100;
 }
 
 .desktop #headerLogo img {
@@ -46,6 +47,11 @@ header ul li ul {
 
 header ul li ul li{
 	display: block;
+}
+
+
+#navHover {
+
 }
 
 @media screen and (max-width: 800px) {
