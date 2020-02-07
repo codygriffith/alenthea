@@ -132,7 +132,7 @@
 		</section>
 	<div class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
-		<h3>Our Mission Is To Help Our Clients Realize Their Dreams<br> No Matter How Big Or Small.</h3>
+		<h3>Our Mission Is To Help Our Clients Realize Their Dreams,<br> No Matter How Big Or Small.</h3>
 	</div>
 	</main>
 	<?php include 'sections/contact.php';?>
