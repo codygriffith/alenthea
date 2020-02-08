@@ -29,6 +29,11 @@ footer .mobile, footer .desktop {
 	margin: auto;
 }
 
+#footerExtend {
+	height: 30vh;
+	background-color: #0d0d0ded;
+}
+
 @media screen and (max-width: 800px) {
 	.footerLogo {
 		width: 20vw;
@@ -50,5 +55,10 @@ footer .mobile, footer .desktop {
 		font-size: 5.25vw;
 		border: none;
 		padding-top: 0;
+	}
+
+	#footerExtend {
+		height: 50vh;
+		background-color: #0d0d0ded;
 	}
 }

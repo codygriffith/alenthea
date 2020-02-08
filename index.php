@@ -41,11 +41,11 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta charset="utf-8">
-<title>Alenthea Design Co.</title>
+<title>Alenthea Design Co. | Web Design, Digital Marketing, Branding in Columbus, Ga.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
-<meta name="description" content="Our Hand-Crafted Solutions are uniquely developed for each individual client for a product that stands out from the rest and delivers Complete Satisfaction for both yourself and users alike." />
+<meta name="description" content="We are a full-service design agency operating in Columbus, GA. We specialize in Web Design, Digital Marketing, logos, and Branding. " />
 <meta name="keywords" content="Web, Design, Logos, Branding, Online, Marketing, Development" />
 <!-- <meta http-equiv="refresh" content="1"> -->
 <!-- <base href="http://www.alenthea.com/index.html"> -->
