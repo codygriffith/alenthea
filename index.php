@@ -45,7 +45,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
-<meta name="description" content="We are a full-service design agency operating in Columbus, GA. We specialize in Web Design, Digital Marketing, logos, and Branding. " />
+<meta name="description" content="We are a full-service design agency operating in Columbus, GA. We specialize in Web Design, Digital Marketing, logos, and Branding. Check out our our low to no cost hosting options." />
 <meta name="keywords" content="Web, Design, Logos, Branding, Online, Marketing, Development" />
 <!-- <meta http-equiv="refresh" content="1"> -->
 <!-- <base href="http://www.alenthea.com/index.html"> -->
