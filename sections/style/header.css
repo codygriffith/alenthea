@@ -43,15 +43,16 @@ header ul li ul {
 	position: absolute;
 	height: 0;
 	overflow: hidden;
+	transition: .65s height;
+	padding-top: 1vw;
 }
 
 header ul li ul li{
 	display: block;
 }
 
-
-#navHover {
-
+header ul li:hover ul{
+	height: 10vw;
 }
 
 @media screen and (max-width: 800px) {
