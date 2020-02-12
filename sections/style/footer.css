@@ -31,7 +31,20 @@ footer .mobile, footer .desktop {
 
 #footerExtend {
 	height: 30vh;
-	background-color: #0d0d0ded;
+	background-color: #1b1b1be8;
+	padding: 0 2vw 0 2vw;
+}
+
+#footerExtend div h3{
+	color: #e2e2e2;
+    font-size: 2vw;
+    font-weight: 400;
+}
+
+#footerExtend div h4{
+	color: #e2e2e2;
+    font-size: 1.5vw;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 800px) {
@@ -61,4 +74,6 @@ footer .mobile, footer .desktop {
 		height: 50vh;
 		background-color: #0d0d0ded;
 	}
+
+	
 }
