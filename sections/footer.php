@@ -36,21 +36,21 @@
         </div>
         <div class="flex column">
             <h3>Resources</h3>
-            <h4>3333</h4>
-            <h4>Hosting Guide</h4>
-            <h4>Alenthea Blog</h4>
-            <h4>Job Opportunities</h4>
+            <!-- <a href=""><h4>Hosting Guide</h4></a> -->
+            <a href=""><h4>Branding Guide</h4></a>
+            <a href=""><h4>Alenthea Blog</h4></a>
+            <a href=""><h4>Job Opportunities</h4></a>
         </div>
         <div class="flex column">
-            <h3>Services</h3>
-            <h4>Web Design</h4>
-            <h4>E-Commerce</h4>
-            <h4>Logos & Branding</h4>
-            <h4>Online Marketing</h4>
+           <h3>Services</h3>
+            <a href="/pages/web-design"><h4>Web Design</h4></a>
+            <a href="/pages/ecommerce"><h4>E-Commerce</h4></a>
+            <a href="/pages/branding"><h4>Logos & Branding</h4></a>
+            <a href="/pages/marketing"><h4>Online Marketing</h4></a>
         </div>
         <div class="flex column">
-            <h3>Contact Us</h3>
-            <h4>About Us</h4>
+           <a href="/pages/contact"><h3>Contact Us</h3></a>
+            <a href=""><h4>About Us</h4></a>
         </div>
     </div>
 </footer>
