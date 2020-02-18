@@ -36,6 +36,7 @@
         </div>
         <div class="flex column">
             <h3>Resources</h3>
+<<<<<<< HEAD
             <a>Hosting Guide</a>
             <a>Alenthea Blog</a>
             <a>Job Opportunities</a>
@@ -50,6 +51,23 @@
         <div class="flex column">
             <h3>Contact Us</h3>
             <a>About Us</a>
+=======
+            <!-- <a href=""><h4>Hosting Guide</h4></a> -->
+            <a href=""><h4>Branding Guide</h4></a>
+            <a href=""><h4>Alenthea Blog</h4></a>
+            <a href=""><h4>Job Opportunities</h4></a>
+        </div>
+        <div class="flex column">
+           <h3>Services</h3>
+            <a href="/pages/web-design"><h4>Web Design</h4></a>
+            <a href="/pages/ecommerce"><h4>E-Commerce</h4></a>
+            <a href="/pages/branding"><h4>Logos & Branding</h4></a>
+            <a href="/pages/marketing"><h4>Online Marketing</h4></a>
+        </div>
+        <div class="flex column">
+           <a href="/pages/contact"><h3>Contact Us</h3></a>
+            <a href=""><h4>About Us</h4></a>
+>>>>>>> 03c2a1b267f2cf6de71a98d8fa4f148c60aadb9b
         </div>
     </div> -->
 </footer>
