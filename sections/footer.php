@@ -29,28 +29,27 @@
         </div>
     </div>
     <section>
-    <div id="footerExtend" class="flex row space-between between">
+    <!-- <div id="footerExtend" class="flex row space-between between">
         <div class="flex column">
             <h3>Alenthea Design Co.</h3>
             <h4>Serving Columbus, Georgia <br> and  the surrounding areas.</h4>
         </div>
         <div class="flex column">
             <h3>Resources</h3>
-            <h4>3333</h4>
-            <h4>Hosting Guide</h4>
-            <h4>Alenthea Blog</h4>
-            <h4>Job Opportunities</h4>
+            <a>Hosting Guide</a>
+            <a>Alenthea Blog</a>
+            <a>Job Opportunities</a>
         </div>
         <div class="flex column">
             <h3>Services</h3>
-            <h4>Web Design</h4>
-            <h4>E-Commerce</h4>
-            <h4>Logos & Branding</h4>
-            <h4>Online Marketing</h4>
+            <a>Web Design</a>
+            <a>E-Commerce</a>
+            <a>Logos & Branding</a>
+            <a>Online Marketing</a>
         </div>
         <div class="flex column">
             <h3>Contact Us</h3>
-            <h4>About Us</h4>
+            <a>About Us</a>
         </div>
-    </div>
+    </div> -->
 </footer>

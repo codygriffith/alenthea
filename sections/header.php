@@ -10,7 +10,7 @@
 		</a>
 	</li>
 	<li>
-		<a href="/pages/web-design">Web Design</a>
+		<a href="/pages/columbus-ga-web-design">Web Design</a>
 		<ul>
 			<li>
 				<a href="/pages/ecommerce.php">eCommerce</a>
@@ -27,14 +27,6 @@
 		<a id="headerContact" href="/pages/contact">Contact Us</a>
 	</li>
 </ul>
-
-
-
-
-
-
-
-
 
 
 	<ul class="desktop flex row center dark white-text">

@@ -41,7 +41,7 @@ footer .mobile, footer .desktop {
     font-weight: 400;
 }
 
-#footerExtend div h4{
+#footerExtend div a, #footerExtend div h4{
 	color: #e2e2e2;
     font-size: 1.5vw;
     font-weight: 400;
