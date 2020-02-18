@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<link rel="canonical" href="/" />
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
