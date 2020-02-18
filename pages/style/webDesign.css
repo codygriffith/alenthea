@@ -112,7 +112,7 @@
 }
 
 .options {
-    padding: 0 4vw;
+    padding: 2vw 4vw;
 }
 
 .options h1 {
@@ -205,6 +205,21 @@
     }
     #ecommerce p{
         
+    }
+
+
+
+    .options h1 {
+        font-size: 9vw;
+        text-align: center;
+        font-weight: 700;
+    }
+    .options p {
+        font-size: 4vw;
+        font-weight: 500;
+        width: 98%;
+        text-align: justify;
+        line-height: 4.5vw;
     }
 
 }

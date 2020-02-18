@@ -23,6 +23,7 @@
 	<link href="style/page.css" rel="stylesheet" type="text/css">
 
 	<link href="style/contactUs.css" rel="stylesheet" type="text/css">
+    <meta name="robots" content="noindex">
 </head>
 
 <body>
