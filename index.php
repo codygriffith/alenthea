@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<link rel="canonical" href="alenthea.com" />
+<link rel="canonical" href="www.alenthea.com" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
