@@ -73,7 +73,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
 					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
-					<a href="/pages/web-design" class="button">View More</a>
+					<a href="/pages/columbus-ga-web-design" class="button">View More</a>
 				</div>
 			</section>
 			<section id="ecommerce" class="flex column center serviceTile light">
