@@ -28,7 +28,7 @@
             </div>
         </div>
     </div>
-    <section>
+</section>
     <!-- <div id="footerExtend" class="flex row space-between between">
         <div class="flex column">
             <h3>Alenthea Design Co.</h3>
