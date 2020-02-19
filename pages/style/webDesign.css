@@ -30,7 +30,7 @@
     justify-content: space-between;
     width: 98%;
     margin: auto;
-    margin-bottom: 7vw;
+    /* margin-bottom: 7vw; */
 }
 
 #serviceTiles div {
@@ -113,6 +113,7 @@
 
 .options {
     padding: 2vw 4vw;
+    padding-top: 0;
 }
 
 .options h1 {
@@ -139,7 +140,7 @@
         margin: 5% 0px 4% 0%;
     }
     .littleOlText {
-        font-size: 4.45vw;
+        font-size: 4.15vw;
         text-align: center;
     }
     .bigOlText {
@@ -153,23 +154,23 @@
     }
 
     #serviceTiles{
-        flex-direction: column;
-        
+        /* flex-direction: column; */
     }
 
     #serviceTiles h1{
-        font-size: 6vw;
+        font-size: 4.8vw;
     }
 
     #serviceTiles div{
-        width: 85%;
+        width: 45%;
         margin-bottom: 5vw;
     }
 
     #serviceTiles p{
-        font-size: 4.2vw;
+        font-size: 2.9vw;
         font-weight: 500;
         padding-bottom: 2vw;
+        text-align: left;
     }
 
     .secondBigText{
@@ -210,16 +211,21 @@
 
 
     .options h1 {
-        font-size: 9vw;
+        font-size: 7vw;
         text-align: center;
         font-weight: 700;
     }
     .options p {
-        font-size: 4vw;
+        font-size: 3.25vw;
         font-weight: 500;
         width: 98%;
         text-align: justify;
         line-height: 4.5vw;
+    }
+
+
+    .sectionHeader {
+        font-size: 4.5vw;
     }
 
 }

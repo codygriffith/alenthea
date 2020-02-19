@@ -155,6 +155,49 @@
 }
 
 
+#openingPitch h1{
+	font-size: 2.25vw;
+	padding: 0 5%;
+	color: #1b1b1b;
+	line-height: 140%;
+	/* margin: 5.5vw 0; */
+	text-shadow: grey 0.05vw 0.05vw;
+	font-style: italic;
+	font-weight: 500;
+	text-align: left;
+}
+
+#goals{
+	background-color: black;
+	background-image: url(/images/lunar_eclipse_blood_moon_0.jpg);
+	background-size: cover;
+}
+
+#goals h2{
+	color: #F6F6F7;
+	font-family: montserrat;
+	margin: 2vw 0;
+	font-size: 4vw;
+	text-shadow: #4D5668 .3vw .25vw;
+}
+
+#goals p{
+	font-size: 1.8vw;
+	width: 28%;
+	background-color: #FFFFFF;
+	min-height: 13vw;
+	box-shadow: #1b1b1b .3vw .3vw .5vw;
+	font-weight: 600;
+	font-family: montserrat;
+	padding: 1vw;
+	margin-bottom: -2vw;
+	/* padding-bottom: 0vw; */
+}
+
+form {
+	margin-top: 2vw;
+}
+
 
 @media only screen and (max-width: 800px) {
 	
@@ -240,12 +283,45 @@
 	}
 
 	#missionBanner h3{
-		font-size: 4.75vw;
+		font-size: 4.35vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
 		display: none;
 	}
 	
+	#goals{
+		background-size: 180%;
+	}
+
+	#goals div{
+		flex-direction: column;
+		align-items: unset;
+	}
+
+	#goals h2{
+		font-size: 6.5vw;
+		background: linear-gradient(#fff0 65%, #ab85763b 30%);
+	}
+	#goals p{
+		width: 85%;
+		min-height: 0;
+		background: none;
+		color: white;
+		/* left: 0; */
+		/* margin-right: 17%; */
+		margin: 1vw 0;
+		box-shadow: none;
+		font-size: 3vw;
+		font-weight: 600;
+		background-color: #92939a1f;
+	}
+	#goals p:nth-child(2){
+		width: 89%;
+		/* padding-left: 35%; */
+		text-align: end;
+		right: 0;
+		align-self: flex-end;
+	}
 	
   }

@@ -119,15 +119,9 @@
 			</section>
 		</section>
 
-		<section>
+		<section id="openingPitch">
 			<p id="homepage-pitch" class="font-two">
-				We are a full Service design agency operating in Columbus, GA. We 
-				specialize in Web Design, Digital Marketing, Logos, and Branding. 
-				Check out our our 
-				<span class="text-highlight">low-to-no cost hosting</span> 
-				options.
-			</p>
-			<p id="homepage-pitch" class="font-two">
+				 
 				Our 
 				<span class="text-highlight">Hand-Crafted</span> 
 				Solutions  are uniquely developed for each individual client for a product that stands out from the 
@@ -140,6 +134,20 @@
 		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams,<br> No Matter How Big Or Small.</h3>
 	</div>
+
+
+
+		<section id="goals" class="flex center column">
+			<h2>Achieve Your Goals</h2>
+			<div class="flex row center">
+				<p>Generate more leads and market your services locally and nationally. Promote trust in your brand and show your expertise.</p>
+				<p>Rank higher in organic search results and make yourself discoverable on the web. Increase your presence in local search.</p>
+				<p>Refresh your brand identity and maintain a modern appearance in today’s ever evolving market.</p>
+			</div>
+		</section>
+
+
+
 	</main>
 	<?php include 'sections/contact.php';?>
 	<a href="https://twitter.com/alentheac?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @alenthea2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	
