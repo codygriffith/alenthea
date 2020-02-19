@@ -14,7 +14,7 @@
     <label for="moreInfo">How may we help you?</label>
     <textarea name="message" id="moreInfo" placeholder="and what we can do for you."></textarea>
 
-    <label for="promo">Submit</label>
+    <label for="contactSubmit">Submit</label>
     <input id="contactSubmit" class="button" type="submit">
 </div>
 </form>
