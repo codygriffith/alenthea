@@ -52,10 +52,12 @@
 		</script>
 </head>
 <body>
-	<?php include "../sections/header.php";?>
-	<div class="flex column bigOlText">
-            <img src="/images/webDesign2.svg" alt="Web Design"> 
-        </div>
+    <?php include "../sections/header.php";?>
+    
+	<h1 class="flex column bigOlText">
+            <span>Columbus Ga</span>
+            Web Design
+        </h1>
         <h3 class="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
 	
 	

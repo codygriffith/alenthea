@@ -40,7 +40,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta charset="utf-8">
-<title>Alenthea Design Co. - Web Design, Logos, & Marketing in Columbus, GA</title>
+<title>Columbus, Ga Web Design, Logos, & Marketing</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
@@ -59,7 +59,6 @@
 		<section id="heroImage" class="flex center">
 			<img src="/images/alentheaFullLogo.svg" alt="Alenthea Logo">
 		</section>
-
 		<section class="flex row center full wrap" id="services">
 			<section id="webDesign" class="flex column center serviceTile light">
 				<div class="flex medium center serviceIconContainer">

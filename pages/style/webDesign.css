@@ -126,6 +126,20 @@
     width: 70vw;
 }
 
+.bigOlText {
+    font-size: 10.5vw;
+    line-height: 90%;
+    width: auto;
+    text-align: center;
+    text-shadow: #6a72a3 .4vw .4vw;
+}
+
+.bigOlText span{
+    font-size: 5vw;
+    text-align: left;
+    text-shadow: #6a72a3 .25vw .25vw;
+}
+
 @media only screen and (max-width: 800px) {
     mobileHeader {
         position: unset;
