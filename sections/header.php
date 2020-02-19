@@ -21,7 +21,7 @@
 		<a href="/pages/branding">Logos & Branding</a>
 	</li>
 	<li>
-		<a href="/pages/marketing">Online Marketing</a>
+		<a href="/pages/digital-marketing-columbus-ga">Online Marketing</a>
 	</li>
 	<li>
 		<a id="headerContact" href="/pages/contact">Contact Us</a>
@@ -48,7 +48,7 @@
 			<a class="mobileHeaderLinks" href="/pages/ecommerce.php">E-Commerce</a>
 			<a class="mobileHeaderLinks" href="/pages/branding">Logos & Branding</a>
 			<!-- <a href="/pages/ecommerce.php">E-Commerce</a> -->
-			<a class="mobileHeaderLinks" href="/pages/marketing">Online Marketing</a>
+			<a class="mobileHeaderLinks" href="/pages/digital-marketing-columbus-ga">Online Marketing</a>
 			<a class="mobileHeaderLinks" id="headerContact" href="/pages/contact">Contact Us</a>
 		</div>
 </ul>

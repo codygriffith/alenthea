@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/pages/marketing" />
+<link rel="canonical" href="https://alenthea.com/pages/digital-marketing-columbus-ga" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -20,7 +20,7 @@
 	<link href="style/marketing.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Online & Digital Marketing | Columbus, Georgia</title>
+	<title>Internet & Digital Marketing in Columbus, Ga</title>
 	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
 	<script type="application/ld+json">
 		{
@@ -51,13 +51,14 @@
 		</script>
 </head>
 <body>
-    <?php include "../sections/header.php";?>
-    <div class="flex column bigOlText">
-		<img src="/images/onlinemarketing.svg" alt="Online and Digital Marketing"> 
-	</div>
+	<?php include "../sections/header.php";?>
+	<h1 class="flex column bigOlText">
+		<img src="/images/onlinemarketing.svg" alt="Internet and Digital Marketing in Columbus, Georgia.">
+	</h1>
+    
 	
 	<section>
-		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement.</h3>
+		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
 	</section>
 	
 	<section>
