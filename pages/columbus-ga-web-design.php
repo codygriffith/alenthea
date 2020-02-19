@@ -58,38 +58,30 @@
             <span>Columbus Ga</span>
             Web Design
         </h1>
-        <h3 class="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
+    <h3 class="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
 	
-	
-	<div class="full flex center">
-		<h4 class="flex column center sectionHeader">Loaded with features:</h4>
-	</div>
+	<section class="full flex center">
+		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
+	</section>
 
-	<div class="flex row wrap center" id="serviceTiles">
-		<div>
+	<section class="flex row wrap center" id="serviceTiles">
+		<section>
 			<h1>Mobile Ready</h1>
 			<p>All of our websites are built responsively and with all possible screensizes in mind.</p>
-			<!-- <a class="button">Yeet me</a> -->
-
-		</div>
-		<div>
+		</section>
+		<section>
 			<h1>Dynamic Content</h1>
 			<p>Dynamic web sites are faster, more secure, and deliver fresh content.</p>
-			<!-- <a class="button">Yeet me</a> -->
-
-		</div>
-		<div>
+		</section>
+		<section>
 			<h1>Domain Email</h1>
 			<p>Impress your audience with your own "@yourdomain" custom email address.</p>
-			<!-- <a class="button">Yeet me</a> -->
-
-		</div>
-		<div>
+		</section>
+		<section>
 			<h1>Intelligent S.E.O.</h1>
 			<p>Place your content in front of the right people when they need you most.</p>
-			<!-- <a class="button">Yeet me</a> -->
-		</div>
-	</div>
+		</section>
+	</section>
 
 	<!-- <section class="options">
 		<h1>Custom Websites</h1>
@@ -110,25 +102,27 @@
 
 
 
-	<div class="flex column bigOlText secondBigText">
-		<h1>Latest Technologies;</h1>
-		<h1>Highest Standards.</h1>
-	</div>
-	<p class="littleOlText secondLittleText">Our websites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+    <section>
+	    <div class="flex column bigOlText secondBigText">
+		    <h1>Latest Technologies;</h1>
+		    <h1>Highest Standards.</h1>
+	    </div>
+        <p class="littleOlText secondLittleText">Our websites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+    </section>
 	<section class="flex center row" id="hosting">
-		<img src="/images/server.jpg" alt="Server Illustration">
+		<img src="/images/server.jpg" alt="Hosting Illustration">
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
 			<a class="button">Learn More</a>
 		</div>
 	</section>
-	<!-- <section id="ecommerce" class="flex column bigOlText">
+	<section id="ecommerce" class="flex column bigOlText secondBigText">
 		<div>
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms.<p>
 		</div>
-	</section> -->
+	</section>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

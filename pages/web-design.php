@@ -54,6 +54,7 @@
 </head>
 <body>
 	<?php include "../sections/header.php";?>
+	<h1></h1>
 	<div class="flex column bigOlText">
             <img src="/images/webDesign2.svg" alt="Web Design"> 
         </div>

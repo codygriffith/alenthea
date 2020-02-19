@@ -21,8 +21,10 @@
     font-size: 8.4vw;
 }
 
+
+
 .littleOlText {
-    font-size: 2.3vw;
+    font-size: 2.2vw;
     font-weight: 700;
 }
 
@@ -33,26 +35,27 @@
     /* margin-bottom: 7vw; */
 }
 
-#serviceTiles div {
-    width: 28.5%;
+#serviceTiles section {
+    width: 26%;
     padding: 1% 2%;
     background-color:rgba(88, 100, 125, 0.15);
     border-radius: .2vw;
     box-shadow: grey .1vw .1vw .2vw;
     margin-top:1vw;
-    min-height: 9vw;
+    min-height: 8vw;
 }
 #serviceTiles h1 {
     margin-bottom: 2%;
-    font-size: 2vw;
+    font-size: 1.75vw;
     color: #232b3b;
 }
 
 #serviceTiles p{
     margin-left: 4%;
     text-align: justify;
-    font-size: 1.40vw;
+    font-size: 1.35vw;
     font-weight: 500;
+    line-height: 134%;
 }
 
 #serviceTiles a {
@@ -129,17 +132,27 @@
 }
 
 .bigOlText {
-    font-size: 10.5vw;
+    font-size: 10vw;
     line-height: 90%;
     width: auto;
     text-align: center;
-    text-shadow: #6a72a3 .4vw .4vw;
+    text-shadow: #5a5c61 0.3vw 0.3vw;
+}
+.secondBigText {
+    text-align: unset;
+    text-shadow: #6a72a3 .25vw .25vw;
+}
+.secondBigText p{text-align: left;width: 95%;line-height: 120%;font-weight: 600;text-shadow: #67759891 0.1vw 0.1vw;}
+.secondBigText h1:nth-child(2) {
+    text-align: end;
+    margin-top: 0;
+    text-align: right;
 }
 
 .bigOlText span{
     font-size: 5vw;
     text-align: left;
-    text-shadow: #6a72a3 .25vw .25vw;
+    text-shadow: #5a5c61 0.25vw 0.25vw;
 }
 
 @media only screen and (max-width: 800px) {
