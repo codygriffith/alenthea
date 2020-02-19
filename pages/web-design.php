@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta name="robots" content="noindex">
 
 <link rel="canonical" href="https://alenthea.com/pages/columbus-ga-web-design" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
