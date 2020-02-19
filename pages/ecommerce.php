@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/pages/web-design" />
+<link rel="canonical" href="https://alenthea.com/pages/ecommerce" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -22,14 +22,14 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Web Design - Alenthea | Columbus, Georgia</title>
+	<title>eCommerce Columbus, Ga - Alenthea</title>
 	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "http://www.alenthea.com/pages/webDesign.php",
-		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "url": "https://alenthea.com/",
+		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
 		  
@@ -42,12 +42,12 @@
          	  "@type": "ListItem",
           	  "position": 1,
          	  "name": "Alenthea Design Co",
-         	  "item": "http://alenthea.com/index.php"
+         	  "item": "https://alenthea.com"
   	    	},{
         	  "@type": "ListItem",
           	  "position": 2,
-          	  "name": "Alenthea Web Design",
-              "item": "http://alenthea.com/pages/webDesign.php"
+          	  "name": "Columbus Ga eCommerce",
+              "item": "https://alenthea.com/pages/ecommerce"
             }]
 		}
         
