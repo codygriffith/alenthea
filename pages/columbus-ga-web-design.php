@@ -29,7 +29,7 @@
 		  "url": "http://www.alenthea.com/pages/webDesign.php",
 		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
-		  "brand": "Alenthea, Alenthea Design Co"
+		  "brand": "Alenthea Design Co"
 		  
 		}</script>
         <script type="application/ld+json">
