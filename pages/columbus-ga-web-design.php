@@ -26,7 +26,7 @@
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "https://alenthea.com/pages/columbus-ga-web-design",
+		  "url": "https://alenthea.com",
 		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea Design Co"

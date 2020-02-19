@@ -20,14 +20,14 @@
 	<link href="style/marketing.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Online & Digital Marketing | Columbus, Georgia | Alenthea Web Design</title>
+	<title>Online & Digital Marketing | Columbus, Georgia</title>
 	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "http://www.alenthea.com/pages/onlineMarketing.php",
-		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "url": "https://alenthea.com/",
+		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
 		  
@@ -40,12 +40,12 @@
          	  "@type": "ListItem",
           	  "position": 1,
          	  "name": "Alenthea Design Co",
-         	  "item": "http://alenthea.com/index.php"
+         	  "item": "https://alenthea.com"
   	    	},{
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Alenthea Web Design",
-              "item": "http://alenthea.com/pages/onlineMarketing.php"
+              "item": "https://alenthea.com/pages/marketing"
             }]
 		}
 		</script>

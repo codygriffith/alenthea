@@ -27,8 +27,8 @@
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization", 
-		  "url": "http://www.alenthea.com/pages/webDesign.php",
-		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "url": "https://alenthea.com/",
+		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
 		  
@@ -41,12 +41,12 @@
          	  "@type": "ListItem",
           	  "position": 1,
          	  "name": "Alenthea Design Co",
-         	  "item": "http://alenthea.com/index.php"
+         	  "item": "https://alenthea.com"
   	    	},{
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Alenthea Web Design",
-              "item": "http://alenthea.com/pages/webDesign.php"
+              "item": "https://alenthea.com/pages/columbus-ga-web-design"
             }]
 		}
         
