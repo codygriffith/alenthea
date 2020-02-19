@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/pages/onlineMarketing.php" />
+<link rel="canonical" href="https://alenthea.com/pages/marketing" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
