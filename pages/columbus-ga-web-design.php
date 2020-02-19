@@ -20,7 +20,7 @@
 	<link href="style/webDesign.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Columbus, GA Web Design - Alenthea</title>
+	<title>Columbus GA Web Design - Alenthea</title>
 	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
 	<script type="application/ld+json">
 		{
@@ -89,7 +89,7 @@
 		</div>
 	</div>
 
-	<section class="options">
+	<!-- <section class="options">
 		<h1>Custom Websites</h1>
 		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
 		efficient and optimized solutions for a true professional user experience.</p>
@@ -99,7 +99,7 @@
         <h1>Custom Websites</h1>
 		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
 		efficient and optimized solutions for a true professional user experience.</p>
-	</section>
+	</section> -->
 
 
 

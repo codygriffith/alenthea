@@ -66,12 +66,11 @@
 		<h1 class="centerText servicesHeader">Our Services</h1>
 		<ul class="flex row center wrap" id="servicesList">
 				<li>Logo Design</li>
-            	<li>Business Cards</li>
+				<li>Business Cards</li>
+				<li>Social Media</li>            	
+				<li>Stationery</li>
             	<li>Promotional Material</li>
-            	<li>Social Media</li>
             	<li>Brand Style Guide</li>
-            	<li>Stationery</li>
-            	<li>E-mail Blasts</li>
             	<li>Package Design</li>
 		</ul>
 	</section>
@@ -81,7 +80,7 @@
 		<div class="flex full center">
 			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
 			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
-			<p>With a strong following it is much easier and efficient to test and release new products.</p>
+			<p>The stronger your brand - the more authoritative you appear. Show your expertise with professionally designed branding.</p>
 		</div>
 	</section>
 
