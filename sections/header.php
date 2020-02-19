@@ -44,7 +44,7 @@
 			<div id="toggle">=</div>
 		</div>
 		<div id="mobileHeaderLinks">
-			<a class="mobileHeaderLinks" href="/pages/web-design">Web Design</a>
+			<a class="mobileHeaderLinks" href="/pages/columbus-ga-web-design">Web Design</a>
 			<a class="mobileHeaderLinks" href="/pages/ecommerce.php">E-Commerce</a>
 			<a class="mobileHeaderLinks" href="/pages/branding">Logos & Branding</a>
 			<!-- <a href="/pages/ecommerce.php">E-Commerce</a> -->
