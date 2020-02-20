@@ -33,7 +33,7 @@
 		<a href="/pages/branding">Our Work</a>
 	</li> -->
 	<li>
-		<a href="/blog">Our Blog</a>
+		<a href="/pages/blog">Our Blog</a>
 	</li>
 	<li>
 		<a id="headerContact" href="/pages/contact">Contact Us</a>

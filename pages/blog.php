@@ -30,7 +30,7 @@
          	  "@type": "ListItem",
           	  "position": 1,
          	  "name": "Alenthea Blog",
-         	  "item": "http://alenthea.com/blog"
+         	  "item": "http://alenthea.com/pages/blog"
   	    	}]
 		}
         
