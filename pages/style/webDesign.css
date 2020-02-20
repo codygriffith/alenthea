@@ -136,11 +136,13 @@
     line-height: 90%;
     width: auto;
     text-align: center;
-    text-shadow: #5a5c61 0.3vw 0.3vw;
+    text-shadow: #4b548a 0.3vw 0.3vw;
 }
 .secondBigText {
     text-align: unset;
-    text-shadow: #6a72a3 .25vw .25vw;
+    text-shadow: #4b548a 0.25vw 0.25vw;
+    padding: 5vw;
+    padding-top: 2vw;
 }
 .secondBigText p{text-align: left;width: 95%;line-height: 120%;font-weight: 600;text-shadow: #67759891 0.1vw 0.1vw;}
 .secondBigText h1:nth-child(2) {
@@ -150,7 +152,8 @@
 }
 
 .bigOlText span{
-    font-size: 5vw;
+    font-size: 4vw;
+    line-height: 125%;
     text-align: left;
     text-shadow: #5a5c61 0.25vw 0.25vw;
 }

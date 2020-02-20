@@ -10,18 +10,30 @@
 		</a>
 	</li>
 	<li>
-		<a href="/pages/columbus-ga-web-design">Web Design</a>
+		<a href="/pages/columbus-ga-web-design">Services</a>
 		<ul>
 			<li>
-				<a href="/pages/ecommerce.php">eCommerce</a>
+				<a href="/pages/columbus-ga-web-design">Website Design</a>
 			</li>
+			<li>
+				<a href="/pages/digital-marketing-columbus-ga">Digital Marketing</a>
+			</li>
+			<li>
+				<a href="/pages/branding">Logos & Branding</a>
+			</li>
+			<li>
+				<a href="/pages/ecommerce">E-Commerce</a>
+			</li>
+			<!-- <li>
+				<a href="/pages/ecommerce.php">S.E.O.</a>
+			</li>			 -->
 		</ul>
 	</li>
+	<!-- <li>
+		<a href="/pages/branding">Our Work</a>
+	</li> -->
 	<li>
-		<a href="/pages/branding">Logos & Branding</a>
-	</li>
-	<li>
-		<a href="/pages/digital-marketing-columbus-ga">Online Marketing</a>
+		<a href="/pages/digital-marketing-columbus-ga">Our Blog</a>
 	</li>
 	<li>
 		<a id="headerContact" href="/pages/contact">Contact Us</a>

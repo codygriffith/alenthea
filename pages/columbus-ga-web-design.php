@@ -102,6 +102,7 @@
 
 
 
+	<br>
     <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>
@@ -114,7 +115,7 @@
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
-			<a class="button">Learn More</a>
+			<!-- <a class="button">Learn More</a> -->
 		</div>
 	</section>
 	<section id="ecommerce" class="flex column bigOlText secondBigText">
