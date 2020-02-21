@@ -1,6 +1,7 @@
 /* Service Tiles */
 #services {
 	margin-top: -3.5vw;
+	margin-bottom: -8vw;
 }
 
 .serviceIconContainer{
@@ -64,8 +65,10 @@
 /* Mission Banner */
 #missionBanner{
 	padding: 2vw 0;
-	background-color: rgba(172,178,193,0.3);
-    clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
+	background-color: rgb(230, 231, 236);
+	clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
+	margin-top: -0.5vw;
+	/* z-index: 300; */
 }
 
 #missionBanner h3{
@@ -150,7 +153,6 @@
 	padding: 0;
 	margin: 0;
 	display: inline;
-	/* font-family: 'Roboto'; */
 	font-size: 2vw;
 }
 
@@ -198,6 +200,34 @@ form {
 	margin-top: 2vw;
 }
 
+#openingPitch{
+	/* height: 30vw; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-end;
+	background: url(/images/bgroad.svg);
+	background-size: 55%;
+	background-position: left;
+	background-repeat: no-repeat;
+	height: 35vw;
+	padding-top: 7vw;
+}
+
+#openingPitch h1{
+	padding: 0 3%;
+	font-size: 2.75vw;
+	font-style: normal;
+	font-weight: 600;
+	margin-bottom: 0vw;
+}
+#homepage-pitch {
+	width: 70%;
+	margin: 1.5vw 0;
+	text-align: right;
+	padding: 0 3%;
+	font-size: 2.15vw;
+}
 
 @media only screen and (max-width: 800px) {
 	
@@ -213,7 +243,6 @@ form {
 		padding:0 2%;
 		line-height: 150%;
 		text-align: justify;
-		display: none;
 	}
 	.serviceTile{
 		width: 100%;
@@ -322,6 +351,10 @@ form {
 		text-align: end;
 		right: 0;
 		align-self: flex-end;
+	}
+
+	.text-highlight{
+		font-size: 4vw;
 	}
 	
   }
