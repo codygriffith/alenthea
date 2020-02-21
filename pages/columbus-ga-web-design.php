@@ -67,7 +67,7 @@
 	<section class="flex row wrap center" id="serviceTiles">
 		<section>
 			<h1>Mobile Ready</h1>
-			<p>All of our websites are built responsively and with all possible screensizes in mind.</p>
+			<p>All of our websites are built responsive and with all possible screensizes in mind.</p>
 		</section>
 		<section>
 			<h1>Dynamic Content</h1>
@@ -75,7 +75,7 @@
 		</section>
 		<section>
 			<h1>Domain Email</h1>
-			<p>Impress your audience with your own "@yourdomain" custom email address.</p>
+			<p>Impress your clients with your own custom business email address.</p>
 		</section>
 		<section>
 			<h1>Intelligent S.E.O.</h1>

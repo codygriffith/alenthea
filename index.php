@@ -40,7 +40,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta charset="utf-8">
-<title>Columbus, Ga Web Design, Logos, & Marketing</title>
+<title>Columbus, Ga Web Design, Logos, & Marketing Agency</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/index.css" rel="stylesheet" type="text/css">
