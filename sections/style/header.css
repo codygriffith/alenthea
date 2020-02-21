@@ -57,17 +57,17 @@ header ul li ul {
 header ul li ul li{
 	display: flex;
 	flex-direction: column;
-	border-left: solid white thin;
-	padding-top: .2vw;
+	border-left: solid #ffffffb8 thin;
+	padding: .5vw;
 }
 
 header ul li ul li a{
 	font-weight: 400;
-	font-size: 2.25vw;
+	font-size: 2vw;
 }
 
 header ul li:hover ul{
-	height: 13.5vw;
+	height: 16vw;
 }
 
 @media screen and (max-width: 800px) {
