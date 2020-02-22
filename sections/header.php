@@ -3,7 +3,7 @@
 </style>
 <header>
 	
-<ul class="desktop flex row center dark white-text">
+<ul class="desktop flex row dark white-text">
 	<li>
 		<a href="/" id="headerLogo">
 			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
@@ -49,7 +49,7 @@
 </ul>
 
 	<ul class="mobile flex column dark white-text">
-		<div onclick="myFunction()" id="toggleBar" class="row flex center space-between full">
+		<div onclick="myFunction()" id="toggleBar" class="row flex space-between full">
 			<a href="/" id="headerLogo">
 				<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
 			</a>

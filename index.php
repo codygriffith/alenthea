@@ -118,34 +118,57 @@
 			</section>
 		</section>
 
-		<section id="openingPitch">
-			<h1>Alenthea is a Digital Design Agency based in Columbus, Ga.</h1>
-			<h2 id="homepage-pitch" class="font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
-			<h2 id="homepage-pitch" class="font-two">Our 
-				<span class="text-highlight">Hand-Crafted</span> 
-				solutions  are uniquely developed with each individual client for a product that stands out from the competition and delivers 
-				<span class="text-highlight">Complete Satisfaction</span> 
-				for both yourself and users alike.</h2>
-			<p >
-				 
-				
-			</p>
-		</section>
-	<div class="flex center row light" id="missionBanner">
+	<section id="openingPitch">
+		<h1>Alenthea is a Digital Design Agency based in Columbus, Ga.</h1>
+		<h2 id="homepage-pitch" class="font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
+		<h2 id="homepage-pitch" class="font-two">
+			Our Hand-Crafted solutions  are uniquely developed with each individual client for a product that stands 
+			out from the competition and delivers Complete Satisfaction.
+		</h2>
+	</section>
+
+
+	<section class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams,<br> No Matter How Big Or Small.</h3>
+	</section>
+
+
+
+
+	<article id="ourWork" class="flex full center column">
+		<h1>Our Work</h1>
+		<div class="flex center row">
+		<section class="flex column center">
+			<img src="/images/12407.png">
+			<h1>The Wade Companies</h1>
+			<h2>Website Design</h2>
+		</section>
+		<section class="flex column center">
+			<img src="/images/businessCard Tile 1.png">
+			<h1>All Wood Work</h1>
+			<h2>Branding & Identity</h2>
+		</section>
+		<section class="flex column center">
+			<img src="/images/buddybaked.svg">
+			<h1>Buddy Baked</h1>
+			<h2>Marketing & E-Commerce</h2>
+		</section>
 	</div>
+	</article>
 
 
 
-		<section id="goals" class="flex center column">
+
+
+		<!-- <section id="goals" class="flex center column">
 			<h2>Achieve Your Goals</h2>
 			<div class="flex row center">
 				<p>Generate more leads and market your services locally and nationally. Promote trust in your brand and show your expertise.</p>
 				<p>Rank higher in organic search results and make yourself discoverable on the web. Increase your presence in local search.</p>
 				<p>Refresh your brand identity and maintain a modern appearance in today’s ever evolving market.</p>
 			</div>
-		</section>
+		</section> -->
 
 
 

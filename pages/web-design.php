@@ -1,3 +1,8 @@
+<?php
+header("HTTP/1.1 301 Moved Permanently");
+header("Location: https://alenthea.com/pages/columbus-ga-web-design");
+?>
+
 <!doctype html>
 <html lang="en">
 <head>
