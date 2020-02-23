@@ -129,7 +129,7 @@
 
 
 	<section class="flex center row light" id="missionBanner">
-		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Logo">
+		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Design Company Logo">
 		<h3>Our Mission Is To Help Our Clients Realize Their Dreams,<br> No Matter How Big Or Small.</h3>
 	</section>
 
