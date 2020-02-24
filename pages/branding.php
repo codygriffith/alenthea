@@ -20,7 +20,7 @@
     <link href="style/branding.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Logos & Branding - Alenthea  | Columbus, Georgia</title>
+	<title>Logo Desin & Branding - Alenthea | Columbus, Georgia</title>
 	<meta name="description" content="Your branding is your promise to your customers; Make it mean something." />
 	<script type="application/ld+json">
 		{
