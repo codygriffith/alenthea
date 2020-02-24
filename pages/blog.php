@@ -66,13 +66,13 @@
                 content.</p>
             <a href="/blog/post/semantic-tags-search-engine-optimization">Read Post</a>
 		</article>
-		<article>
+		<!-- <article>
 			<h1>Semantic Tags and Search Engine Optimization</h1>
 			<hr>
             <p>Semantic markup is another way of helping Google, other search engines and even screen readers understand your websites structure and context of the available 
                 content.</p>
             <a href="/blog/post/semantic-tags-search-engine-optimization">Read Post</a>
-        </article>
+        </article> -->
 
 
 
