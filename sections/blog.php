@@ -10,11 +10,11 @@
         <p>Dynamic web design is the application of dome stuff that dies things and makes for a better website overall.</p>
         <a href="" class="button">Read Post</a>
     </div>
-    <div id="post">
+    <!-- <div id="post">
             <h3>Dynamic Web-Design</h3>
             <p>Dynamic web design is the application of dome stuff that dies things and makes for a better website overall.</p>
             <a href="" class="button">Read Post</a>
-        </div>
+        </div> -->
         <!-- <div id="post">
                 <h3>Dynamic Web-Design</h3>
                 <p>Dynamic web design is the application of dome stuff that dies things and makes for a better website overall.</p>
