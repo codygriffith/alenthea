@@ -1,26 +1,59 @@
 article{
-    width: 50%;
+    width: 38%;
     margin: auto;
     display: flex;
     flex-direction: column;
+    background: aliceblue;
+    padding: 1%;
+    box-shadow: #0917244f 0.3vw 0.3vw 1vw;
+}
+main h1{
+    font-size: 6vw;
+    padding: 5% 7%;
+    margin: auto;
+    /* margin-top: 2vw; */
+    background: url(/images/starsBackground.jpg);
+    width: 100%;
+    color: white;
+    margin-bottom: 2vw;
 }
 
 article h1{
-    font-size: 2.75vw;
-    padding-bottom: 1vw;
+    font-size: 2.5vw;
+    padding: 0;
     color: #1b1b1b;
+    width: 100%;
+    background: none;
+    margin-bottom: 0.5vw;
 }
 
 article p{
-    font-size: 1.75vw;
+    font-size: 1.5vw;
     text-align: justify;
     font-weight: 600;
     /* margin-left: 1vw; */
     color: #333333;
+    margin-top: 1vw;
 }
 
 article a{
     font-size: 2vw;
     padding-top: 1vw;
     /* margin-left: 2vw; */
+    color: #152846;
+    /* text-decoration: underline; */
+    /* box-shadow: red 0vw 0.1vw .1vw; */
+    /* display: list-item; */
+    width: fit-content;
+    border-bottom: #ff000061 thin solid;
+    font-weight: 600;
+}
+
+hr{
+    /* border-color: #1b1b1b; */
+    width: 70%;
+    margin: 0;
+#ff000061
+;
+    border: #004eff61 thin solid;
 }

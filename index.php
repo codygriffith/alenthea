@@ -59,6 +59,14 @@
 		<section id="heroImage" class="flex center">
 			<img src="/images/alentheaFullLogo.svg" alt="Alenthea Logo">
 		</section>
+		<section id="openingPitch">
+		<h1>Alenthea is a Digital Design Agency based in Columbus, Ga.</h1>
+		<h2 id="homepage-pitch" class="font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
+		<h2 id="homepage-pitch" class="font-two">
+			Our Hand-Crafted solutions  are uniquely developed with each individual client for a product that stands 
+			out from the competition and delivers Complete Satisfaction.
+		</h2>
+	</section>
 		<section class="flex row center full wrap" id="services">
 			<section id="webDesign" class="flex column center serviceTile light">
 				<div class="flex medium center serviceIconContainer">
@@ -118,14 +126,7 @@
 			</section>
 		</section>
 
-	<section id="openingPitch">
-		<h1>Alenthea is a Digital Design Agency based in Columbus, Ga.</h1>
-		<h2 id="homepage-pitch" class="font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
-		<h2 id="homepage-pitch" class="font-two">
-			Our Hand-Crafted solutions  are uniquely developed with each individual client for a product that stands 
-			out from the competition and delivers Complete Satisfaction.
-		</h2>
-	</section>
+	
 
 
 	<section class="flex center row light" id="missionBanner">

@@ -1,7 +1,7 @@
 /* Service Tiles */
 #services {
 	margin-top: -3.5vw;
-	margin-bottom: -8vw;
+	/* margin-bottom: -8vw; */
 }
 
 .serviceIconContainer{
@@ -68,7 +68,7 @@
 	padding: 2vw 0;
 	background-color: rgb(230, 231, 236);
 	clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
-	margin-top: -0.5vw;
+	/* margin-top: -0.5vw; */
 	/* z-index: 300; */
 }
 
@@ -213,15 +213,15 @@ form {
 	background-position: left;
 	background-repeat: no-repeat;
 	/* height: 35vw; */
-	padding-top: 11vw;
+	padding-top: 9vw;
 }
 
 #openingPitch h1{
 	padding: 0 3%;
-	font-size: 2.75vw;
+	font-size: 2.5vw;
 	font-style: normal;
 	font-weight: 600;
-	margin-bottom: 0vw;
+	margin-bottom: .5vw;
 }
 #homepage-pitch:first-of-type {
 	/* font-size: 2.25vw; */
@@ -229,11 +229,11 @@ form {
 	font-weight: 600;
 }
 #homepage-pitch {
-	width: 80%;
+	width: 75%;
 	margin: 1.5vw 0;
 	text-align: right;
 	padding: 0 3%;
-	font-size: 2.25vw;
+	font-size: 2vw;
 	font-weight: 600;
 	text-shadow: white .1vw .1vw .2vw;
 }
@@ -271,6 +271,11 @@ form {
 	text-align: left;
 	width: 100%;
 	font-size: 1.75vw;
+}
+
+#services{
+	position: absolute;
+	top: 43vw;
 }
 
 @media only screen and (max-width: 800px) {
@@ -356,7 +361,7 @@ form {
 	}
 
 	#missionBanner h3{
-		font-size: 4.35vw;
+		font-size: 3.55vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
@@ -421,7 +426,9 @@ form {
 	}
 
 	#openingPitch {
-		background-size: 70%;
+		background-size: 59%;
+		padding-top: 2vw;
+		padding-bottom: 4vw;
 	}
 	#openingPitch h1 {
 		font-size: 4.5vw;
@@ -431,6 +438,10 @@ form {
 		font-size: 3.25vw;
 		width: 90%;
 		text-shadow: none;
+	}
+	#services{
+		position: unset;
+		top: unset;
 	}
 	
   }

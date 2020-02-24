@@ -56,15 +56,23 @@
 
 <body>
 	<?php include '../sections/header.php';?>
-	<main>
+	<main class="flex row wrap">
+		<h1>Alenthea Blog</h1>
 		<article>
-            <h1>Semantic Tags and Search Engine Optimization</h1>
-            <p>Semantic markup is another way of helping Google, other search engines and even screen readers understand your websites structure and context of the available 
-                content. 
-                </p>
-            <a href="/blog/post/semantic-tags-search-engine-optimization">Read Post</a>
+			<h1>Semantic Tags and Search Engine Optimization</h1>
+			<hr>
 
-    </article>
+            <p>Semantic markup is another way of helping Google, other search engines and even screen readers understand your websites structure and context of the available 
+                content.</p>
+            <a href="/blog/post/semantic-tags-search-engine-optimization">Read Post</a>
+		</article>
+		<article>
+			<h1>Semantic Tags and Search Engine Optimization</h1>
+			<hr>
+            <p>Semantic markup is another way of helping Google, other search engines and even screen readers understand your websites structure and context of the available 
+                content.</p>
+            <a href="/blog/post/semantic-tags-search-engine-optimization">Read Post</a>
+        </article>
 
 
 
