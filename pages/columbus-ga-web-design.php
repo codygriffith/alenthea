@@ -20,7 +20,7 @@
 	<link href="style/webDesign.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<title>Columbus GA Web Design</title>
+	<title>Web Design - Columbus, GA | Alenthea Design Co.</title>
 	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
 	<script type="application/ld+json">
 		{
@@ -57,8 +57,8 @@
 	<h1 class="flex column bigOlText">
             <span>Columbus Ga</span>
             Web Design
-        </h1>
-    <h3 class="littleOlText">Out-class and out-rank your competition with a strong hand-crafted, online experience.</h3>
+    </h1>
+    <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website design.</h2>
 	
 	<section class="full flex center">
 		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
