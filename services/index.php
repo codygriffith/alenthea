@@ -57,29 +57,49 @@
     
 	<h1 class="flex column bigOlText">Our Services</h1>
     <h2 class="littleOlText">We use cutting-edge techniques and our high quality standards to develop custom solutionsa and achieve the results you need.</h2>
-	
-	<section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
-	</section>
+    
+    
+    
 
-	<section class="flex row wrap center" id="serviceTiles">
-		<section>
-			<h1>Mobile Ready</h1>
-			<p>All of our websites are built responsive and with all possible screensizes in mind.</p>
-		</section>
-		<section>
-			<h1>Dynamic Content</h1>
-			<p>Dynamic web sites are faster, more secure, and deliver fresh content.</p>
-		</section>
-		<section>
-			<h1>Domain Email</h1>
-			<p>Impress your clients with your own custom business email address.</p>
-		</section>
-		<section>
-			<h1>Intelligent S.E.O.</h1>
-			<p>Place your content in front of the right people when they need you most.</p>
-		</section>
-	</section>
+    <article class="flex full wrap" id="featuredProducts">
+        <h1 class="flex column center sectionHeader">Featured Products:</h1>
+        <section>
+            <div>
+                <img src="/images/webDev-dark.svg">
+                <h1>Website Design & Development</h1>
+
+            <div>
+        </section>
+        
+    </article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- <section class="full flex center">
+		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
+	</section> -->
+
+	<!-- <section class="flex row wrap center" id="serviceTiles"> -->
+		
 
 	<!-- <section class="options">
 		<h1>Custom Websites</h1>
