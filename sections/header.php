@@ -10,22 +10,22 @@
 		</a>
 	</li>
 	<li>
-		<a href="/pages/columbus-ga-web-design">Services</a>
+		<a href="/services/columbus-ga-web-design">Services</a>
 		<ul>
 			<li>
-				<a href="/pages/columbus-ga-web-design">Website Design</a>
+				<a href="/services/columbus-ga-web-design">Website Design</a>
 			</li>
 			<li>
-				<a href="/pages/digital-marketing-columbus-ga">Digital Marketing</a>
+				<a href="/services/digital-marketing-columbus-ga">Digital Marketing</a>
 			</li>
 			<li>
-				<a href="/pages/branding">Logos & Branding</a>
+				<a href="/services/branding">Logos & Branding</a>
 			</li>
 			<li>
-				<a href="/pages/ecommerce">E-Commerce</a>
+				<a href="/services/ecommerce">E-Commerce</a>
 			</li>
 			<!-- <li>
-				<a href="/pages/ecommerce.php">S.E.O.</a>
+				<a href="/services/ecommerce.php">S.E.O.</a>
 			</li>			 -->
 		</ul>
 	</li>
@@ -56,11 +56,11 @@
 			<div id="toggle">=</div>
 		</div>
 		<div id="mobileHeaderLinks">
-			<a class="mobileHeaderLinks" href="/pages/columbus-ga-web-design">Web Design</a>
-			<a class="mobileHeaderLinks" href="/pages/ecommerce.php">E-Commerce</a>
-			<a class="mobileHeaderLinks" href="/pages/branding">Logos & Branding</a>
-			<!-- <a href="/pages/ecommerce.php">E-Commerce</a> -->
-			<a class="mobileHeaderLinks" href="/pages/digital-marketing-columbus-ga">Online Marketing</a>
+			<a class="mobileHeaderLinks" href="/sections/columbus-ga-web-design">Web Design</a>
+			<a class="mobileHeaderLinks" href="/sections/ecommerce.php">E-Commerce</a>
+			<a class="mobileHeaderLinks" href="/sections/branding">Logos & Branding</a>
+			<!-- <a href="/sections/ecommerce.php">E-Commerce</a> -->
+			<a class="mobileHeaderLinks" href="/sections/digital-marketing-columbus-ga">Online Marketing</a>
 			<a class="mobileHeaderLinks" id="headerContact" href="/pages/contact">Contact Us</a>
 		</div>
 </ul>
