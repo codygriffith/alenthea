@@ -156,7 +156,7 @@
 
 
 
-	<article id="ourWork" class="flex full center column">
+	<!-- <article id="ourWork" class="flex full center column">
 		<h1>Our Work</h1>
 		<div class="flex center row">
 		<section class="flex column center">
@@ -175,7 +175,7 @@
 			<h2>Marketing & E-Commerce</h2>
 		</section>
 	</div>
-	</article>
+	</article> -->
 
 
 
