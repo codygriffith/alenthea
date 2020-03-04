@@ -61,52 +61,15 @@
     
     
 
-    <article class="flex full wrap center" id="featuredProducts">
-
-        <article class="flex center column">
-            <div class="flex center">
+    <article class="flex full wrap" id="featuredProducts">
+        <h1 class="flex column center sectionHeader">Featured Products:</h1>
+        <section>
+            <div>
                 <img src="/images/webDev-dark.svg">
-                <h1><span>Website Design</span><br><span>& Development</span></h1>
-            </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-            <a href="">Learn More</a>
-        </article>
+                <h1>Website Design <br> Development</h1>
 
-        
-
-
-        <article class="flex center column">
-            <div class="flex center">
-                <h1>Digital Marketing</h1>
-                <img src="/images/webDev-dark.svg">
-            </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-        </article>
-
-
-
-
-
-        <article class="flex center column">
-            <div class="flex center">
-                <img src="/images/webDev-dark.svg">
-                <h1><span>Website Design</span><br><span>& Development</span></h1>
-            </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-        </article>
-
-
-
-
-
-
-        <article class="flex center column">
-            <div class="flex center">
-                <img src="/images/webDev-dark.svg">
-                <h1><span>Website Design</span><br><span>& Development</span></h1>
-            </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-        </article>
+            <div>
+        </section>
         
     </article>
 

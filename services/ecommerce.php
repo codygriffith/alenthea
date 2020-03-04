@@ -27,7 +27,7 @@
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
-		  "@type": "Organization", 
+		  "@type": "Organization",
 		  "url": "https://alenthea.com/",
 		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
