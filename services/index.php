@@ -81,6 +81,7 @@
                 <img src="/images/webDev-dark.svg">
             </div>
             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
+            <a href="">Learn More</a>
         </article>
 
 
@@ -90,9 +91,10 @@
         <article class="flex center column">
             <div class="flex center">
                 <img src="/images/webDev-dark.svg">
-                <h1><span>Website Design</span><br><span>& Development</span></h1>
+                <h1>Logos & Branding</h1>
             </div>
             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
+            <a href="">Learn More</a>
         </article>
 
 
@@ -103,9 +105,10 @@
         <article class="flex center column">
             <div class="flex center">
                 <img src="/images/webDev-dark.svg">
-                <h1><span>Website Design</span><br><span>& Development</span></h1>
+                <h1><span>Search Engine</span><br><span>Optimization</span></h1>
             </div>
             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
+            <a href="">Learn More</a>
         </article>
         
     </article>
@@ -157,7 +160,6 @@
 
 
 
-	<br>
     <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>

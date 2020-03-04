@@ -98,7 +98,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
 					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
-					<a href="/pages/columbus-ga-web-design" class="button">View More</a>
+					<a href="/services/columbus-ga-web-design" class="button">View More</a>
 				</div>
 			</section>
 			<section id="ecommerce" class="flex column center serviceTile light">
@@ -112,7 +112,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>E-Commerce</h1>
 					<p>Grow your customer base and reach new potential.</p>	
-					<a href="/pages/ecommerce" class="button">View More</a>
+					<a href="/services/ecommerce" class="button">View More</a>
 				</div>
 			</section>
 			<section id="onlineMarketing" class="flex column center serviceTile light">
@@ -126,7 +126,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Online Marketing</h1>
 					<p>Spread awareness for your products or brand.</p>	
-					<a href="/pages/marketing" class="button">View More</a>
+					<a href="/services/digital-marketing-columbus-ga" class="button">View More</a>
 				</div>
 			</section>
 			<section id="logosBranding" class="flex column center serviceTile light">
@@ -140,7 +140,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Logos & Branding</h1>
 					<p>Give your brand a new, fresh, and timeless appearance.</p>	
-					<a href="/pages/branding" class="button">View More</a>
+					<a href="/services/branding" class="button">View More</a>
 				</div>
 			</section>
 		</section>

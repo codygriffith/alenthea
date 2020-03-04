@@ -4,7 +4,7 @@
 	padding-right: 4vw;
 }
 #headerLogo{
-	padding-right: 15vw;
+	padding-right: 22vw;
 }
 
 header li{
@@ -13,7 +13,7 @@ header li{
 }
 
 header a {
-	font-size: 2.4vw;
+	font-size: 2vw;
 	text-decoration: none;
 	background-color: #0d0d0d;
 	padding: 0 .5vw .5vw .5vw;

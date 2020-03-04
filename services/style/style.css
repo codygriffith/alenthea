@@ -8,17 +8,22 @@
 
 
 #featuredProducts article:nth-child(1){
-    background-color: #FFFF66;
+    background-color: rgba(255, 255, 102, 0.53);
     padding-top: 5vw;
 }
 #featuredProducts article:nth-child(2){
     background-color: #66FF78;
+    padding-top: 2vw;
 }
 #featuredProducts article:nth-child(3){
     background-color: #668EFF;
+    padding-top: 2vw;
+
 }
-#featuredProducts:nth-child(4){
-    
+#featuredProducts article:nth-child(4){
+    background-color: #D966FF;
+    padding-top: 2vw;
+
 }
 
 
