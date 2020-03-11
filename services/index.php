@@ -56,7 +56,7 @@
     <?php include "../sections/header.php";?>
     
 	<h1 class="flex column bigOlText">Our Services</h1>
-    <h2 class="littleOlText">We use cutting-edge techniques and our high quality standards to develop custom solutionsa and achieve the results you need.</h2>
+    <h2 class="littleOlText">We are here to help companies meet all of their design needs. We approach every project with a unique desire to solve our client's problems and generate real results. </h2>
     
     
     
@@ -65,11 +65,11 @@
 
         <article class="flex center column">
             <div class="flex center">
-                <img src="/images/webDev-dark.svg">
+                <img src="/images/desktopDark.svg">
                 <h1><span>Website Design</span><br><span>& Development</span></h1>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-            <a href="">Learn More</a>
+            <p>We design websites to be responsive, optimized, and content rich. We intelligently design every site to specifically rank higher than any of your competitors.</p>
+            <a href="/services/columbus-ga-web-design">Learn More</a>
         </article>
 
         
@@ -78,10 +78,10 @@
         <article class="flex center column">
             <div class="flex center">
                 <h1>Digital Marketing</h1>
-                <img src="/images/webDev-dark.svg">
+                <img src="/images/marketingBulls.svg">
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-            <a href="">Learn More</a>
+            <p>Boost awareness and get traffic to your business with effective marketing. Whether with social media, email marketing, print marketing, or PPC ads; We generate results.</p>
+            <a href="/services/digital-marketing-columbus-ga">Learn More</a>
         </article>
 
 
@@ -93,8 +93,8 @@
                 <img src="/images/webDev-dark.svg">
                 <h1>Logos & Branding</h1>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-            <a href="">Learn More</a>
+            <p>Build a strong brand to establish trust by your audience and promote loyalty across your customer base. Show your personality and secure your position as a prominent figure in your market.</p>
+            <a href="/services/branding">Learn More</a>
         </article>
 
 
@@ -107,8 +107,8 @@
                 <img src="/images/webDev-dark.svg">
                 <h1><span>Search Engine</span><br><span>Optimization</span></h1>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore euismod tincidunt ut laoreet dolore.</p>
-            <a href="">Learn More</a>
+            <p>Place your results #1 on both Google and across the web. Place your content above all others and generate free and organic traffic to your website.</p>
+            <a href="/services/search-engine-optimization">Learn More</a>
         </article>
         
     </article>

@@ -136,7 +136,7 @@
 }
 
 .bigOlText {
-    font-size: 7vw;
+    font-size: 8vw;
     line-height: 90%;
     width: auto;
     text-align: center;
@@ -166,13 +166,17 @@
 }
 
 @media only screen and (max-width: 800px) {
+    #serviceTiles section {
+        width: 46%;
+    }
+
     mobileHeader {
         position: unset;
     }
     
     .littleOlText {
         font-size: 4.4vw;
-        width: 96%;
+        width: 94%;
     }
     #sectionHeader{
         font-size: 6.5vw;
@@ -180,7 +184,8 @@
     }
     .littleOlText {
         font-size: 4.15vw;
-        text-align: center;
+        text-align: justify;
+        /* padding: .5vw; */
     }
     .bigOlText {
         padding-bottom: 7vw;
@@ -197,7 +202,7 @@
     }
 
     #serviceTiles h1{
-        font-size: 3.1vw;
+        font-size: 4vw;
     }
 
     #serviceTiles div{
@@ -206,7 +211,7 @@
     }
 
     #serviceTiles p{
-        font-size: 2.7vw;
+        font-size: 2.95vw;
         font-weight: 500;
         /* padding-bottom: 2vw; */
         text-align: left;
@@ -215,12 +220,13 @@
     .secondBigText{
         padding-right: 2vw !important;
         padding-left: 2vw !important;
-        height: 18vw;
+        height: 20vw;
         padding-bottom: 4vw;
     }
 
     .secondBigText h1{
-        font-size: 5.75vw;
+        font-size: 6.35vw;
+        padding: 5vw 0vw;
     }
 
     .secondLittleText {
@@ -266,7 +272,7 @@
 
 
     .sectionHeader {
-        font-size: 4.5vw;
+        font-size: 3.9vw;
     }
 
 }

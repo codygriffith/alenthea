@@ -55,7 +55,7 @@
     <?php include "../sections/header.php";?>
     
 	<h1 class="flex column bigOlText">
-            <span>Columbus Ga</span>
+            <span>Columbus, Ga</span>
             Web Design
     </h1>
     <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website design.</h2>
@@ -108,7 +108,7 @@
 		    <h1>Latest Technologies;</h1>
 		    <h1>Highest Standards.</h1>
 	    </div>
-        <p class="littleOlText secondLittleText">Our websites work exceptionally well to deliver and intuitive and encapsulating experience for both your audience and yourself alike.</p>
+        <p class="littleOlText secondLittleText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
     </section>
 	<section class="flex center row" id="hosting">
 		<img src="/images/server.jpg" alt="Hosting Illustration">

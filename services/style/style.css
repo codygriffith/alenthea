@@ -3,13 +3,13 @@
 }
 
 #featuredProducts {
-    margin-top: -3.1vw;
+    margin-top: -5.6vw;
 }
 
 
 #featuredProducts article:nth-child(1){
     background-color: rgba(255, 255, 102, 0.53);
-    padding-top: 5vw;
+    padding-top: 8vw;
 }
 #featuredProducts article:nth-child(2){
     background-color: #66FF78;

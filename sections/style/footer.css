@@ -43,11 +43,26 @@ footer .mobile, footer .desktop {
 
 #footerExtend div a, #footerExtend div h4{
 	color: #e2e2e2;
-    font-size: 1.5vw;
-	font-weight: 400;
+    font-size: 1.25vw;
+	font-weight: 300;
 	margin-left: .25vw;
-	border-left: #e2e2e2 medium solid;
-	padding-left: .25vw;
+	/* border-left: #e2e2e2 medium solid; */
+	/* padding-left: .25vw; */
+	margin-top: .3vw;
+}
+
+#footerExtend div:nth-of-type(1){
+	padding-right: 30vw;
+}
+
+#footerExtend div:nth-of-type(2){
+	text-align: right;
+}
+#footerExtend div:nth-of-type(3){
+	text-align: right;
+}
+#footerExtend div:nth-of-type(4){
+	text-align: right;
 }
 
 @media screen and (max-width: 800px) {
