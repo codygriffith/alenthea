@@ -16,6 +16,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
 	<link href="/style.css" rel="stylesheet" type="text/css">
+	<link href="/services/style/style.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,8 +32,9 @@
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea Design Co"
 		  
-		}</script>
-        <script type="application/ld+json">
+		}
+	</script>
+    <script type="application/ld+json">
         {
 		  "@context": "https://schema.org",
 		  "@type": "BreadcrumbList",
@@ -48,8 +50,7 @@
               "item": "https://alenthea.com/pages/columbus-ga-web-design"
             }]
 		}
-        
-		</script>
+    </script>
 </head>
 <body>
     <?php include "../sections/header.php";?>
@@ -67,7 +68,7 @@
 	<section class="flex row wrap center" id="serviceTiles">
 		<section>
 			<h1>Mobile Ready</h1>
-			<p>All of our websites are built responsive and with all possible screensizes in mind.</p>
+			<p>All of our websites are built responsive and with all devices in mind.</p>
 		</section>
 		<section>
 			<h1>Dynamic Content</h1>
@@ -82,6 +83,15 @@
 			<p>Place your content in front of the right people when they need you most.</p>
 		</section>
 	</section>
+
+	<section class="full flex center column" id="columbusGaWebDesign">
+		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h4>
+		<h2>Designed by Experts - Built by Professionals</h2>
+		<p class="font-two">We strive to be the top Web Design & Development agency located in the Columbus, GA and Ft. Benning area. 
+			 We combine the right tools with the right level of expertise to build a website that meets all of your business's needs.
+		</p>
+	</section>
+
 
 	<!-- <section class="options">
 		<h1>Custom Websites</h1>

@@ -165,9 +165,30 @@
     text-shadow: #5a5c61 0.25vw 0.25vw;
 }
 
+#columbusGaWebDesign p{
+    width: 85%;
+    font-size: 1.8vw;
+    line-height: 2.5vw;
+    margin-bottom: 3vw;
+    text-align: justify;
+}
+
+#columbusGaWebDesign h1{
+    font-size: 2.3vw;
+    margin-top: 3vw;
+}
+
+#columbusGaWebDesign h2{
+    font-size: 2vw;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 2vw;
+}
+
 @media only screen and (max-width: 800px) {
     #serviceTiles section {
-        width: 46%;
+        width: 47.5%;
+        padding: .75%;
     }
 
     mobileHeader {
@@ -183,7 +204,7 @@
         margin: 5% 0px 4% 0%;
     }
     .littleOlText {
-        font-size: 4.15vw;
+        font-size: 3.5vw;
         text-align: justify;
         /* padding: .5vw; */
     }
@@ -192,6 +213,7 @@
         padding-top: 4vw;
         padding-left: 3vw;
         padding-right: 10vw;
+        font-size: 10vw;
     }
     .bigOlText img {
         width: 100%;
@@ -211,7 +233,7 @@
     }
 
     #serviceTiles p{
-        font-size: 2.95vw;
+        font-size: 2.6vw;
         font-weight: 500;
         /* padding-bottom: 2vw; */
         text-align: left;
@@ -272,7 +294,27 @@
 
 
     .sectionHeader {
-        font-size: 3.9vw;
+        font-size: 4vw;
+    }
+
+    #columbusGaWebDesign p{
+        width: 95%;
+        font-size: 2.6vw;
+        line-height: 2.75vw;
+        margin-bottom: 3vw;
+        text-align: justify;
+    }
+    
+    #columbusGaWebDesign h1{
+        font-size: 4vw;
+        margin-top: 3vw;
+    }
+    
+    #columbusGaWebDesign h2{
+        font-size: 3.5vw;
+        font-weight: 500;
+        font-style: italic;
+        margin-bottom: 2vw;
     }
 
 }
