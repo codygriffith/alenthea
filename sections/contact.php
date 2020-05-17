@@ -8,7 +8,7 @@
     <label for="contactName">Your Name:</label>
     <input id="contactName" type="text" name="name" placeholder="Your name,">
 
-    <label for="contactEmail">Your Email:</label>
+    <label for="email">Your Email:</label>
     <input id="contactEmail" type="email" name="email" placeholder="email,">
 
     <label for="moreInfo">How may we help you?</label>
