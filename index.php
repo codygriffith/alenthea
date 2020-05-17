@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<link rel="canonical" href="/" />
+<link rel="canonical" href="/">
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
@@ -20,6 +20,7 @@
   "url" : "https://alenthea.com/"
 }
 </script>
+<link rel="dns-prefetch" href="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1">
 <script async rel="dns-prefetch" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
