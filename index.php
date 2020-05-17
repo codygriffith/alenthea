@@ -70,8 +70,6 @@
 
 <!-- <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> -->
 
-<?php header('Cache-Control: no-cache') ?>
-
 </head>
 
 <body>
