@@ -1,6 +1,6 @@
 label{
     color: white;
-    display: none;
+    display: flex;
 }
 #homepageContact {
 	padding: 0 15%;
