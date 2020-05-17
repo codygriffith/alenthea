@@ -20,8 +20,8 @@
   "url" : "https://alenthea.com/"
 }
 </script>
-<link rel="dns-prefetch" href="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1">
-<script async rel="dns-prefetch" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
+<link rel="preconnect" href="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1">
+<script async rel="preconnect" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
