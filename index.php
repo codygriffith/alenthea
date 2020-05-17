@@ -80,8 +80,8 @@
 		</section>
 		<section id="openingPitch">
 		<h1>Alenthea is a Digital Design Agency based in Columbus, Ga.</h1>
-		<h2 id="homepage-pitch" class="font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
-		<h2 id="homepage-pitch" class="font-two">
+		<h2 class="homepage-pitch font-two">We specialize in Website Design, S.E.O., Digital Marketing, Logos, Branding, and E-Commerce.</h2>
+		<h2 class="homepage-pitch font-two">
 			Our Hand-Crafted solutions  are uniquely developed with each individual client for a product that stands 
 			out from the competition and delivers Complete Satisfaction.
 		</h2>
