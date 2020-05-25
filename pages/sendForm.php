@@ -53,7 +53,7 @@
                             "Email: $email_from.\n".
                             "$message\n\n\n\n\n".
 
-    $to = "cody@alenthea.com";
+    $to = "griffithcody86@gmail.com";
     $headers .= "Reply-To: $visitor_email \r\n";
     $headers = "From: $email_from \r\n";
     
