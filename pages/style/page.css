@@ -19,14 +19,14 @@ header .mobile {
 }
 
 .bigOlText {
-    padding: 5vw 10vw 10vw 10vw;
+    padding: 3vw 8vw 8vw 7vw;
     background-color: rgba(0,0,0,.95);
     background-position: initial;
     background-size: cover;
 }
 
 .bigOlText img{
-    width: 50vw;
+    width: 55vw;
     margin: auto;
     padding: 1%;
 }
