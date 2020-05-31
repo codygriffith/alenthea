@@ -8,8 +8,8 @@ body {
 
 body * {
 	/* display: flex; */
-	margin-block-start: auto;
-	margin-block-end: auto;
+	margin-block-start: 0;
+	margin-block-end: 0;
 	font-family: Arial, Helvetica, sans-serif;
 	/* font-size: 2vw; */
 }
@@ -18,6 +18,8 @@ a {
 }
 ul {
 	padding-inline-start: 0;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
 }
 
 
