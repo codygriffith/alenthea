@@ -4,7 +4,8 @@
 	padding-right: 4vw;
 }
 #headerLogo{
-	padding-right: 22vw;
+	padding-right: 30vw;
+	padding-left: 5vw;
 }
 
 header li{
@@ -13,10 +14,9 @@ header li{
 }
 
 header a {
-	font-size: 2vw;
+	font-size: 1.75vw;
 	text-decoration: none;
 	background-color: #0d0d0d;
-	padding: 0 .5vw .5vw .5vw;
 	z-index: 100;
 	font-weight: 500;
 }
@@ -49,9 +49,9 @@ header ul li ul {
 	height: 0;
 	overflow: hidden;
 	transition: .65s height;
-	padding-top: 4vw;
+	padding-top: 2.5vw;
 	margin-left: .25vw;
-	padding-left: .5vw;
+	padding-left: .25vw;
 	background-color: #0d0d0d;
 }
 
@@ -64,11 +64,13 @@ header ul li ul li{
 
 header ul li ul li a{
 	font-weight: 400;
-	font-size: 2vw;
+	font-size: 1.55vw;
+	line-height: 90%;
+	padding: 0 .5vw .5vw .5vw;
 }
 
 header ul li:hover ul{
-	height: 16vw;
+	height: 11vw;
 }
 
 @media screen and (max-width: 800px) {

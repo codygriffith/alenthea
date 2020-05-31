@@ -23,7 +23,7 @@
 
 
 .littleOlText {
-    font-size: 2vw;
+    font-size: 1.8vw;
     font-weight: 700;
     position: relative;
 }
@@ -37,7 +37,7 @@
 }
 
 #serviceTiles section {
-    width: 30%;
+    width: 21.75%;
     padding: 1% 1%;
     background-color:rgba(88, 100, 125, 0.15);
     border-radius: .2vw;
@@ -49,16 +49,17 @@
 }
 #serviceTiles h1 {
     margin-bottom: 2%;
-    font-size: 1.95vw;
+    font-size: 1.9vw;
     color: #232b3b;
 }
 
 #serviceTiles p{
     margin-left: 1%;
-    text-align: justify;
+    /* text-align: justify; */
     font-size: 1.35vw;
     font-weight: 500;
-    line-height: 134%;
+    /* line-height: 134%; */
+    white-space: break-spaces;
 }
 
 #serviceTiles a {
@@ -68,25 +69,27 @@
     float: right;   
 }
 #hosting{
-    padding: 1vw 5vw 1vw 5vw;
+    padding: 3vw 5vw 3vw 5vw;
     background-size: 48%;
     background-position: left;
     background-repeat: no-repeat;
     justify-content: center;
 }
 #hosting h1{
-    font-size: 9vw;
+    font-size: 7.75vw;
     line-height: 100%;
     text-shadow: #90adcc 0.3vw 0.3vw;
+    margin-bottom: .5vw;
 }
 #hosting h2{
-    font-size: 4.75vw;
+    font-size: 3.25vw;
     line-height: 100%;
-    text-shadow: #90adcc 0.1vw 0.1vw;
+    text-shadow: #90adcc 0.15vw 0.15vw;
 }
 
 #hosting img{
-    width: 30vw;
+    width: 26vw;
+    margin-right: 5vw;
 }
 
 #hosting a{
@@ -96,26 +99,26 @@
 }
 
 #ecommerce{
-    padding: 2vw 2vw 2vw 2vw;
+    padding: 1vw 6vw 1vw 6vw;
     background-image: url("/images/minimalBackground4.jpg");
     background-size: 100%;
     background-position: center;
 }
 #ecommerce div{
     background-color: #ffffffb8;
-    padding: 2vw;
+    padding: 3vw;
 }
 
 #ecommerce h1{
-    font-size: 5.25vw;
-    margin-bottom: 1vw;
+    font-size: 4.5vw;
+    margin-bottom: 2vw;
     color: #1b1b1b;
     text-shadow: #90adcc 0.15vw 0.15vw;
 }
 
 #ecommerce p{
-    font-size: 3.25vw;
-    padding-left: 6vw;
+    font-size: 2.1vw;
+    padding-left: 5vw;
     color: #1b1b1b;
 }
 
@@ -135,7 +138,7 @@
 }
 
 .bigOlText {
-    font-size: 10vw;
+    font-size: 6.5vw;
     line-height: 90%;
     width: auto;
     text-align: center;
@@ -146,8 +149,8 @@
     text-shadow: #4b548a 0.25vw 0.25vw;
     padding: 5vw;
     padding-top: 2vw;
-    font-size: 3vw;
-    height: 15vw;
+    font-size: 3.25vw;
+    height: 18vw;
     justify-content: space-around;
 }
 .secondBigText p{text-align: left;width: 95%;line-height: 120%;font-weight: 600;text-shadow: #67759891 0.1vw 0.1vw;}
@@ -158,10 +161,11 @@
 }
 
 .bigOlText span{
-    font-size: 4vw;
+    font-size: 3.35vw;
     line-height: 125%;
     text-align: left;
     text-shadow: #5a5c61 0.25vw 0.25vw;
+    margin-bottom: 1.5vw;
 }
 
 #columbusGaWebDesign p{

@@ -24,11 +24,13 @@ ul {
 .button {
 	font-size: 1.25vw;
 	padding: 0;
-	border-bottom: .25vw solid rgba(89, 100, 123, .65);
-	color: black;
+	border-bottom: .15vw solid rgba(89, 100, 123, .65);
+	color: #000000c2;
 	cursor: pointer;
 	margin-bottom: 1vw;
 	display: inline-flex;
+	margin-top: 2% !important;
+	margin-bottom: 3% !important;
 }
 
 /* Flex */

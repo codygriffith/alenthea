@@ -5,11 +5,11 @@
 }
 
 .serviceIconContainer{
-	width: 24vw;
+	width: 100%;
 }
 	
 .serviceIconContainer img{
-	width: 3.7vw;
+	width: 3.3vw;
 	/* padding: .5vw 1vw; */
 }
 
@@ -36,11 +36,13 @@
 
 .serviceTile h1{
 	font-size: 1.8vw;
-	font-weight: 500;
+	font-weight: 600;
+	opacity: 0.77;
+	margin-top: 0.5vw;
 }
 	
 .serviceTileContent p{
-	font-size: 1.4vw;
+	font-size: 1.3vw;
 	font-weight: 500;
 }
 
@@ -56,11 +58,11 @@
 
 
 #heroImage img {
-	width: 27%;
-	margin-bottom: 4vw;
+	width: 22%;
+	margin-bottom: 5vw;
 }
 #heroImage {
-	height: 38vw;
+	height: 39vw;
 }
 
 /* Mission Banner */
@@ -73,7 +75,7 @@
 }
 
 #missionBanner h3{
-	font-size: 2.25vw;
+	font-size: 2vw;
 	margin: auto;
 	padding: 0 5%;
 	color: #1b1b1b;
@@ -83,6 +85,7 @@
 	font-weight: 500;
 	text-align: left;
 	margin: auto;
+	line-height: 130%;
 }
 
 #missionBanner img{
@@ -213,15 +216,19 @@ form {
 	background-position: left;
 	background-repeat: no-repeat;
 	/* height: 35vw; */
-	padding-top: 9vw;
+	padding-top: 12vw;
+	margin-left: -2vw;
+	margin-bottom: -2vw;
+    padding-bottom: 5vw;
 }
 
 #openingPitch h1{
 	padding: 0 3%;
-	font-size: 2.5vw;
+	font-size: 2.7vw;
 	font-style: normal;
 	font-weight: 600;
-	margin-bottom: .5vw;
+	margin-bottom: 1.5vw;
+	padding-top: 1.5%;
 }
 .homepage-pitch:first-of-type {
 	/* font-size: 2.25vw; */
@@ -229,13 +236,14 @@ form {
 	font-weight: 600;
 }
 .homepage-pitch {
-	width: 75%;
-	margin: 1.5vw 0;
-	text-align: right;
-	padding: 0 3%;
-	font-size: 2vw;
-	font-weight: 600;
-	text-shadow: white .1vw .1vw .2vw;
+	width: 72%;
+    margin: .75vw 0;
+    text-align: right;
+    padding: 0 3%;
+    font-size: 1.85vw;
+    font-weight: 600;
+    text-shadow: white 0.1vw 0.1vw 0.2vw;
+    opacity: 0.85;
 }
 
 .center{
@@ -275,7 +283,7 @@ form {
 
 #services{
 	position: absolute;
-	top: 43vw;
+	top: 45vw;
 }
 
 @media only screen and (max-width: 800px) {
