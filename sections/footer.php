@@ -54,11 +54,11 @@
         <!-- </div> -->
         <div class="flex column">
            <h3>Services</h3>
-           <a href="/services/branding.php"><h4>Logos & Branding</h4></a>
-           <a href="/services/marketing.php"><h4>Online Marketing</h4></a>
+           <a href="/services/branding"><h4>Logos & Branding</h4></a>
+           <a href="/services/digital-marketing-columbus-ga"><h4>Digital Marketing</h4></a>
 
-           <a href="/services/web-design.php"><h4>Web Design</h4></a>
-            <a href="/services/ecommerce.php"><h4>E-Commerce</h4></a>
+           <a href="/services/columbus-ga-web-design"><h4>Web Design</h4></a>
+            <a href="/services/ecommerce"><h4>E-Commerce</h4></a>
         </div>
         
     </div>

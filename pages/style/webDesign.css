@@ -143,6 +143,7 @@
     width: auto;
     text-align: center;
     text-shadow: #4b548a 0.3vw 0.3vw;
+    padding: 8vw;
 }
 .secondBigText {
     text-align: unset;

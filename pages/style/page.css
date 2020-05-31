@@ -6,27 +6,27 @@ header .mobile {
 
 .sectionHeader {
     width: auto;
-    font-size: 2.25vw;
+    font-size: 2.5vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
     margin: auto;
-    margin-top: 2vw;
-    margin-bottom: 1vw;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
     text-align: center;
     display: inline;
 }
 
 .bigOlText {
-    padding: 5vw 12vw 8vw 12vw;
+    padding: 4vw 12vw 7vw 12vw;
     background-color: rgba(0,0,0,.95);
     background-position: initial;
     background-size: cover;
 }
 
 .bigOlText img{
-    width: 55vw;
+    width: 45vw;
     margin: auto;
     padding: 1%;
 }
@@ -40,7 +40,7 @@ header .mobile {
 
 
 .littleOlText {
-    font-size: 2.3vw;
+    font-size: 1.8vw;
     color: #46484b;
     width: 80%;
     margin: auto;
@@ -55,12 +55,14 @@ header .mobile {
 #servicesList {
     justify-content: center;
     -webkit-justify-content: center;
+    width: 80%;
+    margin: auto;
 }
 
 #servicesList li {
     margin: 1% 1%;
     font-weight: 500;
-    font-size: 2.5vw;
+    font-size: 1.75vw;
     color: #46484b;
     background-color: #82acd745;
     padding: .5%;
@@ -71,14 +73,14 @@ header .mobile {
 
 .servicesHeader {
     width: fit-content;
-    font-size: 4vw;
+    font-size: 2.5vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
     margin: auto;
-    margin-bottom: 3.8vw;
-    margin-top: 1.5vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
 }
 
 
@@ -104,9 +106,9 @@ header .mobile {
     text-shadow: none;
     color: #ffffffdb;
     padding: 0.6%;
-    font-size: 2vw;
-    font-weight: 600;
-    text-shadow: #1b1b1b 0.2vw 0.2vw;
+    font-size: 1.65vw;
+    font-weight: 500;
+    text-shadow: #1b1b1b 0.15vw 0.15vw;
     box-shadow: #6fdcc8 0.4vw 0.4vw 0vw;
     border-radius: 0.2vw;
 }
@@ -114,7 +116,7 @@ header .mobile {
 
 #propBoxes .servicesHeader {
     width: fit-content;
-    font-size: 4.5vw;
+    font-size: 3vw;
     color: #ffffff;
     text-shadow: #6a72a3 0.2vw 0.2vw 0;
     box-shadow: none;
