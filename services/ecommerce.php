@@ -66,16 +66,16 @@
 
 	<div class="flex row wrap center" id="serviceTiles">
 		<div>
-			<img src="/images/shopify_logo_whitebg.svg" alt="">
+			<img src="/images/shopify_logo_whitebg.svg" alt="Shopify Logo">
 		</div>
 		<div>
-			<img src="/images/wordpress.png" alt="">
+			<img src="/images/wordpress.png" alt="Wordpress Logo">
 		</div>
 		<div>
-			<img src="/images/facebook.png" alt="">
+			<img src="/images/facebook.png" alt="Facebook Logo">
 		</div>
 		<div>
-			<img src="/images/instagram.jpg" alt="">
+			<img src="/images/instagram.jpg" alt="Instagram Logo">
 		</div>
 	</div>
 
@@ -102,11 +102,11 @@
 		<!-- <h1 class="sectionHeader">Find New Customers</h1> -->
 	<section class="flex row-reverse  center">
 		<h2>Recover Abandoned Carts</h2>
-		<img src="/images/ecomcart.png">
+		<img src="/images/ecomcart.png" alt="Grocery Cart">
 	</section>
 	<section class="flex row space-around">
 		<h2>Retarget Website Visitors</h2>
-		<img src="/images/retarget.png">
+		<img src="/images/retarget.png" alt="An arrow stuck inside of a target.">
 	</section>
 	</section>
 		

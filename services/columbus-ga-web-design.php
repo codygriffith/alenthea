@@ -24,7 +24,7 @@
 	<title>Web Design - Columbus, GA | Alenthea Design Co.</title>
 	<meta name="description" content="Web Design & Development in Columbus, Georgia. 
 	Out-class and out-rank your competition with a custom and highly effective website design. 
-	We are the top choice in Web Design & Development in Columbus, Ga and the Southeast." />
+	We are the top choice in Web Design & Development in Columbus, Ga and the Southeastern US." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
