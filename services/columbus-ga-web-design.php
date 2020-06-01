@@ -22,7 +22,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<title>Web Design - Columbus, GA | Alenthea Design Co.</title>
-	<meta name="description" content="Web Design & Development in Columbus, Georgia. Out class and out-rank your competetion with a strong hand-crafted, online experience." />
+	<meta name="description" content="Web Design & Development in Columbus, Georgia. 
+	Out-class and out-rank your competition with a custom and highly effective website design. 
+	We are the top choice in Web Design & Development in Columbus, Ga and the Southeast." />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
