@@ -12,7 +12,7 @@
     <input id="contactEmail" type="email" name="email" placeholder="email,">
 
     <label for="moreInfo">How may we help you?</label>
-    <textarea name="message" id="moreInfo" placeholder="and what we can do for you."></textarea>
+    <textarea name="message" id="moreInfo" minlength="20" placeholder="and what we can do for you."></textarea>
 
     <label for="contactSubmit">Submit</label>
     <input id="contactSubmit" class="button" type="submit">
