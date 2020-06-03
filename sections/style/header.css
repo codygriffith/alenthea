@@ -9,6 +9,8 @@
 }
 
 header li{
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 	margin: auto;
 }
@@ -48,6 +50,8 @@ header ul li ul {
 	position: absolute;
 	height: 0;
 	overflow: hidden;
+	-webkit-transition: .65s height;
+	-o-transition: .65s height;
 	transition: .65s height;
 	padding-top: 2.1vw;
 	margin-left: .25vw;
@@ -56,8 +60,13 @@ header ul li ul {
 }
 
 header ul li ul li{
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: column;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
 	border-left: solid rgba(255, 255, 255, 0.722) thin;
 	padding: .5vw;
 }
@@ -119,6 +128,8 @@ header ul li:hover ul{
 		font-size: inherit;
 		height: inherit;
 		overflow: hidden;
+		-webkit-transition: height .5s;
+		-o-transition: height .5s;
 		transition: height .5s;
 		padding-right: 4vw;
 		background-color: rgba(0, 0, 0, 0.831);
