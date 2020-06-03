@@ -145,6 +145,7 @@
     text-shadow: #4b548a 0.3vw 0.3vw;
     padding: 7vw;
     padding-top: 3vw;
+    margin: 0;
 }
 .secondBigText {
     text-align: unset;
