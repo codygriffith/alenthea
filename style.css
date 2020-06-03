@@ -28,7 +28,7 @@ ul {
 	font-size: 1.25vw;
 	padding: 0;
 	border-bottom: .15vw solid rgba(89, 100, 123, .65);
-	color: #000000c2;
+	color: rgba(0, 0, 0, 0.76);
 	cursor: pointer;
 	margin-bottom: 1vw;
 	display: inline-flex;
