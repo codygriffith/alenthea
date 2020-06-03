@@ -15,6 +15,7 @@ header li{
 	display: flex;
 	margin: auto;
 	align-items: center;
+	position: relative;
 }
 
 header a {
@@ -55,11 +56,15 @@ header ul li ul {
 	-webkit-transition: .65s height;
 	-o-transition: .65s height;
 	transition: .65s height;
-	padding-top: 5.1vw;
+	padding-top: 4.3vw;
 	margin-left: .25vw;
 	padding-left: .25vw;
 	background-color: #0d0d0d;
 	top: 0;
+	left: 0;
+	max-height: 11vw;
+	width: max-content;
+	
 }
 
 header ul li ul li{
@@ -72,6 +77,7 @@ header ul li ul li{
 	        flex-direction: column;
 	border-left: solid rgba(255, 255, 255, 0.722) thin;
 	padding: .5vw;
+	align-items: start;
 }
 
 header ul li ul li a{
