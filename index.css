@@ -76,6 +76,8 @@
 	        clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
 	/* margin-top: -0.5vw; */
 	/* z-index: 300; */
+	justify-content: space-around;
+	width: 100vw;
 }
 
 #missionBanner h3{

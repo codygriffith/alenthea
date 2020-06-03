@@ -55,10 +55,11 @@ header ul li ul {
 	-webkit-transition: .65s height;
 	-o-transition: .65s height;
 	transition: .65s height;
-	padding-top: 2.1vw;
+	padding-top: 5.1vw;
 	margin-left: .25vw;
 	padding-left: .25vw;
 	background-color: #0d0d0d;
+	top: 0;
 }
 
 header ul li ul li{
