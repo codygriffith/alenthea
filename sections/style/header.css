@@ -108,10 +108,10 @@ header ul li:hover ul{
 
 	#headerLogo img{
 		width: 16vw;
-		/* padding: 4vw; */
-		padding-left: 2vw;
 		margin-bottom: -2vw;
-		height: 100%;
+		height: 90%;
+		margin-top: 1vw;
+		margin-bottom: 1vw;
 	}
 
 	.mobile{
