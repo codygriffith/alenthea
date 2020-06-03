@@ -115,7 +115,7 @@
     font-size: 4.5vw;
     margin-bottom: 2vw;
     color: #1b1b1b;
-    text-shadow: #90adcc 0.15vw 0.15vw;
+    text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
 
 #ecommerce p{
