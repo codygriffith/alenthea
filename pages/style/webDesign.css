@@ -80,13 +80,13 @@
 #hosting h1{
     font-size: 7.75vw;
     line-height: 100%;
-    text-shadow: #90adcc 0.3vw 0.3vw;
+    text-shadow: rgb(144, 173, 204) 0.3vw 0.3vw;
     margin-bottom: .5vw;
 }
 #hosting h2{
     font-size: 3.25vw;
     line-height: 100%;
-    text-shadow: #90adcc 0.15vw 0.15vw;
+    text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
 
 #hosting img{
