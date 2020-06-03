@@ -62,7 +62,9 @@
 	</section>
 	
 	<section>
-		<h1 class="centerText servicesHeader">Our Services</h1>
+	
+		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
+	
 		<ul class="flex row center wrap" id="servicesList">
 				<li>E-Commerce</li>
             	<li>Lead Collection</li>
@@ -75,9 +77,7 @@
 	</section>
 
 	<section id="propBoxes" class="flex column center">
-	
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
-	
+		<h1 class="centerText servicesHeader">Our Services</h1>
 		<div class="flex full center">
 			<p>Engage with your customers online and drive user engagement on Facebook and email newsletters.</p>
 			<p>Maintain your presence and launch new products with ease by maintaining an engaging email newsletter.</p>
