@@ -62,8 +62,8 @@
 		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
 	</section>
     
-	<section>
-		<h1 class="centerText servicesHeader">Our Services</h1>
+	<section class="full flex center column">
+		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 		<ul class="flex row center wrap" id="servicesList">
 				<li>Logo Design</li>
 				<li>Business Cards</li>
