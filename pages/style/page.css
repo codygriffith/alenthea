@@ -41,14 +41,14 @@ header .mobile {
 
 .littleOlText {
     font-size: 1.8vw;
-    color: #46484b;
+    color: rgb(70, 72, 75);
     width: 80%;
     margin: auto;
     margin-top: -3vw;
     background-color: #ecf3ff;
     padding: .75%;
     padding-top: .75%;
-    box-shadow: #00000061 0.1vw 0.1vw 0.5vw;
+    box-shadow: rgba(0, 0, 0, 0.38) 0.1vw 0.1vw 0.5vw;
     font-weight: 700;
 }
 
@@ -63,11 +63,11 @@ header .mobile {
     margin: 1% 1%;
     font-weight: 500;
     font-size: 1.75vw;
-    color: #46484b;
-    background-color: #82acd745;
+    color: rgb(70, 72, 75);
+    background-color: rgba(130, 172, 215, 0.271);
     padding: .5%;
     display: flex;
-    box-shadow: #232b3bb8 0.2vw 0.2vw;
+    box-shadow: rgba(35, 43, 59, 0.722) 0.2vw 0.2vw;
     border-radius: 0.2vw;
 }
 
@@ -102,14 +102,14 @@ header .mobile {
 #propBoxes p{
     width: 28%;
     /* text-align: justify; */
-    background: #504a75c2;
+    background: rgba(80, 74, 117, 0.76);
     text-shadow: none;
-    color: #ffffffdb;
+    color: rgba(255, 255, 255, 0.859);
     padding: 0.6%;
     font-size: 1.65vw;
     font-weight: 500;
-    text-shadow: #1b1b1b 0.15vw 0.15vw;
-    box-shadow: #6fdcc8 0.4vw 0.4vw 0vw;
+    text-shadow: rgb(27, 27, 27) 0.15vw 0.15vw;
+    box-shadow: rgb(111, 220, 200) 0.4vw 0.4vw 0vw;
     border-radius: 0.2vw;
 }
 

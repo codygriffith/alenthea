@@ -105,7 +105,7 @@
     margin: .5%;
     padding: 1%;
     background: #e6e8ec;
-    box-shadow: #00000061 0.1vw 0.1vw 0vw;
+    box-shadow: rgba(0, 0, 0, 0.38) 0.1vw 0.1vw 0vw;
 }
 
 #blogPosts #post h3{

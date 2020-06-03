@@ -77,7 +77,7 @@
 
 	<section id="propBoxes" class="flex column center">
 		<h1 class="centerText servicesHeader">Brand or Bust!</h1>
-		<div class="flex full center">
+		<div class="flex full center space-around">
 			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
 			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
 			<p>The stronger your brand - the more authoritative you appear. Show your expertise with professionally designed branding.</p>

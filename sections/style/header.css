@@ -58,7 +58,7 @@ header ul li ul {
 header ul li ul li{
 	display: flex;
 	flex-direction: column;
-	border-left: solid #ffffffb8 thin;
+	border-left: solid rgba(255, 255, 255, 0.722) thin;
 	padding: .5vw;
 }
 
@@ -121,7 +121,7 @@ header ul li:hover ul{
 		overflow: hidden;
 		transition: height .5s;
 		padding-right: 4vw;
-		background-color: #000000d4;
+		background-color: rgba(0, 0, 0, 0.831);
 		/* padding-bottom: 3vw; */
 	}
 

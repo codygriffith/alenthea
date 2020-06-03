@@ -77,7 +77,7 @@
 
 	<section id="propBoxes" class="flex column center">
 		<h1 class="centerText servicesHeader">Our Services</h1>
-		<div class="flex full center">
+		<div class="flex full center space-around">
 			<p>Engage with your customers online and drive user engagement on Facebook and email newsletters.</p>
 			<p>Maintain your presence and launch new products with ease by maintaining an engaging email newsletter.</p>
 			<p>Market your product to your target audience with PPC Ad Campaings on Google and Facebook.</p>

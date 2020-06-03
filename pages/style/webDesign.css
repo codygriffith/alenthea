@@ -51,7 +51,7 @@
     margin: 0;
     margin-bottom: 2%;
     font-size: 1.9vw;
-    color: #232b3b;
+    color: rgb(35, 43, 59);
 }
 
 #serviceTiles p{
@@ -107,7 +107,7 @@
     background-position: center;
 }
 #ecommerce div{
-    background-color: #ffffffb8;
+    background-color: rgba(255, 255, 255, 0.722);
     padding: 3vw;
 }
 
