@@ -158,7 +158,14 @@
     height: 18vw;
     justify-content: space-around;
 }
-.secondBigText p{text-align: left;width: 95%;line-height: 120%;font-weight: 600;text-shadow: #67759891 0.1vw 0.1vw;}
+.secondBigText p{
+    text-align: left;
+    width: 95%;
+    line-height: 120%;
+    font-weight: 600;
+    text-shadow: rgba(103, 117, 152, 0.57) 0.1vw 0.1vw;
+}
+
 .secondBigText h1:nth-child(2) {
     text-align: end;
     margin-top: 0;
