@@ -34,6 +34,7 @@ footer .mobile, footer .desktop {
 	padding: .75vw 4vw .75vw 4vw;
 	border-top: grey 0.25vw solid;
 	overflow: hidden;
+	align-items: center;
 }
 
 #footerExtend div h3{

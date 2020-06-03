@@ -2,6 +2,7 @@
 #headerLogo img {
 	width: 6vw;
 	padding-right: 4vw;
+	height: 5vw;
 }
 #headerLogo{
 	padding-right: 30vw;
@@ -13,6 +14,7 @@ header li{
 	display: -ms-flexbox;
 	display: flex;
 	margin: auto;
+	align-items: center;
 }
 
 header a {
@@ -24,7 +26,7 @@ header a {
 }
 
 .desktop #headerLogo img {
-	padding: 0 10vw 0 0;
+	padding: .3vw 10vw .3vw 0;
 }
 
 
