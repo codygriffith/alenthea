@@ -14,6 +14,8 @@
 }
 
 .serviceIconContainer picture{
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
 		padding: .5vw;
 	}
@@ -70,7 +72,8 @@
 #missionBanner{
 	padding: 2vw 0;
 	background-color: rgb(230, 231, 236);
-	clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
+	-webkit-clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
+	        clip-path: polygon(0px 0px, 100% 2vw, 100% 100%, 0px calc(100% - 2vw));
 	/* margin-top: -0.5vw; */
 	/* z-index: 300; */
 }
@@ -194,7 +197,8 @@
 	width: 28%;
 	background-color: #FFFFFF;
 	min-height: 13vw;
-	box-shadow: #1b1b1b .3vw .3vw .5vw;
+	-webkit-box-shadow: #1b1b1b .3vw .3vw .5vw;
+	        box-shadow: #1b1b1b .3vw .3vw .5vw;
 	font-weight: 600;
 	font-family: montserrat;
 	padding: 1vw;
@@ -208,10 +212,19 @@ form {
 
 #openingPitch{
 	/* height: 30vw; */
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: flex-end;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: end;
+	    -ms-flex-align: end;
+	        align-items: flex-end;
 	background: url(/images/bgroad.svg);
 	background-size: 45%;
 	background-position: left;
@@ -248,7 +261,9 @@ form {
 }
 
 .center{
-	justify-content: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 }
 
 #ourWork img{
@@ -304,8 +319,13 @@ form {
 	}
 	.serviceTile{
 		width: 100%;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-direction: row;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
 		padding: 6% 2%;
 		background-color: unset;
 	}
@@ -350,17 +370,26 @@ form {
 
 	#webDesign *, #onlineMarketing *{
 		text-align: end;
-		align-items: flex-end;
+		-webkit-box-align: end;
+		    -ms-flex-align: end;
+		        align-items: flex-end;
 	}
 
 	#ecommerce, #logosBranding{
-		flex-direction: row-reverse;
-		justify-content: space-between;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: reverse;
+		    -ms-flex-direction: row-reverse;
+		        flex-direction: row-reverse;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
 	}
 
 	#ecommerce *, #logosBranding *{
 		text-align: start;
-		align-items: flex-start;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		        align-items: flex-start;
 	}
 
 	.serviceTileContent p{
@@ -382,12 +411,19 @@ form {
 	}
 
 	#goals div{
-		flex-direction: column;
-		align-items: unset;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-align: unset;
+		    -ms-flex-align: unset;
+		        align-items: unset;
 	}
 
 	#goals h2{
 		font-size: 6.5vw;
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(65%, #fff0), color-stop(30%, #ab85763b));
+		background: -o-linear-gradient(#fff0 65%, #ab85763b 30%);
 		background: linear-gradient(#fff0 65%, #ab85763b 30%);
 	}
 	#goals p{
@@ -398,7 +434,8 @@ form {
 		/* left: 0; */
 		/* margin-right: 17%; */
 		margin: 1vw 0;
-		box-shadow: none;
+		-webkit-box-shadow: none;
+		        box-shadow: none;
 		font-size: 3vw;
 		font-weight: 600;
 		background-color: #92939a1f;
@@ -408,7 +445,8 @@ form {
 		/* padding-left: 35%; */
 		text-align: end;
 		right: 0;
-		align-self: flex-end;
+		-ms-flex-item-align: end;
+		    align-self: flex-end;
 	}
 
 	.text-highlight{
@@ -416,7 +454,8 @@ form {
 	}
 
 	#ourWork div {
-		flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
 	}
 
 	#ourWork h1{
