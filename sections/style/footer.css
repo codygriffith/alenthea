@@ -40,7 +40,8 @@ footer .mobile, footer .desktop {
     font-size: 2vw;
 	font-weight: 400;
 	text-decoration: underline;
-    text-decoration-color: #ffffff8c;
+	text-decoration-color: #ffffff8c;
+	margin: 0;
 }
 
 #footerExtend div a, #footerExtend div h4{
