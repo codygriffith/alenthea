@@ -45,7 +45,7 @@ footer .mobile, footer .desktop {
 }
 
 #footerExtend div a, #footerExtend div h4{
-	color: #ffffffc9;
+	color: rgba(255, 255, 255, 0.79);
     font-size: 1.25vw;
 	font-weight: 300;
 	/* margin-left: .25vw; */
