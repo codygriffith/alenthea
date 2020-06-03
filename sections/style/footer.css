@@ -31,8 +31,9 @@ footer .mobile, footer .desktop {
 
 #footerExtend {
 	background-color: rgba(10, 10, 10, 0.97);
-	padding: .9vw 4vw .9vw 4vw;
+	padding: .75vw 4vw .75vw 4vw;
 	border-top: grey 0.25vw solid;
+	overflow: hidden;
 }
 
 #footerExtend div h3{
@@ -40,7 +41,8 @@ footer .mobile, footer .desktop {
     font-size: 2vw;
 	font-weight: 400;
 	text-decoration: underline;
-	text-decoration-color: #ffffff8c;
+	-webkit-text-decoration-color: #ffffff8c;
+	        text-decoration-color: #ffffff8c;
 	margin: 0;
 }
 
@@ -52,7 +54,7 @@ footer .mobile, footer .desktop {
 	/* border-left: #e2e2e2 medium solid; */
 	/* padding-left: .25vw; */
 	margin: 0;
-	padding-bottom: .3vw;
+	margin-top: .3vw;
 }
 
 /* #footerExtend div:nth-of-type(1){
@@ -89,8 +91,13 @@ footer .mobile, footer .desktop {
 	}
 	.footerPhone, .footerEmail {
 		width: 60vw;
-		flex-direction: row;
-		justify-content: flex-start;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: start;
+		    -ms-flex-pack: start;
+		        justify-content: flex-start;
 		margin: 3vw 0 3vw 0;
 	}
 	.footerContact h3{
