@@ -62,7 +62,7 @@
 #heroImage img {
 	width: 22%;
 	margin-bottom: 5vw;
-	margin: auto;
+	margin: auto 0;
 }
 #heroImage {
 	height: 39vw;
