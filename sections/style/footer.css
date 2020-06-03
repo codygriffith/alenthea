@@ -51,6 +51,7 @@ footer .mobile, footer .desktop {
 	/* margin-left: .25vw; */
 	/* border-left: #e2e2e2 medium solid; */
 	/* padding-left: .25vw; */
+	margin: 0;
 	margin-top: .3vw;
 }
 
