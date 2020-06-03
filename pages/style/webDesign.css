@@ -48,12 +48,14 @@
     margin-bottom: 1vw;
 }
 #serviceTiles h1 {
+    margin: 0;
     margin-bottom: 2%;
     font-size: 1.9vw;
     color: #232b3b;
 }
 
 #serviceTiles p{
+    margin: 0;
     margin-left: 1%;
     /* text-align: justify; */
     font-size: 1.35vw;
