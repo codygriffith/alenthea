@@ -31,7 +31,7 @@ footer .mobile, footer .desktop {
 
 #footerExtend {
 	background-color: rgba(10, 10, 10, 0.97);
-	padding: .75vw 4vw .75vw 4vw;
+	padding: .9vw 4vw .9vw 4vw;
 	border-top: grey 0.25vw solid;
 }
 
@@ -52,7 +52,7 @@ footer .mobile, footer .desktop {
 	/* border-left: #e2e2e2 medium solid; */
 	/* padding-left: .25vw; */
 	margin: 0;
-	margin-bottom: .3vw;
+	padding-bottom: .3vw;
 }
 
 /* #footerExtend div:nth-of-type(1){
