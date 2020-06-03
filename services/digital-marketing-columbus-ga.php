@@ -60,10 +60,9 @@
 	<section>
 		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
 	</section>
-	
-	<section>
-	
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
+
+	<section class="full flex center">
+		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 	
 		<ul class="flex row center wrap" id="servicesList">
 				<li>E-Commerce</li>
