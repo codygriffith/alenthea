@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<link rel="canonical" href="/" />
+<link rel="canonical" href="/blog/post/semantic-tags-search-engine-optimization" />
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
