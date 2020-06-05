@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/services/columbus-ga-web-design" />
+<link rel="canonical" href="https://alenthea.com/services" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -58,9 +58,6 @@
 	<h1 class="flex column bigOlText">Our Services</h1>
     <h2 class="littleOlText">We are here to help companies meet all of their design needs. We approach every project with a unique desire to solve our client's problems and generate real results. </h2>
     
-    
-    
-
     <article class="flex full wrap center" id="featuredProducts">
 
         <article class="flex center column">
@@ -70,10 +67,7 @@
             </div>
             <p>We design websites to be responsive, optimized, and content rich. We intelligently design every site to specifically rank higher than any of your competitors.</p>
             <a href="/services/columbus-ga-web-design">Learn More</a>
-        </article>
-
-        
-
+        </article>        
 
         <article class="flex center column">
             <div class="flex center">
@@ -84,10 +78,6 @@
             <a href="/services/digital-marketing-columbus-ga">Learn More</a>
         </article>
 
-
-
-
-
         <article class="flex center column">
             <div class="flex center">
                 <img src="/images/webDev-dark.svg">
@@ -96,11 +86,6 @@
             <p>Build a strong brand to establish trust by your audience and promote loyalty across your customer base. Show your personality and secure your position as a prominent figure in your market.</p>
             <a href="/services/branding">Learn More</a>
         </article>
-
-
-
-
-
 
         <article class="flex center column">
             <div class="flex center">
@@ -112,53 +97,6 @@
         </article>
         
     </article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- <section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
-	</section> -->
-
-	<!-- <section class="flex row wrap center" id="serviceTiles"> -->
-		
-
-	<!-- <section class="options">
-		<h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Wordpress Development</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-	</section> -->
-
-
-
-
-
-
-
 
     <section>
 	    <div class="flex column bigOlText secondBigText">

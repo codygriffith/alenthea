@@ -16,8 +16,8 @@
 		{
 		  "@context": "https://schema.org",
 		  "@type": "Organization",
-		  "url": "http://www.alenthea.com",
-		  "logo": "http://www.alenthea.com/images/alentheaFullDark.png",
+		  "url": "https://alenthea.com",
+		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
 		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
 		  "brand": "Alenthea, Alenthea Design Co"
 		}"
@@ -30,7 +30,7 @@
          	  "@type": "ListItem",
           	  "position": 1,
          	  "name": "Alenthea Blog",
-         	  "item": "http://alenthea.com/pages/blog"
+         	  "item": "https://alenthea.com/pages/blog"
   	    	}]
 		}
         
@@ -46,12 +46,8 @@
 <link href="/index.css" rel="stylesheet" type="text/css">
 <link href="/pages/style/post.css" rel="stylesheet" type="text/css">
 
-<meta name="description" content="We are a full-service design agency operating in Columbus, GA. We specialize in Web Design, Digital Marketing, logos, and Branding. Check out our our low to no cost hosting options." />
-<meta name="keywords" content="Web, Design, Logos, Branding, Online, Marketing, Development" />
-<!-- <meta http-equiv="refresh" content="1"> -->
-<!-- <base href="http://www.alenthea.com/index.html"> -->
-
-<!-- <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> -->
+<!-- <meta name="description" content="We are a full-service design agency operating in Columbus, GA. We specialize in Web Design, Digital Marketing, logos, and Branding. Check out our our low to no cost hosting options." />
+<meta name="keywords" content="Web, Design, Logos, Branding, Online, Marketing, Development" /> -->
 
 </head>
 

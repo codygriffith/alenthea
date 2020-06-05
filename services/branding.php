@@ -45,7 +45,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Columbus Ga Logos & Branding",
-              "item": "https://alenthea.com/pages/branding"
+              "item": "https://alenthea.com/services/branding"
             }]
 		}
         

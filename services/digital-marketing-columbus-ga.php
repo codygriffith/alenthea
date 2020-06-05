@@ -45,7 +45,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Digital Marketing Columbus, Ga",
-              "item": "https://alenthea.com/pages/digital-marketing-columbus-ga"
+              "item": "https://alenthea.com/services/digital-marketing-columbus-ga"
             }]
 		}
 		</script>

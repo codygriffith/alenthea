@@ -24,7 +24,7 @@
             </div>
             <div class="flex footerContact column center footerEmail">
                <h3>Email</h3>
-               <h2>Hello@alenthea.com</h2>
+               <h2>Cody@alenthea.com</h2>
             </div>
         </div>
     </div>

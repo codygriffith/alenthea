@@ -49,7 +49,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Columbus Ga Web Design",
-              "item": "https://alenthea.com/pages/columbus-ga-web-design"
+              "item": "https://alenthea.com/services/columbus-ga-web-design"
             }]
 		}
     </script>
@@ -93,27 +93,6 @@
 			 We combine the right tools with the right level of expertise to build a website that meets all of your business's needs.
 		</p>
 	</section>
-
-
-	<!-- <section class="options">
-		<h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Wordpress Development</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-	</section> -->
-
-
-
-
-
-
-
-
 	<br>
     <section>
 	    <div class="flex column bigOlText secondBigText">

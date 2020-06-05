@@ -47,7 +47,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Columbus Ga eCommerce",
-              "item": "https://alenthea.com/pages/ecommerce"
+              "item": "https://alenthea.com/services/ecommerce"
             }]
 		}
         
