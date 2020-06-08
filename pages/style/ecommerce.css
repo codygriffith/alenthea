@@ -1,5 +1,5 @@
 .bigOlText h1{
-    font-size: 8.5vw;
+    font-size: 6.5vw;
     text-shadow: #6a72a3 0.3vw 0.3vw;
 }
 
@@ -13,7 +13,7 @@
 #captureCustomers h2{
     text-align: center;
     margin-bottom: 4vw;
-    font-size: 4.5vw;
+    font-size: 3.25vw;
     color: #1c1c1c;
     margin-top: auto;
 }
@@ -22,10 +22,11 @@
     /* padding: 2vw 6vw; */
     /* background-image: url("/images/abstractBackground2.jpg"); */
     margin: auto 0 auto 0;
+    padding-top: 2vw;
 }
 
 #captureCustomers img{
-    width: 13vw;
+    width: 11vw;
 }
 
 #captureCustomers h2 {
@@ -37,7 +38,7 @@
 }
 
 #serviceTiles div{
-    width: 20%;
+    width: 17%;
     padding: 1vw;
     /* height: auto; */
     display: flex;
@@ -54,21 +55,23 @@
 }
 
 .secondBigText h1{
-    font-size: 5.5vw;
+    font-size: 4.4vw;
     text-shadow: #16495c 0.35vw 0.35vw;
     line-height: 100%;
+    margin-bottom: 5vw;
     /* margin-bottom: 3vw; */
 }
 
 #serviceTiles {
-    width: 80%;
+    width: 70%;
+    padding-bottom: 2vw;
 }
 .secondBigText{
     background-image: url("/images/fulfilment.svg");
     background-size: cover;
     background-position: center;
     height: 25vw;
-    padding-top: 1vw;
+    padding-top: 0;
     /* margin-bottom: 10vw; */
     padding-bottom: 2vw;
 }

@@ -45,7 +45,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Digital Marketing Columbus, Ga",
-              "item": "https://alenthea.com/pages/digital-marketing-columbus-ga"
+              "item": "https://alenthea.com/services/digital-marketing-columbus-ga"
             }]
 		}
 		</script>
@@ -53,16 +53,17 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<h1 class="flex column bigOlText">
-		<img src="/images/onlinemarketing.svg" alt="Internet and Digital Marketing in Columbus, Georgia.">
+		<img src="/images/digitalMarketing.svg" alt="Internet and Digital Marketing in Columbus, Georgia.">
 	</h1>
     
 	
 	<section>
 		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
 	</section>
+
+	<section class="full flex center column">
+		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 	
-	<section>
-		<h1 class="centerText servicesHeader">Our Services</h1>
 		<ul class="flex row center wrap" id="servicesList">
 				<li>E-Commerce</li>
             	<li>Lead Collection</li>
@@ -76,7 +77,7 @@
 
 	<section id="propBoxes" class="flex column center">
 		<h1 class="centerText servicesHeader">Our Services</h1>
-		<div class="flex full center">
+		<div class="flex full center space-around">
 			<p>Engage with your customers online and drive user engagement on Facebook and email newsletters.</p>
 			<p>Maintain your presence and launch new products with ease by maintaining an engaging email newsletter.</p>
 			<p>Market your product to your target audience with PPC Ad Campaings on Google and Facebook.</p>

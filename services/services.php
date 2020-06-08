@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/services/columbus-ga-web-design" />
+<link rel="canonical" href="https://alenthea.com/services" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -57,9 +57,6 @@
     
 	<h1 class="flex column bigOlText">Our Services</h1>
     <h2 class="littleOlText">We use cutting-edge techniques and our high quality standards to develop custom solutionsa and achieve the results you need.</h2>
-    
-    
-    
 
     <article class="flex full wrap" id="featuredProducts">
         <h1 class="flex column center sectionHeader">Featured Products:</h1>
@@ -72,53 +69,6 @@
         </section>
         
     </article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- <section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
-	</section> -->
-
-	<!-- <section class="flex row wrap center" id="serviceTiles"> -->
-		
-
-	<!-- <section class="options">
-		<h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Wordpress Development</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-        <h1>Custom Websites</h1>
-		<p>We develop a custom, ground-up online experience unique to your brand only. Our custom website designs are the most 
-		efficient and optimized solutions for a true professional user experience.</p>
-	</section> -->
-
-
-
-
-
-
-
 
 	<br>
     <section>

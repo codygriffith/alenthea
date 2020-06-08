@@ -45,7 +45,7 @@
         	  "@type": "ListItem",
           	  "position": 2,
           	  "name": "Columbus Ga Logos & Branding",
-              "item": "https://alenthea.com/pages/branding"
+              "item": "https://alenthea.com/services/branding"
             }]
 		}
         
@@ -55,15 +55,15 @@
 	<?php include "../sections/header.php";?>
 	
     <div class="flex column bigOlText">
-        <img src="/images/logosBranding.png" alt="Logos and Branding"> 
+        <img src="/images/logosBranding.svg" alt="Logos and Branding"> 
 	</div>
 
 	<section>
 		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
 	</section>
     
-	<section>
-		<h1 class="centerText servicesHeader">Our Services</h1>
+	<section class="full flex center column">
+		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 		<ul class="flex row center wrap" id="servicesList">
 				<li>Logo Design</li>
 				<li>Business Cards</li>
@@ -77,7 +77,7 @@
 
 	<section id="propBoxes" class="flex column center">
 		<h1 class="centerText servicesHeader">Brand or Bust!</h1>
-		<div class="flex full center">
+		<div class="flex full center space-around">
 			<p>Your Brand is your #1 asset in customer growth and retention. Drive customer loyalty and trust with strong Branding.</p>
 			<p>The value of your brand can sometimes feel invisible, but when prices rise with demand the return becomes apparent.</p>
 			<p>The stronger your brand - the more authoritative you appear. Show your expertise with professionally designed branding.</p>

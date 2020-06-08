@@ -7,12 +7,12 @@ label{
     margin: 0 !important;
 }
 #homepageContact {
-	padding: 0 15%;
+	padding: 0 20%;
 }
 
 form * {
     margin: 1%;
-    font-size: 1.7vw;
+    font-size: 1.4vw;
     padding: .5vw;
 }
 
@@ -32,7 +32,7 @@ textarea {
 
 .contactHeader {
     width: auto;
-    font-size: 2.5vw;
+    font-size: 2.25vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.05vw;
@@ -44,7 +44,7 @@ textarea {
 }
 
 #contactName {
-    width: 32%;
+    width: 31.5%;
 }
 
 #contactEmail{
@@ -53,8 +53,10 @@ textarea {
 
 #contactSubmit {
     font-weight: 600;
-    font-size: 1.8vw;
+    font-size: 1.3vw;
     margin-top: 0;
+    padding: 0.3vw;
+    font-family: sans-serif;
 }
 
 
@@ -110,5 +112,6 @@ textarea {
     margin: auto !important;
     margin-top: 2vw !important;
     padding: 1vw !important;
+    border-radius: 0.2vw;
 }
 }

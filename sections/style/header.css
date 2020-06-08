@@ -2,27 +2,33 @@
 #headerLogo img {
 	width: 6vw;
 	padding-right: 4vw;
+	height: 5vw;
+
 }
 #headerLogo{
-	padding-right: 22vw;
+	padding-right: 30vw;
+	padding-left: 5vw;
 }
 
 header li{
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 	margin: auto;
+	align-items: center;
+	position: relative;
 }
 
 header a {
-	font-size: 2vw;
+	font-size: 1.75vw;
 	text-decoration: none;
 	background-color: #0d0d0d;
-	padding: 0 .5vw .5vw .5vw;
 	z-index: 100;
 	font-weight: 500;
 }
 
 .desktop #headerLogo img {
-	padding: .5vw 10vw .5vw 0;
+	padding: .3vw 10vw .3vw 0;
 }
 
 
@@ -48,27 +54,42 @@ header ul li ul {
 	position: absolute;
 	height: 0;
 	overflow: hidden;
+	-webkit-transition: .65s height;
+	-o-transition: .65s height;
 	transition: .65s height;
-	padding-top: 4vw;
+	padding-top: 4.3vw;
 	margin-left: .25vw;
-	padding-left: .5vw;
+	padding-left: .25vw;
 	background-color: #0d0d0d;
+	top: 0;
+	left: 0;
+	max-height: 11vw;
+	width: max-content;
+	
 }
 
 header ul li ul li{
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: column;
-	border-left: solid #ffffffb8 thin;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	border-left: solid rgba(255, 255, 255, 0.722) thin;
 	padding: .5vw;
+	align-items: start;
 }
 
 header ul li ul li a{
 	font-weight: 400;
-	font-size: 2vw;
+	font-size: 1.55vw;
+	line-height: 90%;
+	padding: 0 .5vw .5vw .5vw;
 }
 
 header ul li:hover ul{
-	height: 16vw;
+	height: 11vw;
 }
 
 @media screen and (max-width: 800px) {
@@ -87,9 +108,10 @@ header ul li:hover ul{
 
 	#headerLogo img{
 		width: 16vw;
-		/* padding: 4vw; */
-		padding-left: 2vw;
 		margin-bottom: -2vw;
+		height: 90%;
+		margin-top: 1vw;
+		margin-bottom: 1vw;
 	}
 
 	.mobile{
@@ -117,9 +139,11 @@ header ul li:hover ul{
 		font-size: inherit;
 		height: inherit;
 		overflow: hidden;
+		-webkit-transition: height .5s;
+		-o-transition: height .5s;
 		transition: height .5s;
 		padding-right: 4vw;
-		background-color: #000000d4;
+		background-color: rgba(0, 0, 0, 0.831);
 		/* padding-bottom: 3vw; */
 	}
 
