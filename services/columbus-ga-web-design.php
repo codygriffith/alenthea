@@ -62,7 +62,7 @@
     <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website design.</h2>
 	
 	<section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h4>
+		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
 	</section>
 
 	<section class="flex row wrap center" id="serviceTiles">
@@ -85,7 +85,7 @@
 	</section>
 
 	<section class="full flex center column" id="columbusGaWebDesign">
-		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h4>
+		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
 		<h2>Designed by Experts - Built by Professionals</h2>
 		<p class="font-two">We strive to be the top Web Design & Development agency located in the Columbus, GA and Ft. Benning area. 
 			 We combine the right tools with the right level of expertise to build a website that meets all of your business's needs.

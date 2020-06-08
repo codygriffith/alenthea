@@ -109,15 +109,16 @@
 
 #ecommerce h1{
     font-size: 5.25vw;
-    margin-bottom: 1vw;
+    margin-bottom: 3vw;
     color: #1b1b1b;
     text-shadow: #90adcc 0.15vw 0.15vw;
 }
 
 #ecommerce p{
-    font-size: 3.25vw;
+    font-size: 2.25vw;
     padding-left: 6vw;
     color: #1b1b1b;
+    /* padding: 2vw; */
 }
 
 .options {
@@ -148,7 +149,7 @@
     padding: 5vw;
     padding-top: 2vw;
     font-size: 3vw;
-    height: 15vw;
+    height: 18vw;
     justify-content: space-around;
 }
 .secondBigText p{text-align: left;width: 95%;line-height: 120%;font-weight: 600;text-shadow: #67759891 0.1vw 0.1vw;}
