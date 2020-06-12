@@ -89,6 +89,10 @@ ul {
 	justify-content: space-around;
 }
 
+.space-evenly {
+	justify-content: space-evenly;
+}
+
 /* Text */
 .thin-text *{
 	font-weight: 200;

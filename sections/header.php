@@ -3,7 +3,7 @@
 </style>
 <header>
 	
-<ul class="desktop flex row dark white-text">
+<ul class="desktop flex row dark white-text space-evenly">
 	<li>
 		<a href="/" id="headerLogo">
 			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
