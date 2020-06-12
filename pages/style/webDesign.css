@@ -112,6 +112,8 @@
 }
 
 #ecommerce h1{
+    font-size: 5.25vw;
+    margin-bottom: 3vw;
     font-size: 4.5vw;
     margin-bottom: 2vw;
     color: #1b1b1b;
@@ -119,9 +121,12 @@
 }
 
 #ecommerce p{
+    font-size: 2.25vw;
+    padding-left: 6vw;
     font-size: 2.1vw;
     padding-left: 5vw;
     color: #1b1b1b;
+    /* padding: 2vw; */
 }
 
 .options {
