@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 
-<link rel="canonical" href="/">
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
