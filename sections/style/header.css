@@ -104,8 +104,13 @@ header ul li:hover ul{
     
 	#headerLogo img{
 		width: 4vw;
+		margin-top: 1vw !important;
+    	margin-bottom: 2vw !important;
 	}
 	
+	header a {
+		padding: 0;
+	}
 
 	#headerLogo img{
 		width: 16vw;

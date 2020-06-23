@@ -150,8 +150,8 @@
     width: auto;
     text-align: center;
     text-shadow: #4b548a 0.3vw 0.3vw;
-    padding: 7vw;
-    padding-top: 3vw;
+    padding: 8vw;
+    padding-top: 5vw;
     margin: 0;
 }
 .secondBigText {
@@ -181,7 +181,7 @@
     font-size: 3.35vw;
     line-height: 125%;
     text-align: left;
-    text-shadow: #5a5c61 0.25vw 0.25vw;
+    text-shadow: #5a5c61d1 0.25vw 0.2vw;
     margin-bottom: 1.5vw;
 }
 
@@ -205,6 +205,10 @@
     margin-bottom: 2vw;
 }
 
+#columbusGaWebDesign br{
+    display: none;
+}
+
 @media only screen and (max-width: 800px) {
     #serviceTiles section {
         width: 47.5%;
@@ -224,17 +228,26 @@
         margin: 5% 0px 4% 0%;
     }
     .littleOlText {
-        font-size: 3.5vw;
+        font-size: 4.25vw;
         text-align: justify;
         /* padding: .5vw; */
+        padding: 1.5vw 1vw;
+        line-height: 100%;
+        margin-bottom: 1vw;
     }
+    
     .bigOlText {
         padding-bottom: 7vw;
         padding-top: 4vw;
         padding-left: 3vw;
         padding-right: 10vw;
-        font-size: 10vw;
+        font-size: 14vw;
     }
+
+    .bigOlText span {
+        font-size: 5.5vw;
+    }
+
     .bigOlText img {
         width: 100%;
         height: 100%;
@@ -245,7 +258,7 @@
     }
 
     #serviceTiles h1{
-        font-size: 4vw;
+        font-size: 5vw;
     }
 
     #serviceTiles div{
@@ -254,10 +267,12 @@
     }
 
     #serviceTiles p{
-        font-size: 2.6vw;
+        font-size: 3.5vw;
         font-weight: 500;
         /* padding-bottom: 2vw; */
         text-align: left;
+        width: 95%;
+        margin: auto;
     }
 
     .secondBigText{
@@ -315,19 +330,19 @@
 
 
     .sectionHeader {
-        font-size: 4vw;
+        font-size: 5.25vw;
     }
 
-    #columbusGaWebDesign p{
+    #columbusGaWebDesign p {
         width: 95%;
-        font-size: 2.6vw;
-        line-height: 2.75vw;
-        margin-bottom: 3vw;
+        font-size: 4vw;
+        line-height: 110%;
+        margin: 2vw 0;
         text-align: justify;
     }
     
     #columbusGaWebDesign h1{
-        font-size: 4vw;
+        font-size: 5.25vw;
         margin-top: 3vw;
     }
     
@@ -337,5 +352,19 @@
         font-style: italic;
         margin-bottom: 2vw;
     }
+
+    #columbusGaWebDesign h2 {
+        font-size: 4.3vw;
+        font-weight: 600;
+        font-style: italic;
+        margin-bottom: 2vw;
+        color: dimgrey;
+    }
+
+    #columbusGaWebDesign br{
+        display: initial;
+    }
+
+
 
 }
