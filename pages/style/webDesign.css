@@ -330,7 +330,8 @@
 
 
     .sectionHeader {
-        font-size: 5.25vw;
+        font-size: 6.25vw;
+        padding: 0 .5vw;
     }
 
     #columbusGaWebDesign p {
