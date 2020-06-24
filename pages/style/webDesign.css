@@ -30,8 +30,8 @@
 
 #serviceTiles {
     justify-content: space-between;
-    width: 98%;
-    margin: auto;
+    width: 97%;
+    margin: 0 1% 0 1%;
     /* margin-bottom: 7vw; */
     align-items: baseline;
 }
@@ -71,7 +71,7 @@
     float: right;   
 }
 #hosting{
-    padding: 3vw 5vw 3vw 5vw;
+    padding: 3vw 8vw 3vw 5vw;
     background-size: 48%;
     background-position: left;
     background-repeat: no-repeat;
@@ -101,14 +101,15 @@
 }
 
 #ecommerce{
-    padding: 1vw 6vw 1vw 6vw;
+    padding: 2.5vw 3.5vw 2.5vw 3.5vw;
     background-image: url("/images/minimalBackground4.jpg");
+    background-color: white;
     background-size: 100%;
     background-position: center;
 }
 #ecommerce div{
     background-color: rgba(255, 255, 255, 0.722);
-    padding: 3vw;
+    padding: 2vw;
 }
 
 #ecommerce h1{
@@ -165,7 +166,7 @@
 }
 .secondBigText p{
     text-align: left;
-    width: 95%;
+    width: 100%;
     line-height: 120%;
     font-weight: 600;
     text-shadow: rgba(103, 117, 152, 0.57) 0.1vw 0.1vw;
@@ -210,6 +211,13 @@
 }
 
 @media only screen and (max-width: 800px) {
+    #columbusGaWebDesign div {
+        width: 92%;
+        background: #a9a9a91c;
+        padding: 2%;
+        border-radius: 1vw;    
+    }
+
     #serviceTiles section {
         width: 47.5%;
         padding: .75%;
@@ -233,15 +241,13 @@
         /* padding: .5vw; */
         padding: 1.5vw 1vw;
         line-height: 105%;
-        margin-bottom: 1vw;
+        margin-bottom: 3vw;
     }
     
     .bigOlText {
         padding-bottom: 11vw;
-        padding-top: 11vw;
-        padding-left: 3vw;
+        padding-top: 7vw;
         padding-right: 3vw;
-        font-size: 15vw;
     }
 
     .bigOlText span {
@@ -276,15 +282,14 @@
     }
 
     .secondBigText{
-        padding-right: 2vw !important;
-        padding-left: 2vw !important;
+        padding-right: 4vw !important;
+        padding-left: 3vw !important;
         height: 20vw;
-        padding-bottom: 4vw;
+        padding-bottom: 7vw;
     }
 
     .secondBigText h1{
-        font-size: 6.35vw;
-        padding: 5vw 0vw;
+        font-size: 6.75vw;
     }
 
     .secondLittleText {
@@ -293,13 +298,14 @@
 
     #hosting img {
         width: 40vw;
+        margin-right: 1vw;
     }
     #hosting h1 {
-        font-size: 12vw;
+        font-size: 11.5vw;
         font-weight: 700;
     }
     #hosting h2 {
-        font-size: 6vw;
+        font-size: 5.5vw;
         font-weight: 500;
     }
     #hosting a {
@@ -307,10 +313,12 @@
         font-weight: 400;
     }
     #ecommerce h1{
-
+        font-size: 7.5vw;
+        line-height: 100%;
     }
     #ecommerce p{
-        
+        font-size: 3.5vw;
+        padding: 0;
     }
 
 
@@ -335,7 +343,7 @@
     }
 
     #columbusGaWebDesign p {
-        width: 95%;
+        width: 98%;
         font-size: 4vw;
         line-height: 110%;
         margin: 2vw 0;
@@ -344,7 +352,7 @@
     
     #columbusGaWebDesign h1{
         font-size: 5.25vw;
-        margin-top: 3vw;
+        margin-top: 6vw;
     }
     
     #columbusGaWebDesign h2{
