@@ -313,11 +313,12 @@ form {
 		width: 60%;
 	}
 	.homepage-pitch{
-		font-size: 4.5vw;
-		font-weight: 600;
-		padding:0 2%;
-		line-height: 150%;
+		font-size: 4.7vw;
+		padding: 1% 5.3%;
+		line-height: 112%;
 		text-align: justify;
+		width: fit-content;
+		font-weight: 600;
 	}
 	.serviceTile{
 		width: 100%;
@@ -343,6 +344,8 @@ form {
 	}
 	.serviceIconContainer {
 		background-color: unset ;
+		width: 35%;
+		margin-right: 2%;
 	}
 
 
@@ -356,18 +359,20 @@ form {
 	}
 
 	.serviceTileContent p{
-		font-size: 3.75vw;
-		text-align: inherit;
-		width: 98%;
-		/* display: none; */
-		margin-left: 1vw;
-		margin-right: 1vw;
-		font-weight: 400;
+		text-align: end !important;
+		opacity: .85;
+		line-height: 6vw !important;
+		font-size: 5vw;
+		line-height: 6vw;
 	}
 
 	.serviceTileContent a{
-		font-size: 3vw;
-		margin-top: 1vw;
+		font-size: 4.25vw;
+    	margin-top: 1vw;
+    	margin-right: 5vw;
+   	 	/* align-self: center; */
+    	margin-left: 5vw;
+    
 	}
 
 	#webDesign *, #onlineMarketing *{
@@ -388,20 +393,33 @@ form {
 	}
 
 	#ecommerce *, #logosBranding *{
-		text-align: start;
+		text-align: start !important;
 		-webkit-box-align: start;
-		    -ms-flex-align: start;
-		        align-items: flex-start;
+		    -ms-flex-align: start !important;
+				align-items: flex-start;
+		
 	}
+
+	#ecommerce p, #logosBranding p{
+		padding-left: 1vw;
+		
+	}
+
+	#webDesign p, #onlineMarketing p{
+		padding-right: 1vw;
+	}
+
+
 
 	.serviceTileContent p{
 		text-align: end;
 		line-height: 6vw;
 		opacity: .85;
+		line-height: 4vw;
 	}
 
 	#missionBanner h3{
-		font-size: 3.55vw;
+		font-size: 4.25vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
@@ -476,13 +494,15 @@ form {
 	}
 
 	#openingPitch {
-		background-size: 59%;
-		padding-top: 2vw;
-		padding-bottom: 4vw;
+		background-size: 247%;
+    	padding-top: 2vw;
+    	padding-bottom: 4vw;
 	}
 	#openingPitch h1 {
-		font-size: 4.5vw;
-		text-align: right;
+		font-size: 5.35vw;
+    	text-align: justify;
+		text-shadow: #c2c3c7 0.4vw 0.3vw;
+		padding: 0 4%;
 	}
 	#homepage-pitch{
 		font-size: 3.25vw;

@@ -68,7 +68,7 @@ textarea {
 #mobileContactHeader{
     font-size: 6.5vw;
     display: block;
-    width: fit-content;
+    width: fit-content !important;
     margin: auto !important;
     text-shadow: none;
     margin-bottom: 0vw !important;
@@ -86,7 +86,7 @@ textarea {
     width: 100% !important;
     font-size: 5.25vw;
     background-color: #e6e8ed;
-    padding: 1% !important;
+    padding: 2% !important;
 }
 
 form * {
@@ -95,12 +95,13 @@ form * {
     padding: 0 !important;
     border: none;
     margin-top: 2vw !important;
+    width: 100% !important;
 }
 
 textarea {
     font-size: 5.25vw !important;
     background-color: #e6e8ed;
-    padding: 1% !important;
+    padding: 2% !important;
 }
 
 #contactSubmit{

@@ -101,23 +101,17 @@ header ul li:hover ul{
 
 		text-decoration: none;
     }
-    
-	#headerLogo img{
-		width: 4vw;
-		margin-top: 1vw !important;
-    	margin-bottom: 2vw !important;
-	}
-	
+    	
 	header a {
 		padding: 0;
 	}
 
 	#headerLogo img{
-		width: 16vw;
+		width: 18vw;
 		margin-bottom: -2vw;
 		height: 90%;
-		margin-top: 1vw;
-		margin-bottom: 1vw;
+		margin-top: 1vw !important;
+    	margin-bottom: 2vw !important;
 	}
 
 	.mobile{
@@ -127,7 +121,7 @@ header ul li:hover ul{
 	}
 
 	#toggle{
-		font-size: 12vw;
+		font-size: 14vw;
 		padding-right: 2vw;
 	}
 
