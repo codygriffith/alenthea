@@ -212,10 +212,10 @@
 
 @media only screen and (max-width: 800px) {
     #columbusGaWebDesign div {
-        width: 92%;
+        width: 94%;
+        padding: 1%;
+        border-radius: 1vw;   
         background: #a9a9a91c;
-        padding: 2%;
-        border-radius: 1vw;    
     }
 
     #serviceTiles section {
