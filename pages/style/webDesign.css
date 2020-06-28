@@ -229,19 +229,19 @@
     
     .littleOlText {
         font-size: 4.4vw;
-        width: 94%;
+        width: 86%;
     }
     #sectionHeader{
         font-size: 6.5vw;
         margin: 5% 0px 4% 0%;
     }
     .littleOlText {
-        font-size: 4.25vw;
-        text-align: justify;
+        font-size: 3.75vw;
         /* padding: .5vw; */
-        padding: 1.5vw 1vw;
+        padding: 2vw 3vw;
         line-height: 105%;
         margin-bottom: 3vw;
+        text-align: justify;
     }
     
     .bigOlText {
