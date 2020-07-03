@@ -90,10 +90,8 @@
 		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
 		<div class="full flex center column">
 		<h2>Designed by Experts - Built by Professionals</h2>
-		<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area. 
-			<br>
-			<br>
-			 We combine the right tools with the right level of expertise to build a website that meets all of your business's needs.
+		<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
+				by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
 		</p>
 	</div>
 	</section>
