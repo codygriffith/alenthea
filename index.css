@@ -9,7 +9,7 @@
 }
 	
 .serviceIconContainer img{
-	width: 3.3vw;
+	width: 3.2vw;
 	/* padding: .5vw 1vw; */
 }
 
@@ -22,14 +22,22 @@
 	
 .serviceIconContainer::before, .serviceIconContainer::after {
 	content: "";
-	border-top: .2vw white solid;
-	width: 40%;
+    border-top: .1vw white solid;
+    width: 40%;
+
 }
-	
-.serviceTile{
-	width: 24vw;
-	text-align: center;
-	margin: auto;
+
+.button {
+	font-size: 1.1vw;
+}
+
+.serviceTile {
+	width: 22.5vw;
+    text-align: center;
+    margin: auto;
+    box-shadow: #3c4250 0.075vw 0.05vw 0.3vw;
+    border-radius: .15vw;
+    overflow: hidden;
 }
 
 .serviceTileContent *{
@@ -37,14 +45,14 @@
 }
 
 .serviceTile h1{
-	font-size: 1.8vw;
+	font-size: 1.55vw;
 	font-weight: 600;
 	opacity: 0.77;
 	margin-top: 0.5vw;
 }
 	
 .serviceTileContent p{
-	font-size: 1.3vw;
+	font-size: 1.2vw;
 	font-weight: 500;
 }
 
@@ -213,7 +221,6 @@ form {
 }
 
 #openingPitch{
-	/* height: 30vw; */
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -231,8 +238,7 @@ form {
 	background-size: 45%;
 	background-position: left;
 	background-repeat: no-repeat;
-	/* height: 35vw; */
-	padding-top: 12vw;
+	padding-top: 10vw;
 	margin-left: -2vw;
 	margin-bottom: -2vw;
     padding-bottom: 5vw;
@@ -240,7 +246,7 @@ form {
 
 #openingPitch h1{
 	padding: 0 3%;
-	font-size: 2.7vw;
+	font-size: 2.5vw;
 	font-style: normal;
 	font-weight: 600;
 	margin-bottom: 1.5vw;
@@ -256,7 +262,7 @@ form {
     margin: .75vw 0;
     text-align: right;
     padding: 0 3%;
-    font-size: 1.85vw;
+    font-size: 1.7vw;
     font-weight: 600;
     text-shadow: white 0.1vw 0.1vw 0.2vw;
     opacity: 0.85;
@@ -302,6 +308,8 @@ form {
 #services{
 	position: absolute;
 	top: 45vw;
+	padding: 0 2.5% 0 2%;
+    width: 96%;
 }
 
 @media only screen and (max-width: 800px) {

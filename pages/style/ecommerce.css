@@ -1,5 +1,5 @@
 .bigOlText h1{
-    font-size: 6.5vw;
+    font-size: 13vw;
     text-shadow: #6a72a3 0.3vw 0.3vw;
 }
 
@@ -74,4 +74,46 @@
     padding-top: 0;
     /* margin-bottom: 10vw; */
     padding-bottom: 2vw;
+}
+
+
+@media only screen and (max-width: 800px){
+
+#serviceTiles {
+    width: 98%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-bottom: 4vw;
+}
+
+#serviceTiles div{
+    width: 40%;
+}
+
+.secondBigText h1{
+    font-size: 6vw;
+}
+
+.secondBigText{
+    padding-top: 2vw;
+}
+
+#captureCustomers{
+    padding-top: 4vw;
+}
+
+#captureCustomers h2 {
+    font-size: 5.5vw;
+    margin-bottom: 7vw;
+}
+
+#captureCustomers img {
+    width: 20vw;
+}
+
+.littleOlText {
+    font-size: 4.5vw !important;
+    line-height: 100% !important;
+}
 }

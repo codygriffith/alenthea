@@ -61,9 +61,9 @@
     margin: 0;
     margin-left: 1%;
     /* text-align: justify; */
-    font-size: 1.25vw;
+    font-size: 1.2vw;
     font-weight: 500;
-    line-height: 105%;
+    line-height: 100%;
     white-space: break-spaces;
     opacity: .8;
     color: rgb(46, 46, 47);
@@ -83,20 +83,21 @@
     justify-content: center;
 }
 #hosting h1{
-    font-size: 7.75vw;
+    font-size: 7vw;
     line-height: 100%;
-    text-shadow: rgb(144, 173, 204) 0.3vw 0.3vw;
+    text-shadow: rgb(144, 173, 204) 0.25vw 0.2vw;
     margin-bottom: .5vw;
 }
 #hosting h2{
-    font-size: 3.25vw;
+    font-size: 2.75vw;
     line-height: 100%;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
 
 #hosting img{
-    width: 26vw;
-    margin-right: 5vw;
+    width: 23vw;
+    margin-right: 8vw;
+
 }
 
 #hosting a{
@@ -106,7 +107,7 @@
 }
 
 #ecommerce{
-    padding: 2.5vw 3.5vw 2.5vw 3.5vw;
+    padding: 2.5vw 5.5vw 2.5vw 5.5vw;
     background-image: url("/images/minimalBackground4.jpg");
     background-color: white;
     background-size: 100%;
@@ -120,7 +121,7 @@
 #ecommerce h1{
     font-size: 5.25vw;
     margin-bottom: 3vw;
-    font-size: 4.5vw;
+    font-size: 4vw;
     margin-bottom: 2vw;
     color: #1b1b1b;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
@@ -155,16 +156,17 @@
     line-height: 90%;
     width: auto;
     text-align: center;
-    text-shadow: #4b548a 0.3vw 0.3vw;
+    text-shadow: #4b548a 0.25vw 0.25vw;
     margin: 0;
-    padding: 5vw 2vw 10vw 2vw;
+    padding: 5vw 4vw 10vw 4vw;
 }
 .secondBigText {
     text-align: unset;
     text-shadow: #4b548a 0.25vw 0.25vw;
-    padding: 5vw;
+    padding: 7vw;
     padding-top: 2vw;
-    font-size: 3.25vw;
+    padding-bottom: 5vw;
+    font-size: 2.75vw;
     height: 18vw;
     justify-content: space-around;
 }
@@ -173,7 +175,7 @@
     width: 100%;
     line-height: 120%;
     font-weight: 600;
-    text-shadow: rgba(103, 117, 152, 0.57) 0.1vw 0.1vw;
+    text-shadow: rgba(103, 117, 152, 0.57) 0.075vw 0.075vw;
 }
 
 .secondBigText h1:nth-child(2) {
@@ -191,16 +193,16 @@
 }
 
 #columbusGaWebDesign p{
-    width: 85%;
-    font-size: 1.8vw;
-    line-height: 2.5vw;
+    width: 75%;
+    font-size: 1.55vw;
     margin-bottom: 3vw;
     text-align: justify;
 }
 
 #columbusGaWebDesign h1{
-    font-size: 2.3vw;
-    margin-top: 3vw;
+    font-size: 2.25vw;
+    margin-top: 5vw;
+    margin-bottom: 1vw;
 }
 
 #columbusGaWebDesign h2{

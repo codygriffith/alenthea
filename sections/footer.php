@@ -19,11 +19,11 @@
         <img class="footerLogo" src="/images/headerLogo.png" alt="Alenthea Logo">
         <div>
             <div class="flex footerContact column center footerPhone">
-                <h3>Call</h3>
+                <h3>Call:</h3>
                 <h2>(706)888-0976</h2>
             </div>
             <div class="flex footerContact column center footerEmail">
-               <h3>Email</h3>
+               <h3>Email:</h3>
                <h2>Cody@alenthea.com</h2>
             </div>
         </div>
@@ -32,7 +32,7 @@
     <div id="footerExtend" class="flex row space-between between">
         <div class="flex column">
             <h3>Alenthea Design Co.</h3>
-            <h4>Serving Columbus, Georgia <br> and  the surrounding areas.</h4>
+            <h4>Serving Columbus, Georgia and <br> the surrounding areas.</h4>
             <br>
             <div id="footerContact">
                 <h3>Contact Us</h3>
