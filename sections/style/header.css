@@ -109,8 +109,6 @@ header ul li:hover ul{
 
 	#companyLogo img{
 		width: 18vw;
-		margin-bottom: -2vw;
-		height: 90%;
 	}
 
 	.mobile{
@@ -149,7 +147,7 @@ header ul li:hover ul{
 	}
 
 	#companyLogo {
-		align-self: center;
+		
 	}
 
 }
