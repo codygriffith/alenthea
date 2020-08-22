@@ -19,11 +19,11 @@
         <img class="footerLogo" src="/images/headerLogo.png" alt="Alenthea Logo">
         <div>
             <div class="flex footerContact column center footerPhone">
-                <h3>Call:</h3>
+                <h2>Call:</h2>
                 <h2>(706)888-0976</h2>
             </div>
             <div class="flex footerContact column center footerEmail">
-               <h3>Email:</h3>
+               <h2>Email:</h2>
                <h2>Cody@alenthea.com</h2>
             </div>
         </div>

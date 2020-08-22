@@ -5,7 +5,7 @@
 	
 <ul class="desktop flex row dark white-text space-evenly">
 	<li>
-		<a href="/" id="headerLogo">
+		<a href="/" id="companyLogo">
 			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
 		</a>
 	</li>
