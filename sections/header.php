@@ -61,7 +61,7 @@
 			<a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a>
 			<!-- <a href="/sections/ecommerce.php">E-Commerce</a> -->
 			<a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Online Marketing</a>
-			<a class="mobileHeaderLinks" id="headerContact" href="/pages/contact">Contact Us</a>
+			<a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a>
 		</div>
 </ul>
 </header>
