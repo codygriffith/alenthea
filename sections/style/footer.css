@@ -79,7 +79,9 @@ footer .mobile, footer .desktop {
 }
 
 @media screen and (max-width: 800px) {
-
+	.space-around{
+        justify-content: space-around !important;
+    }
 	footer .mobile{
 		padding: 4vw 0;
 	}
@@ -92,7 +94,7 @@ footer .mobile, footer .desktop {
 		margin: unset;
 	}
 	.footerPhone, .footerEmail {
-		width: 60vw;
+		width: auto;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
 		    -ms-flex-direction: row;
@@ -100,7 +102,7 @@ footer .mobile, footer .desktop {
 		-webkit-box-pack: start;
 		    -ms-flex-pack: start;
 		        justify-content: flex-start;
-		margin: 3vw 0 3vw 0;
+		margin: 3vw auto 3vw auto;
 	}
 	.footerContact h3{
 		font-size: 4.8vw;

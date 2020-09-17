@@ -1,4 +1,6 @@
-label{
+
+    
+.label{
     color: white;
     display: flex;
     height: 0 !important;
@@ -64,9 +66,11 @@ textarea {
     margin-top: .5%;
 }
 
-
+label{
+    display: none;
+}
 @media only screen and (max-width: 800px) {
-
+    
 .contactHeader {
     display: none;
     box-shadow: none !important;
@@ -90,7 +94,7 @@ textarea {
 }
 #contactName, #contactEmail {
     width: 100% !important;
-    font-size: 5.25vw;
+    font-size: 4.25vw;
     background-color: #e6e8ed;
     padding: 2% !important;
 }
@@ -105,13 +109,13 @@ form * {
 }
 
 textarea {
-    font-size: 5.25vw !important;
+    font-size: 4.25vw !important;
     background-color: #e6e8ed;
     padding: 2% !important;
 }
 
 #contactSubmit{
-    font-size: 5vw !important;
+    font-size: 4vw !important;
     display: block;
     width: fit-content;
     margin: auto !important;

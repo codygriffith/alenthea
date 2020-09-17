@@ -66,7 +66,7 @@
                 <h1><span>Website Design</span><br><span>& Development</span></h1>
             </div>
             <p>We design websites to be responsive, optimized, and content rich. We intelligently design every site to specifically rank higher than any of your competitors.</p>
-            <a href="/services/columbus-ga-web-design">Learn More</a>
+            <a href="/services/columbus-ga-web-design.php">Learn More</a>
         </article>        
 
         <article class="flex center column">
@@ -75,7 +75,7 @@
                 <img src="/images/marketingBulls.svg">
             </div>
             <p>Boost awareness and get traffic to your business with effective marketing. Whether with social media, email marketing, print marketing, or PPC ads; We generate results.</p>
-            <a href="/services/digital-marketing-columbus-ga">Learn More</a>
+            <a href="/services/digital-marketing-columbus-ga.php">Learn More</a>
         </article>
 
         <article class="flex center column">
@@ -84,7 +84,7 @@
                 <h1>Logos & Branding</h1>
             </div>
             <p>Build a strong brand to establish trust by your audience and promote loyalty across your customer base. Show your personality and secure your position as a prominent figure in your market.</p>
-            <a href="/services/branding">Learn More</a>
+            <a href="/services/branding.php">Learn More</a>
         </article>
 
         <article class="flex center column">
@@ -93,7 +93,7 @@
                 <h1><span>Search Engine</span><br><span>Optimization</span></h1>
             </div>
             <p>Place your results #1 on both Google and across the web. Place your content above all others and generate free and organic traffic to your website.</p>
-            <a href="/services/search-engine-optimization">Learn More</a>
+            <a href="/services/search-engine-optimization.php">Learn More</a>
         </article>
         
     </article>

@@ -1,13 +1,13 @@
 /* Header */
-#headerLogo img {
+#companyLogo{
 	width: 6vw;
 	padding-right: 4vw;
 	height: 5vw;
 
 }
-#headerLogo{
+#companyLogo{
 	margin-right: 30vw;
-	padding: .25%;
+	/* padding: .25%; */
 	padding-left: 5vw;
 }
 
@@ -29,7 +29,7 @@ header a {
 	padding: 1vw 0;
 }
 
-.desktop #headerLogo img {
+.desktop #companyLogo img {
 	padding: .3vw 10vw .3vw 0;
 }
 
@@ -107,10 +107,8 @@ header ul li:hover ul{
 		padding: 0;
 	}
 
-	#headerLogo img{
+	#companyLogo img{
 		width: 18vw;
-		margin-bottom: -2vw;
-		height: 90%;
 	}
 
 	.mobile{
@@ -148,8 +146,8 @@ header ul li:hover ul{
 		/* padding-bottom: 3vw; */
 	}
 
-	#headerLogo {
-		align-self: center;
+	#companyLogo {
+		
 	}
 
 }

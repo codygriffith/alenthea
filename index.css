@@ -33,11 +33,11 @@
 
 .serviceTile {
 	width: 22.5vw;
-    text-align: center;
-    margin: auto;
-    box-shadow: #3c4250 0.075vw 0.05vw 0.3vw;
-    border-radius: .15vw;
-    overflow: hidden;
+	text-align: center;
+	margin: auto;
+	/* box-shadow: #3c4250 0.075vw 0.05vw 0.3vw; */
+	border-radius: .15vw;
+	overflow: hidden;
 }
 
 .serviceTileContent *{
@@ -226,22 +226,22 @@ form {
 	display: flex;
 	-webkit-box-orient: vertical;
 	-webkit-box-direction: normal;
-	    -ms-flex-direction: column;
-	        flex-direction: column;
+	-ms-flex-direction: column;
+	flex-direction: column;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 	-webkit-box-align: end;
-	    -ms-flex-align: end;
-	        align-items: flex-end;
+	-ms-flex-align: end;
+	align-items: flex-end;
 	background: url(/images/bgroad.svg);
 	background-size: 45%;
 	background-position: left;
 	background-repeat: no-repeat;
 	padding-top: 10vw;
 	margin-left: -2vw;
-	margin-bottom: -2vw;
-    padding-bottom: 5vw;
+	/* margin-bottom: -2vw; */
+	padding-bottom: 5vw;
 }
 
 #openingPitch h1{
@@ -270,8 +270,8 @@ form {
 
 .center{
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
 
 #ourWork img{
@@ -308,8 +308,8 @@ form {
 #services{
 	position: absolute;
 	top: 45vw;
-	padding: 0 2.5% 0 2%;
-    width: 96%;
+	/* padding: 0 2.5% 0 2%; */
+	/* width: 96%; */
 }
 
 @media only screen and (max-width: 800px) {
@@ -335,8 +335,8 @@ form {
 		display: flex;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
-		    -ms-flex-direction: row;
-		        flex-direction: row;
+		-ms-flex-direction: row;
+		flex-direction: row;
 		padding: 6% 2%;
 		background-color: unset;
 	}
@@ -503,8 +503,8 @@ form {
 
 	#openingPitch {
 		background-size: 247%;
-    	padding-top: 2vw;
-    	padding-bottom: 4vw;
+		padding-top: 2vw;
+		padding-bottom: 0;
 	}
 	#openingPitch h1 {
 		font-size: 5.35vw;

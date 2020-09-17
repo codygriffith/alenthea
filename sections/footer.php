@@ -15,15 +15,15 @@
         </div>
         
     </div> -->
-    <div class="mobile flex row center dark white-text thin-text">
+    <div class="mobile flex row center dark white-text thin-text space-around">
         <img class="footerLogo" src="/images/headerLogo.png" alt="Alenthea Logo">
-        <div>
+        <div style="width: auto;">
             <div class="flex footerContact column center footerPhone">
-                <h3>Call:</h3>
+                <h2>Call: </h2>
                 <h2>(706)888-0976</h2>
             </div>
             <div class="flex footerContact column center footerEmail">
-               <h3>Email:</h3>
+               <h2>Email: </h2>
                <h2>Cody@alenthea.com</h2>
             </div>
         </div>
@@ -54,11 +54,11 @@
         <!-- </div> -->
         <div class="flex column">
            <h3>Services</h3>
-           <a href="/services/branding"><h4>Logos & Branding</h4></a>
-           <a href="/services/digital-marketing-columbus-ga"><h4>Digital Marketing</h4></a>
+           <a href="/services/branding.php"><h4>Logos & Branding</h4></a>
+           <a href="/services/digital-marketing-columbus-ga.php"><h4>Digital Marketing</h4></a>
 
-           <a href="/services/columbus-ga-web-design"><h4>Web Design</h4></a>
-            <a href="/services/ecommerce"><h4>E-Commerce</h4></a>
+           <a href="/services/columbus-ga-web-design.php"><h4>Web Design</h4></a>
+            <a href="/services/ecommerce.php"><h4>E-Commerce</h4></a>
         </div>
         
     </div>
