@@ -27,6 +27,7 @@ header a {
 	z-index: 100;
 	font-weight: 500;
 	padding: 1vw 0;
+	cursor: pointer;
 }
 
 .desktop #companyLogo img {
