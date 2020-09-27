@@ -10,12 +10,13 @@ header .mobile {
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
-    background: linear-gradient(#fff 65%, rgba(172,178,193,0.3) 30%);
+    background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
     margin: auto;
     margin-top: 3vw;
     margin-bottom: 2vw;
     text-align: center;
     display: inline;
+    /* box-shadow: red 1vw 1vw; */
 }
 
 .bigOlText {
@@ -151,10 +152,10 @@ header .mobile {
         align-items: center;
     }
     #propBoxes p{
-        font-size: 4vw;
-        width: 85vw;
+        font-size: 4.25vw;
+        width: 92vw;
         margin: 2vw;
-        padding: 1vw;
+        padding: 1.5vw;
     }
     #servicesList{
         justify-content: space-evenly;

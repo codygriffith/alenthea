@@ -28,6 +28,12 @@
     position: relative;
 }
 
+.secondLittleText{
+    margin-top: 0;
+    background: none;
+    box-shadow: none;
+}
+
 #serviceTiles {
     justify-content: space-between;
     width: 90%;
@@ -76,11 +82,12 @@
     float: right;   
 }
 #hosting{
-    padding: 3vw 8vw 3vw 5vw;
+    /* padding: 3vw 8vw 3vw 5vw; */
     background-size: 48%;
     background-position: left;
     background-repeat: no-repeat;
     justify-content: center;
+    padding-bottom: 4vw;
 }
 #hosting h1{
     font-size: 7vw;
@@ -107,15 +114,15 @@
 }
 
 #ecommerce{
-    padding: 2.5vw 5.5vw 2.5vw 5.5vw;
+    padding: 2.5vw 3.5vw 2.5vw 3.5vw;
     background-image: url("/images/minimalBackground4.jpg");
     background-color: white;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
 }
 #ecommerce div{
     background-color: rgba(255, 255, 255, 0.722);
-    padding: 2vw;
+    padding: 3vw;
 }
 
 #ecommerce h1{
@@ -130,10 +137,11 @@
 #ecommerce p{
     font-size: 2.25vw;
     padding-left: 6vw;
-    font-size: 2.1vw;
-    padding-left: 5vw;
+    font-size: 1.85vw;
+    padding-left: 0;
     color: #1b1b1b;
     /* padding: 2vw; */
+    padding-bottom: 2vw;
 }
 
 .options {
@@ -216,7 +224,39 @@
     display: none;
 }
 
+
+#hosting>div {
+    padding: 3vw 8vw 0 5vw;
+}
+
+#hosting .button {
+    background-color: #ECF3FF;
+    font-size: 1.7vw;
+    font-weight: 600;
+    padding: 0.5vw;
+    border-radius: 0.2vw;
+    line-height: 95%;
+}
+
+#ecommerce .button{
+    text-shadow: none;
+    text-align: center;
+    margin: auto;
+    margin-top: 1.75vw;
+    line-height: 95%;
+    background-color: #e4e4e4;
+    font-size: 1.7vw;
+    font-weight: 600;
+    padding: 0.5vw;
+    border-radius: 0.2vw;
+}
+
 @media only screen and (max-width: 800px) {
+    #ecommerce p{
+        line-height: 100%;
+        color: #566673;
+        font-weight: 500;
+    }
     #ecommerce {
         padding: 6vw;
         margin-bottom:2vw;
@@ -229,6 +269,12 @@
         padding: 1%;
         border-radius: 1vw;   
         background: #a9a9a91c;
+    }
+
+    #ecommerce .button {
+        font-size: 3.2vw;
+        padding: 1%;
+        margin-top: 5%;
     }
 
     #serviceTiles section {
@@ -298,7 +344,7 @@
     .secondBigText{
         padding-right: 4vw !important;
         padding-left: 3vw !important;
-        height: 20vw;
+        height: 31vw;
         padding-bottom: 7vw;
     }
 
@@ -331,7 +377,7 @@
         line-height: 100%;
     }
     #ecommerce p{
-        font-size: 3.5vw;
+        font-size: 3.65vw;
         padding: 0;
     }
 

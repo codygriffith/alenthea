@@ -321,10 +321,10 @@ form {
 		width: 60%;
 	}
 	.homepage-pitch{
-		font-size: 4.7vw;
+		font-size: 4.75vw;
 		padding: 1% 5.3%;
 		line-height: 112%;
-		text-align: justify;
+		text-align: left;
 		width: fit-content;
 		font-weight: 600;
 	}

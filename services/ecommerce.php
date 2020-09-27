@@ -8,7 +8,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-157506747-1');
 </script>
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -19,7 +18,6 @@
 	<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/ecommerce.css" rel="stylesheet" type="text/css">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<title>eCommerce Columbus, Ga - Alenthea</title>
@@ -50,18 +48,51 @@
               "item": "https://alenthea.com/services/ecommerce"
             }]
 		}
-        
 		</script>
 </head>
 <body>
 	<?php include "../sections/header.php";?>
-	
+
 	<div class="flex column bigOlText">
         <h1>E-Commerce</h1> 
     </div>
-		<h3 class="littleOlText">Take your business online and market your products across the most popular platforms.</h3>
-		<div class="full flex center">
-		<h4 class="flex column center sectionHeader">Our Technology:</h4>
+	<h3 class="littleOlText">Take your business online and market your products across the most popular platforms.</h3>
+	
+		<!-- <div id="openerBackground"></div> -->
+	
+	<div class="openingPoints  flex row space-around">
+	<div id="pageOpener">
+		<h2 class="sectionHeader">Whether you're a new 
+								<br>venture or an established 
+								<br>business, you can:
+		</h2>
+	</div>
+		<div class="flex">
+			<img src="/images/check.svg">
+			<p>Reach an established global market.</p>
+		</div>
+		<div class="flex">
+			<img src="/images/check.svg">
+			<p>Maintain 100% touch free product inventory.</p>
+		</div>
+		<div class="flex">
+			<img src="/images/check.svg">
+			<p>Collect real-time customer data & analytics.</p>
+		</div>
+		<div class="flex">
+			<img src="/images/check.svg">
+			<p>Test new products rapidly with low commitment.</p>
+		</div>
+		<div class="flex">
+			<img src="/images/check.svg">
+			<p>Offer a 24/7 shopping experience.</p>
+		</div>
+	</div>
+	
+	
+
+	<div class="full flex center">
+		<h4 class="flex column center sectionHeader">Our Technologies:</h4>
 	</div>
 
 	<div class="flex row wrap center" id="serviceTiles">
@@ -77,6 +108,7 @@
 		<div>
 			<img src="/images/instagram.jpg" alt="Instagram Logo">
 		</div>
+
 	</div>
 
 
@@ -85,7 +117,7 @@
 
 
 	<div class="flex column bigOlText secondBigText">
-		<h1>Product fulfilment;</h1>
+		<h1>Product fulfillment;</h1>
 		<h1>Product photography.</h1>
 	</div>
 	<p class="littleOlText secondLittleText">We are here for all of your needs. Find out what we can do for you.</p>

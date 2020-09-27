@@ -33,6 +33,10 @@
         position: unset;
     }
 
+    #propBoxes {
+        padding-bottom: 2vh;
+    }
+
     #servicesList h2{
         font-size: 3.75vw !important;
         padding: 1% !important;

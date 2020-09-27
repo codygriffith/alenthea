@@ -101,20 +101,27 @@
 		    <h1>Latest Technologies;</h1>
 		    <h1>Highest Standards.</h1>
 	    </div>
-        <p class="littleOlText secondLittleText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
+        <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
     </section>
-	<section class="flex center row" id="hosting">
+	<section class="flex center column" id="hosting">
+	<div class="flex row center">
 		<img src="/images/server.jpg" alt="Hosting Illustration">
+		
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
-			<!-- <a class="button">Learn More</a> -->
+			
 		</div>
+		</div>
+		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
+			<a class="button disabled">Click Here For Hosting Solutions</a>
+
 	</section>
 	<section id="ecommerce" class="flex column bigOlText secondBigText">
-		<div>
+		<div class="flex column">
 			<h1>E-Commerce</h1>
-			<p>Take your business online and market your products across the most popular platforms.</p>
+			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
+			<a class="button" href="/services/ecommerce.php">Click Here For Better Conversions</a>
 		</div>
 	</section>
 	<?php include "../sections/contact.php";?>
