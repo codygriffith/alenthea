@@ -6,7 +6,7 @@ header .mobile {
 
 .sectionHeader {
     width: auto;
-    font-size: 2.25vw;
+    font-size: 2.15vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
@@ -42,7 +42,7 @@ header .mobile {
 
 
 .littleOlText {
-    font-size: 1.8vw;
+    font-size: 1.6vw;
     color: rgb(70, 72, 75);
     width: 90%;
     margin: auto;
@@ -58,14 +58,14 @@ header .mobile {
 #servicesList {
     justify-content: center;
     -webkit-justify-content: center;
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
 #servicesList li {
     margin: 1% 1%;
     font-weight: 500;
-    font-size: 1.75vw;
+    font-size: 1.6vw;
     color: rgb(70, 72, 75);
     background-color: rgba(130, 172, 215, 0.271);
     padding: .5%;
@@ -111,7 +111,7 @@ header .mobile {
     padding: 0.6%;
     font-size: 1.4vw;
     font-weight: 500;
-    text-shadow: rgb(27, 27, 27) 0.15vw 0.15vw;
+    text-shadow: rgb(27, 27, 27) 0.1vw 0.1vw;
     box-shadow: rgb(111, 220, 200) 0.4vw 0.4vw 0vw;
     border-radius: 0.2vw;
 }
@@ -119,7 +119,7 @@ header .mobile {
 
 #propBoxes .servicesHeader {
     width: fit-content;
-    font-size: 3vw;
+    font-size: 2.75vw;
     color: #ffffff;
     text-shadow: #6a72a3 0.17vw 0.17vw 0;
     box-shadow: none;

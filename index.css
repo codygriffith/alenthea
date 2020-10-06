@@ -20,12 +20,7 @@
 		padding: .5vw;
 	}
 	
-.serviceIconContainer::before, .serviceIconContainer::after {
-	content: "";
-    border-top: .1vw white solid;
-    width: 40%;
 
-}
 
 .button {
 	font-size: 1.1vw;
@@ -313,7 +308,39 @@ form {
 }
 
 @media only screen and (max-width: 800px) {
-	
+	#webDesign {
+		background: linear-gradient(-112deg, #FFFFC2 0, rgb(172 178 193 / 0%) 84%);
+		color: black;
+	}
+
+	#ecommerce {
+		background: linear-gradient(111deg, #66FF94 0, rgb(172 178 193 / 0%) 70%);
+		color: black;
+	}
+
+	#onlineMarketing {
+		background: linear-gradient(-112deg, #DFA4FF 0, rgb(172 178 193 / 0%) 79%);
+		color: black;
+	}
+
+	#logosBranding {
+		background: linear-gradient(117deg, #95C8F4 0, rgb(172 178 193 / 0%) 62%);
+		color: black;
+	}
+
+	#ecommerce .container, #logosBranding .container { 
+		flex-direction: row-reverse;
+	}
+
+	.container {
+		background:  #ffffffb8;
+	}
+
+	#services {
+		margin-top: 0;
+		
+	}
+
 	#heroImage{
 		height: 100vh;
 	}
@@ -337,8 +364,8 @@ form {
 		-webkit-box-direction: normal;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		padding: 6% 2%;
-		background-color: unset;
+		padding: 3% 1.5%;
+		/* background-color: unset; */
 	}
 
 	.serviceIconContainer img{
@@ -347,19 +374,19 @@ form {
 	}
 	
 	.serviceTileContent{
-		width: 72%;
+		width: 100%;
 		background-color: unset !important;
 	}
 	.serviceIconContainer {
-		background-color: unset ;
-		width: 35%;
+		background-color: unset;
+		width: 23%;
 		margin-right: 2%;
 	}
 
 
 
 	.serviceTileContent h1{
-		font-size: 6vw;
+		font-size: 7vw;
 		/* color: rgba(27, 27, 27, 0.6784313725490196); */
 		font-weight: 700;
 		color: #1b1b1b;
@@ -370,25 +397,33 @@ form {
 		text-align: end !important;
 		opacity: .85;
 		line-height: 6vw !important;
-		font-size: 5vw;
+		font-size: 4.2vw;
 		line-height: 6vw;
 	}
 
 	.serviceTileContent a{
 		font-size: 4.25vw;
-    	margin-top: 1vw;
-    	margin-right: 5vw;
-   	 	/* align-self: center; */
-    	margin-left: 5vw;
-    
+		margin-top: 1vw;
+		/* margin-right: 5vw; */
+		/* align-self: center; */
+		margin-left: vw;
 	}
 
 	#webDesign *, #onlineMarketing *{
 		text-align: end;
 		-webkit-box-align: end;
-		    -ms-flex-align: end;
-		        align-items: flex-end;
+		-ms-flex-align: end;
+		align-items: flex-end;
+		align-items: center;
 	}
+
+
+	#webDesign .serviceTileContent, #onlineMarketing .serviceTileContent{
+		align-items: flex-end;
+	}
+
+
+	align-items: flex-end !important;
 
 	#ecommerce, #logosBranding{
 		-webkit-box-orient: horizontal;
@@ -409,12 +444,12 @@ form {
 	}
 
 	#ecommerce p, #logosBranding p{
-		padding-left: 1vw;
-		
+		/* padding-left: 1vw; */
 	}
 
 	#webDesign p, #onlineMarketing p{
-		padding-right: 1vw;
+		/* padding-right: 1vw; */
+		width: 100%;
 	}
 
 

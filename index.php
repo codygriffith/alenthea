@@ -88,6 +88,7 @@
 	</section>
 		<section class="flex row center full wrap" id="services">
 			<section id="webDesign" class="flex column center serviceTile light">
+			<div class="flex column center serviceTile light container">
 				<div class="flex medium center serviceIconContainer">
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/webDev-darkest.svg">
@@ -97,11 +98,13 @@
 				</div>
 				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
-					<p>Mobile friendly, responsive, and beautiful across all devices.</p>	
+					<p>Enjoy a responsive and beautiful website custom built for all devices.</p>	
 					<a href="/services/columbus-ga-web-design.php" class="button">View More</a>
 				</div>
+	</div>
 			</section>
 			<section id="ecommerce" class="flex column center serviceTile light">
+			<div class="flex column center serviceTile light container">
 				<div class="flex medium center serviceIconContainer">
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/ecommerce-darkest.svg">
@@ -114,8 +117,10 @@
 					<p>Grow your customer base and reach new potential.</p>	
 					<a href="/services/ecommerce.php" class="button">View More</a>
 				</div>
+			</div>
 			</section>
 			<section id="onlineMarketing" class="flex column center serviceTile light">
+			<div class="flex column center serviceTile light container">
 				<div class="flex medium center serviceIconContainer">
 					<picture>
 						<source media="(max-width: 800px)" srcset="/images/onlineMarketing-darkest.svg">
@@ -123,24 +128,27 @@
 						<img src="/images/onlineMarketing-darkest.svg" alt="Online Marketing">
 					</picture>
 				</div>
-				<div class="serviceTileContent flex column center">
-					<h1>Online Marketing</h1>
-					<p>Spread awareness for your products or brand.</p>	
-					<a href="/services/digital-marketing-columbus-ga.php" class="button">View More</a>
+					<div class="serviceTileContent flex column center">
+						<h1>Online Marketing</h1>
+						<p>Spread awareness for your products or brand.</p>	
+						<a href="/services/digital-marketing-columbus-ga.php" class="button">View More</a>
+					</div>
 				</div>
 			</section>
 			<section id="logosBranding" class="flex column center serviceTile light">
-				<div class="flex medium center serviceIconContainer">
-					<picture>
-						<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
-						<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
-						<img src="/images/logoBranding-light.svg" alt="Logos & Branding">
-					</picture>
-				</div>
-				<div class="serviceTileContent flex column center">
-					<h1>Logos & Branding</h1>
-					<p>Give your brand a new, fresh, and timeless appearance.</p>	
-					<a href="/services/branding.php" class="button">View More</a>
+				<div class="flex column center serviceTile light container">
+					<div class="flex medium center serviceIconContainer">
+						<picture>
+							<source media="(max-width: 800px)" srcset="/images/logoBranding-darkest.svg">
+							<source media="(min-width: 800px)" srcset="/images/logoBranding-light.svg">
+							<img src="/images/logoBranding-light.svg" alt="Logos & Branding">
+						</picture>
+					</div>
+					<div class="serviceTileContent flex column center">
+						<h1>Logos & Branding</h1>
+						<p>Give your brand a new, fresh, and timeless appearance.</p>	
+						<a href="/services/branding.php" class="button">View More</a>
+					</div>
 				</div>
 			</section>
 		</section>

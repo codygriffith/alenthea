@@ -28,6 +28,59 @@
 
 
 
+#pageOpener{
+    width: 32vw;
+    /* margin: auto; */
+    display: inline-block;
+    margin-left: -5vw;
+    margin-top: 0 !important;
+    /* margin-bottom: 2vw; */
+}
+
+#pageOpener h2{
+    font-size: 2.5vw;
+}
+
+.openingPoints div img{
+    width: 4.5vw;
+    margin-top: -2.8vw;
+    margin-right: -1.05vw;
+}
+
+.openingPoints{
+    display: inline-flex;
+    /* margin-right: 3%; */
+    /* width: 62vw; */
+    font-size: 1.5vw;
+    /* font-family: roboto !important; */
+    margin-bottom: 6vw;
+    font-weight: 600;
+    color: #4B4B4B;
+    flex-wrap: wrap;
+    background: linear-gradient(to bottom right, rgb(243 243 243) 50%, rgb(172 178 193 / 28%) 55%);
+    box-shadow: #cacaca 0.2vw 0.2vw 0.3vw;
+    margin: 0 6vw;
+    padding: 1vw;
+    padding-bottom: 2vw;
+}
+
+.openingPoints div {
+    width: 22vw;
+    /* padding: 0 5%; */
+    align-items: stretch;
+    /* height: fit-content; */
+    margin-top: 2vw;
+    align-self: center;
+}
+
+#openerTextOne{
+    width: 55vw;
+}
+#openerTextTwo{
+    width: 80vw;
+}
+
+
 @media only screen and (max-width: 800px) {
     mobileHeader{
         position: unset;
@@ -53,10 +106,54 @@
     .littleOlText{
         font-size: 4vw;
         width: 90%;
+        line-height: 110%;
     }
     .servicesHeader {
     font-size: 6.5vw;
 }
+
+
+#pageOpener{
+    width: 77vw;
+    margin-bottom: 3vw;
+    margin-left: -15vw;
+    }
+    
+    #pageOpener h2{
+        font-size: 6.5vw;
+        line-height: 120%;
+    }
+    
+    .openingPoints div img{
+        
+    margin-top: -8.8vw;
+        
+    margin-right: -1vw;
+        
+    width: 10vw;
+    }
+    
+    .openingPoints{
+        margin: 0 5vw 0 6vw;
+        padding: 1vw .25vw;
+        background: linear-gradient(to bottom right, rgb(243 243 243 / 0%) 17%, rgb(172 178 193 / 48%) 119%);
+    }
+    
+    .openingPoints div {
+        font-size: 4.5vw;
+        width: 40vw;
+        line-height: 100%;
+        text-align: justify;
+        margin-bottom: 3vw;
+        height: fit-content;
+    }
+
+    #openerTextOne{
+        width: 95%;
+    }
+    #openerTextTwo{
+        width: 95%;
+    }
 
     
 }
