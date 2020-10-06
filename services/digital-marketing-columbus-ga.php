@@ -69,11 +69,11 @@
 	</div>
 		<div class="flex" id="openerTextOne">
 			
-			<p>Keep people aware of your services and familiar wioth who you are and how to reach you. Become a regular name in your customers' lives and they will think of you every time.</p>
+			<p>Keep people aware of your services and familiar with who you are and how to reach you. Become a regular name in your customers' lives and they will think of you every time.</p>
 		</div>
 		<div class="flex" id="openerTextTwo">
 			
-			<p>Be everywhere your customers are. The better they think they know you, the more confident they will feel they are making the expert choice. Reawrd your followers with special discounts and offers to grow a dedicated and active following.</p>
+			<p>Be everywhere your customers are. The better they think they know you, the more confident they will feel they are making the expert choice. Reward your followers with special discounts and offers to grow a dedicated and active following.</p>
 		</div>
 		
 	</div>
