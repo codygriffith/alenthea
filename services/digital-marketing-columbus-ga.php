@@ -61,6 +61,25 @@
 		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
 	</section>
 
+
+	<div class="openingPoints flex row space-around">
+	<div id="pageOpener">
+		<h2 class="sectionHeader">Make It Easier For<br> Your Customers<br> To Find You.
+		</h2>
+	</div>
+		<div class="flex" id="openerTextOne">
+			
+			<p>Keep people aware of your services and familiar wioth who you are and how to reach you. Become a regular name in your customers' lives and they will think of you every time.</p>
+		</div>
+		<div class="flex" id="openerTextTwo">
+			
+			<p>Be everywhere your customers are. The better they think they know you, the more confident they will feel they are making the expert choice. Reawrd your followers with special discounts and offers to grow a dedicated and active following.</p>
+		</div>
+		
+	</div>
+
+
+
 	<section class="full flex center column">
 		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 	

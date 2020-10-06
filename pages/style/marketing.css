@@ -58,7 +58,7 @@
 }
 
 .openingPoints div {
-    width: 22vw;
+    /* width: 22vw; */
     /* padding: 0 5%; */
     align-items: stretch;
     /* height: fit-content; */
@@ -67,7 +67,7 @@
 }
 
 #openerTextOne{
-    width: 55vw;
+    width: 59vw;
 }
 #openerTextTwo{
     width: 80vw;
@@ -136,7 +136,7 @@
             }
         
             #openerTextOne{
-                width: 95%;
+                width: 98%;
             }
             #openerTextTwo{
                 width: 95%;
