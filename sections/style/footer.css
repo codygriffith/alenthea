@@ -114,6 +114,7 @@ footer .mobile, footer .desktop {
 		font-size: 4.75vw;
 		border: none;
 		padding-top: 0;
+		padding: .5vw
 	}
 
 	#footerExtend {
