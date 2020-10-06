@@ -98,9 +98,8 @@ header ul li:hover ul{
 @media screen and (max-width: 800px) {
     .mobile a {
 		font-size: 6vw;
-		padding-right: 7vw;
+		padding-right: 4vw;
 		background-color: unset;
-
 		text-decoration: none;
     }
     	
