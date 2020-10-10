@@ -59,17 +59,36 @@
 	</div>
 
 	<section>
-		<h3 class="littleOlText">Your brand is your promise to your customers; Make it mean something.</h3>
+		<h3 class="littleOlText">Your brand is your promise to your customers. Be someone they identify as a trusted professional.</h3>
 	</section>
-    
+	
+	<div class="openingPoints  flex row space-around">
+	<div id="pageOpener">
+		<h2 class="sectionHeader">Your Branding Has
+							  <br>A Purpose; Make It Mean
+							  <br>Something.
+		</h2>
+	</div>
+		<div class="flex" id="openerTextOne">
+			
+			<p>Give your customers the right idea. Show trust and authority with a strong and deliberate Branding that your audience will recognize every time. Your Branding should serve as a glimpse into your Business and how it operates.</p>
+		</div>
+		<div class="flex" id="openerTextTwo">
+			
+			<p>Your Logo is what connects your company to your customers' minds. The more powerful the Logo, the more powerful the connection. With a well designed Logo, your customers will remember your name and who to choose.</p>
+		</div>
+		
+	</div>
+
+
 	<section class="full flex center column">
 		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
 		<ul class="flex row center wrap" id="servicesList">
 				<li>Logo Design</li>
 				<li>Business Cards</li>
-				<li>Social Media</li>            	
+				<li>Social Media</li>
+				<li>Promotional Material</li>            	
 				<li>Stationery</li>
-            	<li>Promotional Material</li>
             	<li>Brand Style Guide</li>
             	<li>Package Design</li>
 		</ul>
