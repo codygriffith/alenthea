@@ -6,6 +6,7 @@
 
 .serviceIconContainer{
 	width: 100%;
+	box-shadow: 0 0.03vw 0.1vw darkblue;
 }
 	
 .serviceIconContainer img{
@@ -27,12 +28,13 @@
 }
 
 .serviceTile {
-	width: 22.5vw;
+	width: 23vw;
 	text-align: center;
 	margin: auto;
 	/* box-shadow: #3c4250 0.075vw 0.05vw 0.3vw; */
 	border-radius: .15vw;
 	overflow: hidden;
+	padding-bottom: 0.25vw;
 }
 
 .serviceTileContent *{
@@ -69,6 +71,7 @@
 }
 #heroImage {
 	height: 39vw;
+	width: 100vw;
 }
 
 /* Mission Banner */
@@ -305,6 +308,7 @@ form {
 	top: 45vw;
 	/* padding: 0 2.5% 0 2%; */
 	/* width: 96%; */
+	width: 100vw;
 }
 
 @media only screen and (max-width: 800px) {
@@ -381,6 +385,7 @@ form {
 		background-color: unset;
 		width: 23%;
 		margin-right: 2%;
+		box-shadow: none;
 	}
 
 
