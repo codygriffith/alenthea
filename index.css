@@ -308,7 +308,7 @@ form {
 	top: 45vw;
 	/* padding: 0 2.5% 0 2%; */
 	/* width: 96%; */
-	width: 100vw;
+	width: 100%;
 }
 
 @media only screen and (max-width: 800px) {

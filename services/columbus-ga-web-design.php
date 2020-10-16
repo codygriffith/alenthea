@@ -58,44 +58,87 @@
     <?php include "../sections/header.php";?>
     
 	<h1 class="flex column bigOlText">
-            <span>Columbus, Ga</span>
-            Web Design
+            <!-- <span>Columbus, Ga</span> -->
+            Website Design
     </h1>
     <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website designed by Alenthea.</h2>
-	
-	<section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
-	</section>
 
-	<section class="flex row wrap center" id="serviceTiles">
-		<section>
-			<h1>Mobile Ready</h1>
-			<p>All of our websites are built responsive and with all devices in mind.</p>
-		</section>
-		<section>
-			<h1>Dynamic Content</h1>
-			<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
-		</section>
-		<section>
-			<h1>Domain Email</h1>
-			<p>Impress your clients with your own custom business email address.</p>
-		</section>
-		<section>
-			<h1>Intelligent S.E.O.</h1>
-			<p>Place your content in front of the right people when they need you most.</p>
-		</section>
-	</section>
 
-	<section class="full flex center column" id="columbusGaWebDesign">
-		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
-		<div class="full flex center column">
-		<h2>Designed by Experts - Built by Professionals</h2>
-		<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
-				by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
-		</p>
+
+	<div id="openingSection">
+
+		<section class="full flex center column" id="columbusGaWebDesign">
+			<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
+			<div class="full flex center column">
+			<h2>Designed by Experts - Built by Professionals</h2>
+			<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
+					by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
+			</p>
+		</div>
+		</section>
+
+		<section class="flex center row" id="pricing_section">
+			<section>
+				<h1>Get A Professional Website<br>
+					 @ A Sensible Budget</h1>
+				<div>
+					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
+					<ul>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+					</ul>
+					<a class="button" href="/services/ecommerce.php">Get Started</a>
+				</div>
+			</section>
+			<section>
+				<h1>Get A Professional Website<br>
+					 @ A Sensible Budget</h1>
+				<div>
+					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
+					<ul>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+						<li>Get your own "@yourdomain.com" business email address.</li>
+					</ul>
+					<a class="button" href="/services/ecommerce.php">Get Started</a>
+				</div>
+			</section>
+		</section>
+
 	</div>
-	</section>
+
+
+
 	<br>
+	<div>
+		<section class="full flex center">
+			<h1 class="flex column center sectionHeader">Loaded with features:</h1>
+		</section>
+	
+		<section class="flex row wrap center" id="serviceTiles">
+			<section>
+				<h1>Mobile Ready</h1>
+				<p>All of our websites are built responsive and with all devices in mind.</p>
+			</section>
+			<section>
+				<h1>Dynamic Content</h1>
+				<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
+			</section>
+			<section>
+				<h1>Domain Email</h1>
+				<p>Impress your clients with your own custom business email address.</p>
+			</section>
+			<section>
+				<h1>Intelligent S.E.O.</h1>
+				<p>Place your content in front of the right people when they need you most.</p>
+			</section>
+		</section>
+	</div>
+
+	<!-- <img style="width: 95%; margin: auto; display: block;" src="/images/pricing_section.png">	 -->
+
+
     <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>

@@ -56,8 +56,12 @@
     $to = "griffithcody86@gmail.com";
     $headers .= "Reply-To: $visitor_email \r\n";
     $headers = "From: $email_from \r\n";
+
+    if ($name != "." && $email_from != ".") {
+        mail($to,$email_subject,$email_body,$headers);
+    }
     
-    mail($to,$email_subject,$email_body,$headers);
+    // mail($to,$email_subject,$email_body,$headers);
    
 ?>
 	
