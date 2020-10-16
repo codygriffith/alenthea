@@ -57,7 +57,7 @@
     $headers .= "Reply-To: $visitor_email \r\n";
     $headers = "From: $email_from \r\n";
 
-    if ($name !== " ") {
+    if ($name !== "") {
         mail($to,$email_subject,$email_body,$headers);
     }
     
