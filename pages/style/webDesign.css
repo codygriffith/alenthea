@@ -38,7 +38,7 @@
     justify-content: space-between;
     width: 90%;
     margin: auto;
-    margin-bottom: 2vw;
+    /* margin-bottom: 7vw; */
     /* align-items: center; */
     /* align-self: center; */
     /* display: flex;*/
@@ -201,15 +201,15 @@
 }
 
 #columbusGaWebDesign p{
-    width: 95%;
-    font-size: 1.75vw;
+    width: 75%;
+    font-size: 1.55vw;
     margin-bottom: 3vw;
     text-align: justify;
 }
 
 #columbusGaWebDesign h1{
     font-size: 2.25vw;
-    /* margin-top: 5vw; */
+    margin-top: 5vw;
     margin-bottom: 1vw;
 }
 
@@ -249,108 +249,6 @@
     font-weight: 600;
     padding: 0.5vw;
     border-radius: 0.2vw;
-}
-
-#pricing_section{
-
-}
-
-#pricing_section section{width: 41%;background-color: #e1edf0;padding-bottom: 1vw;}
-#pricing_section section div{
-    
-background: #f4f7fb;
-    
-width: 95%;
-    
-margin: auto;
-    
-padding-top: 0.6vw;
-    
-padding-bottom: 0.8vw;
-}
-#pricing_section section h1{
-    
-font-size: 2.2vw;
-    
-text-align: center;
-    
-font-weight: 400;
-    
-background: #cfdce3;
-    
-padding: 1vw;
-    
-line-height: 2.4vw;
-    
-margin-bottom: 0.7vw;
-}
-
-#pricing_section section h2{
-    
-width: 95%;
-    
-margin: auto;
-    
-margin-bottom: 1vw;
-    
-font-size: 1.5vw;
-}
-#pricing_section section ul{
-    
-display: block;
-    
-width: 92%;
-    
-margin-left: auto;
-}
-#pricing_section section li{
-    
-width: fit-content;
-    
-font-size: 1.5vw;
-    
-margin-bottom: 0.3vw;
-    
-line-height: 1.8vw;
-}
-#pricing_section .button{
-    
-text-shadow: none;
-    
-text-align: center;
-    
-margin: auto;
-    
-margin-top: 1.75vw;
-    
-line-height: 95%;
-    
-background-color: #dde5e7;
-    
-font-size: 1.7vw;
-    
-font-weight: 600;
-    
-padding: 0.85vw;
-    
-border-radius: 0.2vw;
-    
-/* margin: auto; */
-    
-/* align-self: center; */
-    
-display: block;
-    
-width: fit-content;
-}
-
-#openingSection{
-    background: linear-gradient(to bottom right, rgb(236 243 255 / 27%) 50%, rgb(249 249 249) 55%);
-    box-shadow: #cacaca 0.2vw 0.2vw 0.3vw, #e8e8e8 -0.1vw 0vw 0.3vw;
-    width: 85%;
-    margin: auto;
-    padding-bottom: 3vw;
-    margin-top: 3vw;
 }
 
 @media only screen and (max-width: 800px) {
@@ -507,7 +405,7 @@ width: fit-content;
     #columbusGaWebDesign p {
         width: 98%;
         font-size: 3.6vw;
-        line-height: 108%;
+        line-height: 110%;
         margin: 2vw 0;
         text-align: justify;
     }

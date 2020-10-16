@@ -12,8 +12,8 @@ header .mobile {
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
     margin: auto;
-    margin-top: 1vw;
-    margin-bottom: 1vw;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
     text-align: center;
     display: inline;
     /* box-shadow: red 1vw 1vw; */
@@ -142,7 +142,8 @@ header .mobile {
     #propBoxes {
         flex-direction: column;
         align-items: center !important;
-        padding-top: 2vh;
+        padding-top: 2vw;
+        padding-bottom: 2vw;
     }
     #propBoxes .servicesHeader{
         font-size: 7vw;
