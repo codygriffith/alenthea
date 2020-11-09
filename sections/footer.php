@@ -20,7 +20,7 @@
         <div style="width: auto;">
             <div class="flex footerContact column center footerPhone">
                 <h2>Call: </h2>
-                <h2>(706)888-0976</h2>
+                <h2>(706)366-5561</h2>
             </div>
             <div class="flex footerContact column center footerEmail">
                <h2>Email: </h2>
@@ -36,8 +36,8 @@
             <br>
             <div id="footerContact">
                 <h3>Contact Us</h3>
-                <h4>Cody@Alenthea.com</h4>
-                <h4>7068880976</h4>
+                <h4>cody@alenthea.com</h4>
+                <h4>(706) 366-5561</h4>
             </div>
         </div>
         <img class="footerLogo" src="/images/footerLogo.svg" alt="Alenthea Logo">
