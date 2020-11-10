@@ -68,7 +68,7 @@ header ul li ul {
 	left: 0;
 	max-height: 13vw;
 	width: max-content;
-	
+	padding-top: .5vw;
 }
 
 header ul li ul li{
