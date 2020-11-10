@@ -99,7 +99,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>Web Design</h1>
 					<p>Enjoy a responsive and beautiful website custom built for all devices.</p>	
-					<a href="/services/columbus-ga-web-design.php" class="button">View More</a>
+					<a href="/services/columbus-ga-web-design" class="button">View More</a>
 				</div>
 	</div>
 			</section>
@@ -115,7 +115,7 @@
 				<div class="serviceTileContent flex column center">
 					<h1>E-Commerce</h1>
 					<p>Grow your customer base and reach new potential.</p>	
-					<a href="/services/ecommerce.php" class="button">View More</a>
+					<a href="/services/ecommerce" class="button">View More</a>
 				</div>
 			</div>
 			</section>
@@ -131,7 +131,7 @@
 					<div class="serviceTileContent flex column center">
 						<h1>Online Marketing</h1>
 						<p>Spread awareness for your products or brand.</p>	
-						<a href="/services/digital-marketing-columbus-ga.php" class="button">View More</a>
+						<a href="/services/digital-marketing-columbus-ga" class="button">View More</a>
 					</div>
 				</div>
 			</section>
@@ -147,7 +147,7 @@
 					<div class="serviceTileContent flex column center">
 						<h1>Logos & Branding</h1>
 						<p>Give your brand a new, fresh, and timeless appearance.</p>	
-						<a href="/services/branding.php" class="button">View More</a>
+						<a href="/services/branding" class="button">View More</a>
 					</div>
 				</div>
 			</section>
