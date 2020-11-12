@@ -257,13 +257,13 @@ form {
 }
 .homepage-pitch {
 	width: 72%;
-    margin: .75vw 0;
-    text-align: right;
-    padding: 0 3%;
-    font-size: 1.7vw;
-    font-weight: 600;
-    text-shadow: white 0.1vw 0.1vw 0.2vw;
-    opacity: 0.85;
+	padding: .75vw 0;
+	text-align: right;
+	padding: 0 3%;
+	font-size: 1.7vw;
+	font-weight: 600;
+	text-shadow: white 0.1vw 0.1vw 0.2vw;
+	opacity: 0.85;
 }
 
 .center{
@@ -337,7 +337,7 @@ form {
 	}
 
 	.container {
-		background:  #ffffffb8;
+		background: #ffffffe8;
 	}
 
 	#services {
@@ -346,14 +346,14 @@ form {
 	}
 
 	#heroImage{
-		height: 100vh;
+		height: 83vh;
 	}
 	#heroImage img {
 		width: 60%;
 	}
 	.homepage-pitch{
 		font-size: 4.75vw;
-		padding: 1% 5.3%;
+		padding: 2% 4.3%;
 		line-height: 112%;
 		text-align: left;
 		width: fit-content;
@@ -542,15 +542,26 @@ form {
 	}
 
 	#openingPitch {
-		background-size: 247%;
+		background-size: 171%;
 		padding-top: 2vw;
 		padding-bottom: 0;
+		background-position: initial;
+		margin: auto;
+		margin-top: -21vw;
+		width: 95%;
+		box-shadow: inset #a0a0a0 0.6vw 0.6vw 0vw 0px, #cecece 0.25vw 0.25vw 0.6vw;
+		margin-bottom: 6vw;
+		background: linear-gradient(163deg, #ffffff 27%, rgb(16 48 128 / 19%) 199%);
 	}
 	#openingPitch h1 {
-		font-size: 5.35vw;
-    	text-align: justify;
+		font-size: 8.25vw;
+		/* text-align: justify; */
 		text-shadow: #c2c3c7 0.4vw 0.3vw;
 		padding: 0 4%;
+		line-height: 5.75vw;
+		width: 85%;
+		align-self: start;
+		line-height: 9.5vw;
 	}
 	#homepage-pitch{
 		font-size: 3.25vw;
