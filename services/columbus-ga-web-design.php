@@ -63,28 +63,7 @@
     </h1>
     <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website designed by Alenthea.</h2>
 	
-	<section class="full flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
-	</section>
-
-	<section class="flex row wrap center" id="serviceTiles">
-		<section>
-			<h1>Mobile Ready</h1>
-			<p>All of our websites are built responsive and with all devices in mind.</p>
-		</section>
-		<section>
-			<h1>Dynamic Content</h1>
-			<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
-		</section>
-		<section>
-			<h1>Domain Email</h1>
-			<p>Impress your clients with your own custom business email address.</p>
-		</section>
-		<section>
-			<h1>Intelligent S.E.O.</h1>
-			<p>Place your content in front of the right people when they need you most.</p>
-		</section>
-	</section>
+	
 
 	<section class="full flex center column" id="columbusGaWebDesign">
 		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
@@ -95,7 +74,71 @@
 		</p>
 	</div>
 	</section>
+
+	<section class="flex center row" id="pricing_section">
+			<section>
+				<h1>Get A Professional Website<br>
+					 @ A Sensible Budget</h1>
+				<div>
+					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
+					<ul>
+						<li>Great for small businesses that require a minimal web presence.</li>
+						<li>Start small but keep your ability to scale up in the future.</li>
+						<li>Fit any budget; Big or Small.</li>
+					</ul>
+					<a class="button" href="/pages/contact">Get Started</a>
+				</div>
+			</section>
+			<section>
+				<h1>Need A More Custom<br>
+					 Solution?</h1>
+				<div>
+					<H2>Stand out from the rest with an end-all Web Solution for your Business. Our Custom Websites begin at just $3000 and are guranteed to efficiently match your budget with our performance.</H2>
+					<ul>
+						<li>For larger operations with more robust requirements.</li>
+						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
+						<li>Built in On-Page S.E.O. and Mobile Optimization.</li>
+					</ul>
+					<a class="button" href="/pages/contact">Get Started</a>
+				</div>
+			</section>
+	</section>
+
+
+
+
+
+
+
 	<br>
+
+
+
+
+	<div>
+		<section class="full flex center">
+			<h1 class="flex column center sectionHeader">Loaded with features:</h1>
+		</section>
+
+		<section class="flex row wrap center" id="serviceTiles">
+			<section>
+				<h1>Mobile Ready</h1>
+				<p>All of our websites are built responsive and with all devices in mind.</p>
+			</section>
+			<section>
+				<h1>Dynamic Content</h1>
+				<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
+			</section>
+			<section>
+				<h1>Domain Email</h1>
+				<p>Impress your clients with your own custom business email address.</p>
+			</section>
+			<section>
+				<h1>Intelligent S.E.O.</h1>
+				<p>Place your content in front of the right people when they need you most.</p>
+			</section>
+		</section>
+	</div>
     <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>
