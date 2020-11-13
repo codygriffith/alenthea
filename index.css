@@ -348,7 +348,7 @@ form {
 	padding: 1vw;
 }
 #webManagement section section p{
-	width: 80%;
+	width: 95%;
 	margin: auto;
 	font-size: 1vw;
 	text-align: center;
@@ -750,7 +750,25 @@ form {
 font-size: 5vw;
 	} */
 	#webManagement section section h1 {
-		font-size: 2.8vw !important;
+		font-size: 3vw !important;
 		text-align: center;
+		width: 98%;
+	}
+	#webManagement section section p {
+		font-size: 2.1vw !important;
+		text-align: left;
+	}
+	#webManagement section section ul {
+		width: 100%;
+		margin: auto;
+	}
+	.managementHalf{
+		width: 95%;
+	}
+	#webManagement section section ul li {
+		font-size: 2vw !important;
+	}
+	.serviceCost {
+		font-size: 5vw !important;
 	}
   }
