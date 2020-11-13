@@ -269,7 +269,7 @@ form {
 .center{
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
-	justify-content: center;
+	/* justify-content: center; */
 }
 
 #ourWork img{
@@ -309,6 +309,107 @@ form {
 	/* padding: 0 2.5% 0 2%; */
 	/* width: 96%; */
 	width: 100%;
+}
+
+#webManagement{
+	width: 90%;
+	margin: auto;
+	background: #dfe2ee59;
+	padding: 1vw;
+}
+#webManagement h1{
+	font-size: 2.25vw;
+}
+#webManagement h2{
+	font-size: 1.25vw;
+	width: 65%;
+	text-align: center;
+	margin: 0vw 0 1.5vw 0;
+	font-weight: 500;
+}
+#webManagement h3{
+	font-size: 1.5vw;
+	font-style: italic;
+	font-weight: 300;
+}
+#webManagement hr{
+	width: 90%;
+	margin: 1vw;
+	border: #A5A5A5 solid 0.05vw;
+}
+#webManagement section section{
+	width: 30%;
+	background-color: #E6E9F6;
+	padding: 1vw .5vw;
+	/* flex-grow: 1; */
+}#webManagement section section h1{
+	font-size: 1.75vw;
+	font-weight: 400;
+	padding: 1vw;
+}
+#webManagement section section p{
+	width: 80%;
+	margin: auto;
+	font-size: 1vw;
+	text-align: center;
+}
+.price{
+	margin-top: .75vw;
+	margin-left: -1vw;
+	/* line-height: 3vw; */
+}
+.moneySymbol{
+	font-size: 1.75vw;
+	align-self: start;
+}
+.serviceCost{
+	font-size: 3vw;
+}
+.eachMonth{
+	font-size: 0.75vw;
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 1vw;
+	margin-top: -.25vw;
+}
+
+#webManagement section section ul{
+	width: 98%;
+	margin: auto;
+}
+#webManagement section section ul li{
+	list-style: none;
+	font-size: 1.15vw;
+	/* font-family: roboto condensed; */
+	margin: .5vw 0 .75vw 0;
+}
+#middleManagement{
+	width: 33% !important;
+}
+#middleManagement h1{
+	font-size: 1.8vw !important;
+	width: 85%;
+	text-align: center;
+	padding: 0 !important;
+}
+#middleManagement p{
+	font-size: 1.2vw !important;
+}
+#middleManagement .moneySymbol{
+	font-size: 2vw;
+}
+#middleManagement .serviceCost{
+	font-size: 3.75vw;
+}
+#middleManagement .eachMonth{
+	font-size: .90vw;
+}
+#middleManagement li{
+	font-size: 1.25vw !important;
+}
+
+#middleManagement{
+	/* font-size: 17vw !important; */
 }
 
 @media only screen and (max-width: 800px) {
@@ -573,4 +674,34 @@ form {
 		top: unset;
 	}
 	
+
+	#webManagement{
+
+	}
+	#webManagement h1{
+		
+font-size: 5vw;
+	}
+	#webManagement h2{
+		
+width: 98%;
+		
+font-size: 3vw;
+		
+text-align: justify;
+	}
+	#webManagement h3{
+		
+font-size: 4vw;
+	}
+	#webManagement hr{
+		
+	}
+
+	#webManagement section section h1{
+		font-size: 3vw;
+		text-align: center;
+	}
+
+
   }

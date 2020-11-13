@@ -163,6 +163,74 @@
 
 
 
+	<section class="flex center column" id="webManagement">
+		<h1>Need Help With Your Current Website?</h1>
+		<h3>We have the perfect plan to fit every budget.</h3>
+		<hr>
+		<h2>With a Lightning Fast response time we are here for when you need us the most. Stop wasting your time waiting for solutions, let the experts get it done.</h2>
+		<section class="flex row space-around center">
+		<section class="flex column center">
+				<h1>Hosting & Support</h1>
+				<hr>
+				<p>We'll keep your website up and running with real-time monitoring and regular backups.</p>
+				<div>
+					<div class="flex center price">
+						<div class="moneySymbol">$</div>
+						<div class="serviceCost">25</div>
+					</div>	
+					<div class="eachMonth">each month</div>
+				</div>
+				<ul>
+					<li>• Increase your website's speed and performance.</li>
+					<li>• Guaranteed 99.9% Website Up-time.</li>
+					<li>• Server monitoring and Weekly backups.</li>
+					<li>• 5 hours of premium support each month.</li>
+				</ul>
+				<button>Explore Plan</button>
+			</section>
+			<section class="flex column center" id="middleManagement">
+				<h1>Search Engine Optimization & Content Management</h1>
+				<hr>
+				<p>Perfect for websites that require extended support with regular content updates.</p>
+				<div>
+					<div class="flex center price">
+						<div class="moneySymbol">$</div>
+						<div class="serviceCost">70</div>
+					</div>	
+					<div class="eachMonth">each month</div>
+				</div>
+				<ul>
+					<li>• Monthly S.E.O. monitoring and strategy.</li>
+					<li>• Includes 3 free content updates per month.</li>
+					<li>• 20 hours of premium support each month.</li>
+					<li>• Monthly analytics review and strategy.</li>
+				</ul>
+				<button>Explore Plan</button>
+			</section>
+			<section class="flex column center">
+				<h1>Ecommerce & Marketing</h1>
+				<hr>
+				<p>Content management of your online store and associated marketing campaigns.</p>
+				<div>
+					<div class="flex center price">
+						<div class="moneySymbol">$</div>
+						<div class="serviceCost">120</div>
+					</div>	
+					<div class="eachMonth">each month</div>
+				</div>
+				<ul>
+					<li>• 20 hours of premium support each month.</li>
+					<li>• S.E.O. Monitoring and Optimization.</li>
+					<li>• Server monitoring and Weekly backups.</li>
+					<li>• 24/7 Emergency Phone Support.</li>
+				</ul>
+				<button>Explore Plan</button>
+			</section>
+		</section>
+	</section>
+
+
+
 
 	<!-- <article id="ourWork" class="flex full center column">
 		<h1>Our Work</h1>
