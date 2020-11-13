@@ -79,6 +79,7 @@
 			<section>
 				<h1>Get A Professional Website<br>
 					 @ A Sensible Budget</h1>
+					 <hr>
 				<div>
 					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
 					<ul>
@@ -92,6 +93,7 @@
 			<section>
 				<h1>Need A More Custom<br>
 					 Solution?</h1>
+					 <hr>
 				<div>
 					<H2>Stand out from the rest with an end-all Web Solution for your Business. Our Custom Websites begin at just $3000 and are guranteed to efficiently match your budget with our performance.</H2>
 					<ul>
