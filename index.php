@@ -170,10 +170,13 @@
 		<h2>With a Lightning Fast response time we are here for when you need us the most. Stop wasting your time waiting for solutions, let the experts get it done.</h2>
 		<section class="flex row space-around center">
 		<section class="flex column center">
+			<div class="flex center column">
 				<h1>Hosting & Support</h1>
 				<hr>
 				<p>We'll keep your website up and running with real-time monitoring and regular backups.</p>
-				<div>
+			</div>
+			<div class="flex center column">
+				<div class="flex center column">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">25</div>
@@ -187,12 +190,16 @@
 					<li>• 5 hours of premium support each month.</li>
 				</ul>
 				<button>Explore Plan</button>
+			</div>
 			</section>
 			<section class="flex column center" id="middleManagement">
-				<h1>Search Engine Optimization & Content Management</h1>
-				<hr>
-				<p>Perfect for websites that require extended support with regular content updates.</p>
-				<div>
+				<div class="flex center column">
+					<h1>Search Engine Optimization & Content Management</h1>
+					<hr>
+					<p>Perfect for websites that require extended support with regular content updates.</p>
+				</div>
+				<div class="flex center column">
+				<div class="flex center column">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">70</div>
@@ -206,12 +213,16 @@
 					<li>• Monthly analytics review and strategy.</li>
 				</ul>
 				<button>Explore Plan</button>
+	</div>
 			</section>
 			<section class="flex column center">
+				<div class="flex center column">
 				<h1>Ecommerce & Marketing</h1>
 				<hr>
 				<p>Content management of your online store and associated marketing campaigns.</p>
-				<div>
+	</div>
+	<div class="flex center column">
+				<div class="flex center column">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">120</div>
@@ -225,6 +236,7 @@
 					<li>• 24/7 Emergency Phone Support.</li>
 				</ul>
 				<button>Explore Plan</button>
+	</div>
 			</section>
 		</section>
 	</section>

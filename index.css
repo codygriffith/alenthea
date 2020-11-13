@@ -312,7 +312,7 @@ form {
 }
 
 #webManagement{
-	width: 90%;
+	width: 95%;
 	margin: auto;
 	background: #dfe2ee59;
 	padding: 1vw;
@@ -333,7 +333,7 @@ form {
 	font-weight: 300;
 }
 #webManagement hr{
-	width: 90%;
+	width: 95%;
 	margin: 1vw;
 	border: #A5A5A5 solid 0.05vw;
 }
@@ -699,12 +699,32 @@ font-size: 4vw;
 	}
 
 	#webManagement section section h1{
-		font-size: 3vw;
+		font-size: 4.7vw !important;
 		text-align: center;
+		width: 95%;
+		padding: 0;
 	}
 	#missionBanner {
 		margin-top: 4vw;
 		margin-bottom: 4vw;
 	}
 
+	#webManagement section{
+		flex-direction: column;
+		width: 95%;
+	}
+	#webManagement section section {
+		width: 100% !important;
+		flex-direction: row;
+	}
+	#webManagement section section div{
+		display: inherit;
+		justify-content: center;
+		width: 45%;
+	}
+	#webManagement section section p {
+		font-size: 2.75vw;
+		text-align: left;
+		width: 106%;
+	}
   }
