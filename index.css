@@ -333,9 +333,9 @@ form {
 	font-weight: 300;
 }
 #webManagement hr{
-	width: 86%;
+	width: 96%;
 	margin: 1vw;
-	border: #A5A5A5 solid 0.05vw;
+	border: #a5a5a575 solid 0.01vw !important;
 }
 #webManagement section section{
 	width: 30%;
@@ -767,8 +767,21 @@ font-size: 5vw;
 	}
 	#webManagement section section ul li {
 		font-size: 2vw !important;
+		line-height: 100%;
+		margin-bottom: 1vw;
 	}
 	.serviceCost {
 		font-size: 5vw !important;
+	}
+	#webManagement h1 {
+		font-size: 4vw;
+	}
+	#webManagement h3 {
+		font-size: 2.75vw;
+	}
+	#webManagement h2 {
+		font-size: 2.75vw;
+		width: 93%;
+		text-align: left;
 	}
   }

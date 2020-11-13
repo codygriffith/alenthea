@@ -189,7 +189,7 @@
 					<li>• Server monitoring and Weekly backups.</li>
 					<li>• 5 hours of premium support each month.</li>
 				</ul>
-				<button>Explore Plan</button>
+				<!-- <button>Explore Plan</button> -->
 			</div>
 			</section>
 			<section class="flex column center" id="middleManagement">
@@ -212,7 +212,7 @@
 					<li>• 20 hours of premium support each month.</li>
 					<li>• Monthly analytics review and strategy.</li>
 				</ul>
-				<button>Explore Plan</button>
+				<!-- <button>Explore Plan</button> -->
 	</div>
 			</section>
 			<section class="flex column center">
@@ -235,7 +235,7 @@
 					<li>• Server monitoring and Weekly backups.</li>
 					<li>• 24/7 Emergency Phone Support.</li>
 				</ul>
-				<button>Explore Plan</button>
+				<!-- <button>Explore Plan</button> -->
 	</div>
 			</section>
 		</section>
