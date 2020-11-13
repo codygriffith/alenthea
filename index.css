@@ -312,7 +312,7 @@ form {
 }
 
 #webManagement{
-	width: 95%;
+	width: 98%;
 	margin: auto;
 	background: #dfe2ee59;
 	padding: 1vw;
@@ -333,7 +333,7 @@ form {
 	font-weight: 300;
 }
 #webManagement hr{
-	width: 95%;
+	width: 86%;
 	margin: 1vw;
 	border: #A5A5A5 solid 0.05vw;
 }
@@ -361,6 +361,7 @@ form {
 .moneySymbol{
 	font-size: 1.75vw;
 	align-self: start;
+	width: initial !important;
 }
 .serviceCost{
 	font-size: 3vw;
@@ -371,6 +372,7 @@ form {
 	text-decoration: underline;
 	margin-bottom: 1vw;
 	margin-top: -.25vw;
+	width: initial !important;
 }
 
 #webManagement section section ul{
@@ -675,62 +677,76 @@ form {
 	}
 	
 
+	
+	/* #missionBanner {
+		margin-top: 4vw;
+		margin-bottom: 4vw;
+	}
+
 	#webManagement{
 
 	}
 	#webManagement h1{
-		
-font-size: 5vw;
+		font-size: 5vw;
 	}
 	#webManagement h2{
-		
-width: 98%;
-		
-font-size: 3vw;
-		
-text-align: justify;
+		width: 98%;
+		font-size: 3vw;
+		text-align: justify;
 	}
 	#webManagement h3{
-		
-font-size: 4vw;
+		font-size: 4vw;
 	}
 	#webManagement hr{
 		
 	}
 
 	#webManagement section section h1{
-		font-size: 4vw !important;
+		font-size: 3.7vw !important;
 		text-align: center;
 		width: 95%;
 		padding: 0;
+		min-height: 6vw;
+		align-content: center;
+		margin: auto;
 	}
-	#missionBanner {
-		margin-top: 4vw;
-		margin-bottom: 4vw;
-	}
-
 	#webManagement section{
 		flex-direction: column;
-		width: 98%;
 	}
 	#webManagement section section {
-		width: 100% !important;
-		flex-direction: row;
+		flex-direction: column;
 	}
 	#webManagement section section div{
-		display: inherit;
 		justify-content: center;
-		width: 45%;
 	}
 	#webManagement section section p {
-		font-size: 2.75vw;
+		font-size: 2.75vw !important;
 		text-align: left;
-		width: 106%;
+		width: 85%;
 	}
 	.managementHalf {
-		width: 50% !important;
+		width: 138vw !important;
+		display: flex;
 	}
 	#webManagement section section ul li {
-		font-size: 2.25vw;
+		font-size: 2.25vw !important;
 	}
+	.pricingCont {
+		flex-direction: row;
+		justify-content: center;
+		display: flex;
+	}
+	.eachMonth{
+		font-size: 4.45vw !important;
+		width: fit-content !important;
+		display: flex;
+		width: 100% !important;
+	}
+	.serviceCost {
+		font-size: 6vw;
+	}
+	.moneySymbol{
+		
+font-size: 5vw;
+	} */
   }

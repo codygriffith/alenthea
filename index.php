@@ -176,7 +176,7 @@
 				<p>We'll keep your website up and running with real-time monitoring and regular backups.</p>
 			</div>
 			<div class="flex center column managementHalf">
-				<div class="flex center column">
+				<div class="flex center column pricingCont">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">25</div>
@@ -198,8 +198,8 @@
 					<hr>
 					<p>Perfect for websites that require extended support with regular content updates.</p>
 				</div>
-				<div class="flex center column">
 				<div class="flex center column managementHalf">
+				<div class="flex center column pricingCont">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">70</div>
@@ -222,7 +222,7 @@
 				<p>Content management of your online store and associated marketing campaigns.</p>
 	</div>
 	<div class="flex center column managementHalf">
-				<div class="flex center column">
+				<div class="flex center column pricingCont">
 					<div class="flex center price">
 						<div class="moneySymbol">$</div>
 						<div class="serviceCost">120</div>
