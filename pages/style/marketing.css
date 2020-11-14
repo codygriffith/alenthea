@@ -75,15 +75,16 @@
 
 @media only screen and (max-width: 800px) {
     .bigOlText{
-        padding-bottom: 10vw;
-        padding-top: 5vw;
+        padding-bottom: 13vw;
+        padding-top: 12vw;
+        background-size: 175%;
     }
     .bigOlText img{
         width: 95vw;
     }
     .littleOlText{
-        font-size: 7vw;
-        width: 88vw;
+        font-size: 8vw;
+        width: 85vw;
         padding: 3vw;
         background-size: 171%;
         padding-top: 2vw;
@@ -93,6 +94,7 @@
         /* width: 95%; */
         box-shadow: inset #a0a0a0 0.6vw 0.6vw 0vw 0px, #cecece 0.25vw 0.25vw 0.6vw;
         margin-bottom: 6vw;
+        font-family: roboto condensed;
     }
     .servicesHeader{
         font-size: 6.5vw;
