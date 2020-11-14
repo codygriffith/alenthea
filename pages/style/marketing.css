@@ -108,10 +108,8 @@
     }
             
             #pageOpener h2{
-                
-        font-size: 6.5vw;
-                
-        line-height: 120%;
+                font-size: 8.5vw;
+                line-height: 120%;
             }
             
             .openingPoints div img{
@@ -124,33 +122,32 @@
             }
             
             .openingPoints{
-                
-        margin: 0 5vw 0 6vw;
-                
-        padding: 1vw .25vw;
-                
-        background: linear-gradient(to bottom right, rgb(243 243 243 / 0%) 17%, rgb(172 178 193 / 48%) 119%);
+                margin: 0 8vw 0 8vw;
+                padding: 1vw .25vw;
+                background: linear-gradient(to bottom right, rgb(243 243 243 / 0%) 17%, rgb(172 178 193 / 48%) 119%);
             }
             
             .openingPoints div {
-                
-        font-size: 4.5vw;
-                
-        width: 40vw;
-                
-        line-height: 100%;
-                
-        text-align: justify;
-                
-        margin-bottom: 3vw;
-                
-        height: fit-content;
+                font-size: 6.3vw;
+                width: 40vw;
+                line-height: 100%;
+                text-align: justify;
+                margin-bottom: 3vw;
+                height: fit-content;
             }
         
             #openerTextOne{
-                width: 98%;
+                width: 90%;
+                font-weight: 500;
+                text-align: left;
+                line-height: 6.7vw;
+                margin-top: 5vw;
             }
             #openerTextTwo{
-                width: 95%;
+            width: 90%;
+            font-weight: 500;
+            text-align: left;
+            /* margin: auto; */
+            margin-top: 5vw;
             }
 }
