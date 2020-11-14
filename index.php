@@ -19,6 +19,9 @@
   "url" : "https://alenthea.com/"
 }
 </script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+</style>
 <link rel="preconnect" href="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1">
 <script async rel="preconnect" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
