@@ -83,7 +83,7 @@
         width: 95vw;
     }
     .littleOlText{
-        font-size: 8vw;
+        font-size: 7.4vw;
         width: 85vw;
         padding: 3vw;
         background-size: 171%;
@@ -94,7 +94,7 @@
         /* width: 95%; */
         box-shadow: inset #a0a0a0 0.6vw 0.6vw 0vw 0px, #cecece 0.25vw 0.25vw 0.6vw;
         margin-bottom: 6vw;
-        font-family: Roboto Condensed;
+        /* font-family: Roboto Condensed; */
     }
     .servicesHeader{
         font-size: 6.5vw;
