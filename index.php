@@ -218,11 +218,13 @@
 	</div>
 			</section>
 			<section class="flex column center">
-				<div class="flex center column">
-				<h1>Ecommerce & Marketing</h1>
-				<hr>
-				<p>Content management of your online store and associated marketing campaigns.</p>
-	</div>
+				<div>
+					<div class="flex center column">
+						<h1>Ecommerce & Marketing</h1>
+						<hr>
+						<p>Content management of your online store and associated marketing campaigns.</p>
+					</div>
+				</div>
 	<div class="flex center column managementHalf">
 				<div class="flex center column pricingCont">
 					<div class="flex center price">

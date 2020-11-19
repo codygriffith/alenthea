@@ -750,13 +750,18 @@ form {
 font-size: 5vw;
 	} */
 	#webManagement section section h1 {
-		font-size: 3vw !important;
-		text-align: center;
-		width: 98%;
+		font-size: 5.5vw !important;
+		text-align: left;
+		width: 100%;
+		align-self: start;
+		line-height: 92%;
+		padding: 1vw !important;
 	}
 	#webManagement section section p {
-		font-size: 2.1vw !important;
+		font-size: 3.35vw !important;
 		text-align: left;
+		padding-top: 2vw;
+		font-weight: 500;
 	}
 	#webManagement section section ul {
 		width: 100%;
@@ -766,9 +771,10 @@ font-size: 5vw;
 		width: 95%;
 	}
 	#webManagement section section ul li {
-		font-size: 2vw !important;
+		font-size: 2.4vw !important;
 		line-height: 100%;
 		margin-bottom: 1vw;
+		font-weight: 400;
 	}
 	.serviceCost {
 		font-size: 5vw !important;
@@ -783,5 +789,24 @@ font-size: 5vw;
 		font-size: 3.5vw;
 		width: 93%;
 		text-align: left;
+	}
+	#webManagement section{
+		flex-direction: column;
+		width: 95%;
+	}
+	#webManagement section section {
+		width: 100% !important;
+		flex-direction: row;
+	}
+	.price{
+		width: initial !important;
+	}
+	#webManagement div {
+		width: 100%;
+	}
+	#webManagement hr {
+		width: 85%;
+		margin-top: 1vw;
+		align-self: start;
 	}
   }
