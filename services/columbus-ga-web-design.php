@@ -166,7 +166,7 @@
 		<div class="flex column">
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
-			<a class="button" href="/services/ecommerce.php">Click Here For Better Conversions</a>
+			<a class="button" href="/services/ecommerce">Click Here For Better Conversions</a>
 		</div>
 	</section>
 	<?php include "../sections/contact.php";?>
