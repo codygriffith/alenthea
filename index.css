@@ -758,6 +758,7 @@ font-size: 5vw;
 		align-self: start;
 		line-height: 92%;
 		padding: 1vw !important;
+		font-weight: 500;
 	}
 	#webManagement section section p {
 		font-size: 3.35vw !important;
