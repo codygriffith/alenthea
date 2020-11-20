@@ -752,7 +752,7 @@ form {
 font-size: 5vw;
 	} */
 	#webManagement section section h1 {
-		font-size: 4.5vw !important;
+		font-size: 5vw !important;
 		text-align: left;
 		width: 100%;
 		align-self: start;
@@ -764,6 +764,7 @@ font-size: 5vw;
 		text-align: left;
 		padding-top: 2vw;
 		font-weight: 500;
+		line-height: 94%;
 	}
 	#webManagement section section ul {
 		width: 100%;
@@ -774,8 +775,8 @@ font-size: 5vw;
 	}
 	#webManagement section section ul li {
 		font-size: 3vw !important;
-		line-height: 100%;
-		margin-bottom: 1vw;
+		line-height: 85%;
+		margin-bottom: 0.5vw;
 		font-weight: 400;
 	}
 	.serviceCost {
