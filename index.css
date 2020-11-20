@@ -761,18 +761,18 @@ font-size: 5vw;
 		font-weight: 500;
 	}
 	#webManagement section section p {
-		font-size: 3.35vw !important;
+		font-size: 3.3vw !important;
 		text-align: left;
 		padding-top: 2vw;
 		font-weight: 500;
-		line-height: 94%;
+		line-height: 120%;
 	}
 	#webManagement section section ul {
 		width: 95%;
 		margin: auto;
 	}
 	.managementHalf{
-		width: 142%;
+		width: 145%;
 		border-left: solid grey thin;
 	}
 	#webManagement section section ul li {
