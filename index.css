@@ -772,7 +772,7 @@ font-size: 5vw;
 		margin: auto;
 	}
 	.managementHalf{
-		width: 135%;
+		width: 142%;
 		border-left: solid grey thin;
 	}
 	#webManagement section section ul li {
@@ -834,7 +834,7 @@ font-size: 5vw;
 		padding: .25vw 1vw;
 		padding-left: 2vw;
 		background-color: #E9EAF2;
-		border: black solid thin;
+		border: #7d7d7d solid thin;
 		border-right: none;
 		margin-right: -.5vw;
 		align-self: flex-end !important;
