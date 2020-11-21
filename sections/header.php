@@ -56,12 +56,17 @@
 			<div id="toggle">=</div>
 		</div>
 		<ul id="mobileHeaderLinks">
-			<li><a class="mobileHeaderLinks" href="/services/columbus-ga-web-design">Web Design</a></li>
-			<li><a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a></li>
-			<li><a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a></li>
-			<!-- <a href="/sections/ecommerce.php">E-Commerce</a> -->
-			<li><a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
-			<li><a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a></li>
+			<a class="mobileHeaderLinks" href="/services/columbus-ga-web-design">Web Design</a>
+			<a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a>
+			<a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a>
+			<a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a>
+			<a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a>
+			<!-- <li></li>
+			<li></li>
+			<li></li>
+			<a href="/sections/ecommerce.php">E-Commerce</a>
+			<li></li>
+			<li></li> -->
 		</ul>
 </ul>
 </header>
