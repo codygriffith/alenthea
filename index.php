@@ -167,9 +167,9 @@
 
 	<section class="flex center column" id="webManagement">
 		<h1>Need Help With Your Current Website?</h1>
-		<h3>We have the perfect plan to fit every budget.</h3>
+		<h2>We have the perfect plan to fit every budget.</h2>
 		<hr>
-		<h2>With a Lightning Fast response time we are here for when you need us the most. Stop wasting your time waiting for solutions, let the experts get it done.</h2>
+		<h3>With a Lightning Fast response time we are here for when you need us the most. Stop wasting your time waiting for solutions, let the experts get it done.</h3>
 		<section class="flex row space-around center">
 		<section class="flex column center">
 			<div class="flex center column">
