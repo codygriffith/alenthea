@@ -752,13 +752,14 @@ form {
 font-size: 5vw;
 	} */
 	#webManagement section section h1 {
-		font-size: 5.3vw !important;
+		font-size: 6.3vw !important;
 		text-align: left;
 		width: 100%;
 		align-self: start;
 		line-height: 92%;
 		padding: 1vw !important;
 		font-weight: 500;
+		margin-bottom: 1vw;
 	}
 	#webManagement section section p {
 		font-size: 3.3vw !important;
@@ -772,7 +773,7 @@ font-size: 5vw;
 		margin: auto;
 	}
 	.managementHalf{
-		width: 145%;
+		width: 161%;
 		border-left: solid grey thin;
 	}
 	#webManagement section section ul li {

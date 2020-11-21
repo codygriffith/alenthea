@@ -107,7 +107,24 @@
 	</section>
 
 
-
+	<section class="flex center" id="designSolutions">
+		<section>
+			<h1>Alenthea's Web Design Solutions</h1>
+			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+		</section>
+	<!-- <div class="flex space-between">
+		<section>
+			<h1>Design Solutions</h1>
+			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+		</section>
+		<section>
+			<h1>Design Solutions</h1>
+			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+		</section>
+	</div> -->
+	</section>
 
 
 
