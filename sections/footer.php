@@ -16,7 +16,7 @@
         
     </div> -->
     <div class="mobile flex row center dark white-text thin-text space-around">
-        <img class="footerLogo" src="/images/headerLogo.png" alt="Alenthea Logo">
+        <img class="footerLogo" src="/images/alentheaShortLogo_light.svg" alt="Alenthea Logo">
         <div style="width: auto;">
             <div class="flex footerContact column center footerPhone">
                 <h2>Call: </h2>
