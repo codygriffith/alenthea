@@ -32,7 +32,7 @@
     <div id="footerExtend" class="flex row space-between between">
         <div class="flex column">
             <h1>Alenthea Design Co.</h1>
-            <h4>Serving Columbus, Georgia and <br> the surrounding areas.</h4>
+            <h2>Serving Columbus, Georgia and <br> the surrounding areas.</h2>
             <br>
             <div id="footerContact">
                 <h3>Contact Us</h3>
