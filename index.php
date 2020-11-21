@@ -21,7 +21,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link rel="preconnect" href="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1">
-<script async rel="preconnect" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
+<!-- <script async rel="preconnect" src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script> -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
