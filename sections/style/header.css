@@ -11,6 +11,18 @@
 	padding-left: 5vw;
 }
 
+#mobileCompanyLogo{
+	width: 6vw;
+	padding-right: 4vw;
+	height: 5vw;
+
+}
+#mobileCompanyLogo{
+	margin-right: 30vw;
+	/* padding: .25%; */
+	padding-left: 5vw;
+}
+
 header li{
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -34,7 +46,9 @@ header a {
 	padding: .3vw 10vw .3vw 0;
 }
 
-
+.desktop #mobileCompanyLogo img {
+	padding: .3vw 10vw .3vw 0;
+}
 
 mobileHeader{
 	display: none !important;
@@ -107,6 +121,10 @@ header ul li:hover ul{
 		padding: 0;
 	}
 
+	#mobileCompanyLogo img{
+		width: 18vw;
+	}
+
 	#companyLogo img{
 		width: 18vw;
 	}
@@ -144,10 +162,6 @@ header ul li:hover ul{
 		padding-right: 4vw;
 		background-color: rgba(0, 0, 0, 0.831);
 		/* padding-bottom: 3vw; */
-	}
-
-	#companyLogo {
-		
 	}
 
 }
