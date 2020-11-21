@@ -334,6 +334,7 @@
     background-size: cover;
     /* height: 47vh; */
     padding: 1vw;
+    margin-top: 2.5vw;
 }
 
 #designSolutions section{
@@ -341,7 +342,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 1vw;
-    margin-bottom: 3vw;
+    margin-bottom: 1vw;
 }
 
 #designSolutions h1, #designSolutions p{
