@@ -86,7 +86,7 @@
 	width: 100vw;
 }
 
-#missionBanner h5{
+#missionBanner h1{
 	font-size: 2vw;
 	margin: auto;
 	padding: 0 5%;
@@ -571,7 +571,7 @@ form {
 		line-height: 4vw;
 	}
 
-	#missionBanner h5{
+	#missionBanner h1{
 		font-size: 4.25vw;
 		padding: 0 2%;
 	}
