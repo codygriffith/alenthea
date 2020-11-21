@@ -37,6 +37,17 @@ footer .mobile, footer .desktop {
 	align-items: center;
 }
 
+#footerExtend h3{
+	color: #e2e2e2;
+    font-size: 1.35vw;
+    font-weight: 400;
+    text-decoration: underline;
+    -webkit-text-decoration-color: #ffffff8c;
+    text-decoration-color: #ffffff8c;
+    margin: 0;
+}
+}
+
 #footerExtend div h1{
 	color: #e2e2e2;
     font-size: 1.5vw;
