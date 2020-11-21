@@ -95,7 +95,7 @@
 					 Solution?</h1>
 					 <hr>
 				<div>
-					<H2>Stand out from the rest with an end-all Web Solution for your Business. Our Custom Websites begin at just $3000 and are guranteed to efficiently match your budget with our performance.</H2>
+					<H2>Stand out from the rest with an end-all Web Solution for your Business. Our Custom Websites begin at just $3000 and are guaranteed to efficiently match your budget with our performance.</H2>
 					<ul>
 						<li>For larger operations with more robust requirements.</li>
 						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
@@ -112,18 +112,29 @@
 			<h1>Alenthea's Web Design Solutions</h1>
 			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
 		</section>
-	<!-- <div class="flex space-between">
+	<div class="flex space-between">
 		<section>
-			<h1>Design Solutions</h1>
-			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
-			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+			<h1>Web Development Experts</h1>
+			<p>As experts in HTML5, CSS, Javascript, and php, we write code that turns visitors 
+				into customers. A well functioning website should seamlessly and efficiently 
+				communicate your message to your audience.
+			</p>
+			<p>Whether you need mobile development or an entirely new website from scratch, 
+				Alenthea can handle all of your business' unique Website Design needs.
+			</p>
 		</section>
 		<section>
-			<h1>Design Solutions</h1>
-			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
-			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+			<h1>Creative Website Design</h1>
+			<p>We design all of our websites with functionality and efficiency in mind. By working
+				with our clients to design a ground-up solution, we are able to build websites
+				that effectively communicate your message to the world.
+			</p>
+			<p>
+				A great website is the #1 ingredient for growing your business' digital footprint.
+				Take the first step to success with Alenthe Web Design in Columbus, Ga.
+			</p>
 		</section>
-	</div> -->
+	</div>
 	</section>
 
 
