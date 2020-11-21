@@ -48,21 +48,21 @@
 		<!--  -->
 </ul>
 
-	<ul class="mobile flex column dark white-text">
+	<div class="mobile flex column dark white-text">
 		<div onclick="myFunction()" id="toggleBar" class="row flex space-between full">
 			<a href="/" id="mobileCompanyLogo">
 				<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Mobile Logo">
 			</a>
 			<div id="toggle">=</div>
 		</div>
-		<div id="mobileHeaderLinks">
-			<a class="mobileHeaderLinks" href="/services/columbus-ga-web-design">Web Design</a>
-			<a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a>
-			<a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a>
+		<ul id="mobileHeaderLinks">
+			<li><a class="mobileHeaderLinks" href="/services/columbus-ga-web-design">Web Design</a></li>
+			<li><a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a></li>
+			<li><a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a></li>
 			<!-- <a href="/sections/ecommerce.php">E-Commerce</a> -->
-			<a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a>
-			<a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a>
-		</div>
+			<li><a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
+			<li><a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a></li>
+		</ul>
 </ul>
 </header>
 
