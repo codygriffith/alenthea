@@ -131,7 +131,7 @@
 			</p>
 			<p>
 				A great website is the #1 ingredient for growing your business' digital footprint.
-				Take the first step to success with Alenthe Web Design in Columbus, Ga.
+				Take the first step to success with Alenthea Web Design in Columbus, Ga.
 			</p>
 		</section>
 	</div>
