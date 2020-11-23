@@ -312,7 +312,7 @@ form {
 }
 
 #webManagement{
-	width: 98%;
+	width: 90%;
 	margin: auto;
 	background: #dfe2ee59;
 	padding: 1vw;
@@ -341,7 +341,7 @@ form {
 #webManagement section section{
 	width: 30%;
 	background-color: #E6E9F6;
-	padding: 2vw .5vw;
+	padding: 1vw .5vw;
 	/* flex-grow: 1; */
 }#webManagement section section h1{
 	font-size: 1.75vw;
@@ -369,7 +369,7 @@ form {
 	font-size: 3vw;
 }
 .eachMonth{
-	font-size: 1.75vw;
+	font-size: 0.75vw;
 	text-align: center;
 	text-decoration: underline;
 	margin-bottom: 1vw;
@@ -380,6 +380,7 @@ form {
 #webManagement section section ul{
 	width: 98%;
 	margin: auto;
+	margin-bottom: 1vw;
 }
 #webManagement section section ul li{
 	list-style: none;
@@ -414,6 +415,18 @@ form {
 
 #middleManagement{
 	/* font-size: 17vw !important; */
+}
+
+.managementHalf{
+	width: 90%;
+}
+
+.pricingCont{
+	margin-top: 1vw;
+}
+
+#webManagement button{
+	font-size: 1.15vw;
 }
 
 @media only screen and (max-width: 800px) {
@@ -851,4 +864,6 @@ font-size: 5vw;
 	.managementHalf button{
 		margin-top: 2vw;
 	}
+
+	
   }
