@@ -11,52 +11,50 @@
 
   gtag('config', 'UA-157506747-1');
 </script>
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	<link rel="manifest" href="/site.webmanifest">
-	<link href="/style.css" rel="stylesheet" type="text/css">
-	<link href="/services/style/style.css" rel="stylesheet" type="text/css">
-	<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
-	<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<title>Web Design - Columbus, GA | Alenthea Website Development</title>
-	<meta name="description" content="Web Design & Development in Columbus, Georgia. 
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/services/style/style.css" rel="stylesheet" type="text/css">
+<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
+<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Web Design - Columbus, GA | Alenthea Website Development</title>
+<meta name="description" content="Web Design & Development in Columbus, Georgia. 
 	Out-class and out-rank your competition with a custom and highly effective website design. 
 	We are the top choice in Web Design & Development in Columbus, Ga and the Southeastern US." />
-	<script type="application/ld+json">
-		{
-		  "@context": "https://schema.org",
-		  "@type": "Organization", 
-		  "url": "https://alenthea.com",
-		  "logo": "https://alenthea.com/images/alentheaFullDark.png",
-		  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
-		  "brand": "Alenthea Design Co"
-		  
-		}
-	</script>
-    <script type="application/ld+json">
-        {
-		  "@context": "https://schema.org",
-		  "@type": "BreadcrumbList",
-  			"itemListElement": [{
-         	  "@type": "ListItem",
-          	  "position": 1,
-         	  "name": "Alenthea Design Co",
-         	  "item": "https://alenthea.com"
-  	    	},{
-        	  "@type": "ListItem",
-          	  "position": 2,
-          	  "name": "Columbus Ga Web Design",
-              "item": "https://alenthea.com/services/columbus-ga-web-design"
-            }]
-		}
-    </script>
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization", 
+	  "url": "https://alenthea.com",
+	  "logo": "https://alenthea.com/images/alentheaFullDark.png",
+	  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
+	  "brand": "Alenthea Design Co"  
+	}
+</script>
+<script type="application/ld+json">
+    {
+	  "@context": "https://schema.org",
+	  "@type": "BreadcrumbList",
+  		"itemListElement": [{
+     	  "@type": "ListItem",
+      	  "position": 1,
+     	  "name": "Alenthea Design Co",
+     	  "item": "https://alenthea.com"
+  		},{
+    	  "@type": "ListItem",
+      	  "position": 2,
+      	  "name": "Columbus Ga Web Design",
+          "item": "https://alenthea.com/services/columbus-ga-web-design"
+        }]
+	}
+</script>
 </head>
 <body>
     <?php include "../sections/header.php";?>
-    
 	<h1 class="flex column bigOlText">
             <span>Columbus, Ga</span>
             Web Design
@@ -136,21 +134,10 @@
 		</section>
 	</div>
 	</section>
-
-
-
-
 	<br>
-
-
-
-
-	<div>
-		<section class="full flex center">
-			<h1 class="flex column center sectionHeader">Loaded with features:</h1>
-		</section>
-
-		<section class="flex row wrap center" id="serviceTiles">
+	<section class="full column flex center">
+		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
+		<div class="flex row wrap center" id="serviceTiles">
 			<section>
 				<h1>Mobile Ready</h1>
 				<p>All of our websites are built responsive and with all devices in mind.</p>
@@ -167,8 +154,8 @@
 				<h1>Intelligent S.E.O.</h1>
 				<p>Place your content in front of the right people when they need you most.</p>
 			</section>
-		</section>
-	</div>
+		</div>
+</section>
     <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>
@@ -183,12 +170,10 @@
 		<div class="flex center column">
 			<h1>HOSTING</h1>
 			<h2>Low to No Cost</h2>
-			
 		</div>
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
 			<a class="button disabled">Click Here For Hosting Solutions</a>
-
 	</section>
 	<section id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
@@ -201,5 +186,4 @@
 	<br><br>
 	<?php include "../sections/footer.php";?>
 </body>
-	
 </html>
