@@ -401,7 +401,7 @@
     text-align: center;
     margin: auto;
     background-color: #e4e4e4d6;
-    font-size: 3.5vw;
+    font-size: 2vw;
     font-weight: 600;
     padding: 1.25vw;
     border: none;
@@ -692,7 +692,7 @@
         margin-bottom: 2.25vw;
     }
     #reDesign .button{
-        
+        font-size: 3.5vw;
     }
 
 }
