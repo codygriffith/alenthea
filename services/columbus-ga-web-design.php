@@ -93,7 +93,9 @@
 					 Solution?</h1>
 					 <hr>
 				<div>
-					<H2>Stand out from the rest with an end-all Web Solution for your Business. Our Custom Websites begin at just $2000 and are guaranteed to efficiently match your budget with our performance.</H2>
+					<H2>Stand out from the rest with an end-all Web Solution for your Business. 
+						Our Custom Websites begin at just $2000 and are guaranteed to efficiently 
+						match your budget with our performance.</H2>
 					<ul>
 						<li>For larger operations with more robust requirements.</li>
 						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
