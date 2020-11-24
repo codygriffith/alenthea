@@ -134,7 +134,20 @@
 		</section>
 	</div>
 	</section>
-	<br>
+	<section id="reDesign">
+		<h1>Website Re-Design service starting at only <br> $100 per page.*</h1>
+		<p>Just like employees need to be trained, your website will 
+			need to be updated; After all, your website is basically your 
+			24/7 salesman. Take a look at our website re-design packages now.</p>
+		<a class="button" href="/pages/contact">Get A Free Quote</a>
+	</section>	
+    <section>
+	    <div class="flex column bigOlText secondBigText">
+		    <h1>Latest Technologies;</h1>
+		    <h1>Highest Standards.</h1>
+	    </div>
+        <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
+    </section>
 	<section class="full column flex center">
 		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
 		<div class="flex row wrap center" id="serviceTiles">
@@ -155,14 +168,7 @@
 				<p>Place your content in front of the right people when they need you most.</p>
 			</section>
 		</div>
-</section>
-    <section>
-	    <div class="flex column bigOlText secondBigText">
-		    <h1>Latest Technologies;</h1>
-		    <h1>Highest Standards.</h1>
-	    </div>
-        <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
-    </section>
+	</section>
 	<section class="flex center column" id="hosting">
 	<div class="flex row center">
 		<img src="/images/server.jpg" alt="Hosting Illustration">

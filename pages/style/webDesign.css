@@ -20,14 +20,6 @@
     color: white;
 }
 
-
-
-.littleOlText {
-    font-size: 1.8vw;
-    font-weight: 700;
-    position: relative;
-}
-
 .secondLittleText{
     margin-top: 0;
     background: none;
@@ -378,6 +370,48 @@
     padding: 0.55vw 1vw;
 }
 
+#reDesign {
+    width: 75%;
+    margin: 2vw auto;
+    background: linear-gradient(to bottom right, rgb(243 243 243 / 14%) 25%, rgb(243 243 243) 50%, rgb(172 178 193 / 28%) 55%);
+    box-shadow: #cacaca 0.2vw 0.2vw 0.3vw;
+    padding: 1vw 3vw;
+}
+#reDesign h1{
+    font-size: 3vw;
+    box-shadow: #59647b 0vw 0.1vw;
+    background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
+    margin-top: 1vw;
+    display: inline;
+}
+#reDesign p{
+    font-size: 2vw;
+    width: 94%;
+    margin: auto;
+    line-height: 100%;
+    color: #272727;
+    margin-top: 1.5vw;
+    margin-bottom: 2vw;
+    font-weight: 500;
+    line-height: 95%;
+}
+#reDesign .button{
+    display: block;
+    text-shadow: none;
+    text-align: center;
+    margin: auto;
+    background-color: #e4e4e4d6;
+    font-size: 3.5vw;
+    font-weight: 600;
+    padding: 1.25vw;
+    border: none;
+    border-radius: 0.2vw;
+    border-bottom: .15vw solid rgba(89, 100, 123, .65);
+    color: rgba(0, 0, 0, 0.76);
+    cursor: pointer;
+    width: fit-content;
+}
+
 @media only screen and (max-width: 800px) {
     
     #ecommerce p{
@@ -414,26 +448,14 @@
         position: unset;
     }
     
-    .littleOlText {
-        font-size: 4.4vw;
-        width: 86%;
-    }
     #sectionHeader{
         font-size: 6.5vw;
         margin: 5% 0px 4% 0%;
     }
-    .littleOlText {
-        font-size: 3.75vw;
-        /* padding: .5vw; */
-        padding: 2vw 3vw;
-        line-height: 105%;
-        margin-bottom: 3vw;
-        text-align: justify;
-    }
     
     .bigOlText {
         font-size: 14vw;
-        font-size: 14vw !important;
+        font-size: 16vw !important;
         padding-bottom: 18vw;
         padding-top: 12vw;
         background-size: 175%;
@@ -651,6 +673,26 @@
         font-size: 4.5vw;
         padding: 2vw;
         line-height: 115%;
+    }
+
+    #reDesign {
+        width: 95%;
+        padding: 1vw 1vw;
+    }
+    #reDesign br{
+        display: none;
+    }
+    #reDesign h1{
+        font-size: 6vw;
+    }
+    #reDesign p{
+        font-size: 3.7vw;
+        width: 98%;
+        margin-top: 2.25vw;
+        margin-bottom: 2.25vw;
+    }
+    #reDesign .button{
+        
     }
 
 }

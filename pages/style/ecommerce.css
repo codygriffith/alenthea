@@ -178,8 +178,8 @@
 }
 
 .littleOlText {
-    font-size: 4.5vw !important;
-    line-height: 95% !important;
+    /* font-size: 4.5vw !important; */
+    /* line-height: 95% !important; */
 }
 
 #serviceTiles div img {
