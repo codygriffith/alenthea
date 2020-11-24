@@ -40,7 +40,7 @@
                 <h4>(706) 366-5561</h4>
             </div>
         </div>
-        <img class="footerLogo" src="/images/footerLogo.svg" alt="Alenthea Logo">
+        <a href="/"><img class="footerLogo" src="/images/footerLogo.svg" alt="Alenthea Logo"></a>
         <!-- <div class="flex column">
             <h3>Resources</h3>
             <a href=""><h4>Hosting Guide</h4></a>
