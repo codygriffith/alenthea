@@ -53,7 +53,7 @@
 <body>
 	<?php include "../sections/header.php";?>
 	<h1 class="flex column bigOlText">
-		<img src="/images/digitalMarketing.svg" alt="Internet and Digital Marketing in Columbus, Georgia.">
+		<img src="/images/digitalMarketing.svg" alt="Internet Marketing and Digital Marketing in Columbus, Georgia.">
 	</h1>
     
 	
