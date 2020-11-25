@@ -57,7 +57,7 @@
            <a href="/services/branding"><h4>Logos & Branding</h4></a>
            <a href="/services/digital-marketing-columbus-ga"><h4>Digital Marketing</h4></a>
 
-           <a href="/services/columbus-ga-web-design"><h4>Web Design</h4></a>
+           <a href="/services/columbus-ga-web-design"><h4>Website Design</h4></a>
             <a href="/services/ecommerce"><h4>E-Commerce</h4></a>
         </div>
         
