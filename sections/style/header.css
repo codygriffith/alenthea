@@ -1,14 +1,85 @@
 /* Header */
+header{
+	background-color: #0d0d0d;
+}
+#social_links img{
+	width: 2.25vw;
+}
+#social_links a{
+	width: 2.25vw;
+	padding: 0;
+	padding-top: 1vw;
+}
+#social_links {
+	width: 35%;
+	align-self: flex-end;
+}
+
+#header-right{
+	width: 50%;
+}
+
+nav ul li{
+	padding:0 1vw;
+}
+
+nav ul div{
+	position: relative;
+}
+
+nav ul div ul {
+    position: absolute;
+    height: 0;
+    overflow: hidden;
+    -webkit-transition: .65s height;
+    -o-transition: .65s height;
+    transition: .65s height;
+    /* padding-top: 4.3vw; */
+    margin-left: .25vw;
+    padding-left: .25vw;
+    background-color: #0d0d0d;
+    /* top: 6vw; */
+    left: 0;
+    max-height: 12vw;
+    width: max-content;
+    /* padding-top: .5vw; */
+}
+
+nav ul div ul li{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	border-left: solid rgba(255, 255, 255, 0.722) thin;
+	padding: .72vw;
+	align-items: start;
+}
+
+nav ul div ul li a{
+	font-weight: 400;
+	font-size: 1.25vw;
+	line-height: 90%;
+	padding: 0 .5vw .5vw .5vw;
+}
+
+nav ul div:hover ul{
+	height: 20vw;
+}
+
+
+
+
+
+
 #companyLogo{
 	width: 6vw;
 	padding-right: 4vw;
-	height: 5vw;
-
-}
-#companyLogo{
-	margin-right: 30vw;
-	/* padding: .25%; */
-	padding-left: 5vw;
+	height: 5.7vw;
+	padding-left: 9vw;
+	align-self: center;
 }
 
 #mobileCompanyLogo{
@@ -74,7 +145,6 @@ header ul li ul {
 	-webkit-transition: .65s height;
 	-o-transition: .65s height;
 	transition: .65s height;
-	/* padding-top: 4.3vw; */
 	margin-left: .25vw;
 	padding-left: .25vw;
 	background-color: #0d0d0d;
