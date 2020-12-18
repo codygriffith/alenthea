@@ -185,10 +185,10 @@
 					<div class="eachMonth">each month</div>
 				</div>
 				<ul>
-					<li>• Increase your website's speed and performance.</li>
-					<li>• Guaranteed 99.9% Website Up-time.</li>
 					<li>• Server monitoring and Weekly backups.</li>
+					<li>• Increase your website's speed and performance.</li>
 					<li>• 5 hours of premium support each month.</li>
+					<li>• Guaranteed 99.9% Website Up-time.</li>
 				</ul>
 				<button>Explore Plan</button>
 			</div>

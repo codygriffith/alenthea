@@ -87,6 +87,7 @@
 		</div>
 		<ul id="mobileHeaderLinks">
 			<a class="mobileHeaderLinks" href="/services/columbus-ga-web-design">Web Design</a>
+			<a class="mobileHeaderLinks" href="/services/columbus-ga-seo">S.E.O.</a>
 			<a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a>
 			<a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a>
 			<a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a>

@@ -312,10 +312,10 @@ form {
 }
 
 #webManagement{
-	width: 90%;
+	width: 96%;
 	margin: auto;
 	background: #dfe2ee59;
-	padding: 1vw;
+	/* padding: 1vw; */
 	margin-top: 2vw;
 }
 #webManagement h1{
@@ -341,8 +341,9 @@ form {
 #webManagement section section{
 	width: 30%;
 	background-color: #E6E9F6;
-	padding: 1vw .5vw;
+	margin: 1vw .5vw;
 	/* flex-grow: 1; */
+	/* padding-top: 1vw; */
 }#webManagement section section h1{
 	font-size: 1.75vw;
 	font-weight: 400;
@@ -765,17 +766,17 @@ form {
 font-size: 5vw;
 	} */
 	#webManagement section section h1 {
-		font-size: 6.3vw !important;
+		font-size: 7.25vw !important;
 		text-align: left;
-		width: 100%;
+		width: 99%;
 		align-self: start;
-		line-height: 92%;
-		padding: 1vw !important;
+		line-height: 109%;
+		margin: 1vw !important;
 		font-weight: 500;
 		margin-bottom: 1vw;
 	}
 	#webManagement section section p {
-		font-size: 3.3vw !important;
+		font-size: 4.4vw !important;
 		text-align: left;
 		padding-top: 2vw;
 		font-weight: 500;
@@ -786,17 +787,17 @@ font-size: 5vw;
 		margin: auto;
 	}
 	.managementHalf{
-		width: 161%;
-		border-left: solid grey thin;
+		width: 100%;
+		/* border-left: solid grey thin; */
 	}
 	#webManagement section section ul li {
-		font-size: 3.2vw !important;
+		font-size: 4.4vw !important;
 		line-height: 100%;
 		margin-bottom: 1.5vw;
 		font-weight: 400;
 	}
 	.serviceCost {
-		font-size: 4.8vw !important;
+		font-size: 10.8vw !important;
 	}
 	#webManagement h1 {
 		font-size: 6vw;
@@ -820,11 +821,14 @@ font-size: 5vw;
 	}
 	#webManagement section section {
 		width: 100% !important;
-		flex-direction: row;
-		margin: 1vw 0;
+		/* flex-direction: row; */
+		margin: 2vw 0;
+		border-left: solid grey thin;
+		border-bottom: solid grey thin;
 	}
 	.price{
 		/* width: initial !important; */
+		line-height: 1;
 	}
 	#webManagement div {
 		/* width: 100%; */
@@ -832,7 +836,7 @@ font-size: 5vw;
 		align-self: flex-start;
 	}
 	#webManagement hr {
-		width: 85%;
+		width: 94%;
 		margin-top: 1vw;
 		align-self: start;
 	}
@@ -842,17 +846,17 @@ font-size: 5vw;
 	.pricingCont{
 		/* width: 34% !important; */
 		display: flex;
-		flex-direction: row !important;
-		align-items: flex-end;
+		/* flex-direction: row !important; */
+		/* align-items: flex-end; */
 		align-self: flex-end;
 		padding: .25vw 1vw;
 		padding-left: 2vw;
-		background-color: #E9EAF2;
-		border: #7d7d7d solid thin;
-		border-right: none;
+		/* background-color: #E9EAF2; */
+		/* border: #7d7d7d solid thin; */
+		border: none;
 		margin-right: -.5vw;
-		align-self: flex-end !important;
-		margin-bottom: 2vw;
+		align-self: center !important;
+		margin: 3vw;
 	}
 	.eachMonth {
 		font-size: 2.8vw !important;
@@ -863,7 +867,12 @@ font-size: 5vw;
 	}
 	.managementHalf button{
 		margin-top: 2vw;
+		font-size: 3vw !important;
+		margin-bottom: 2vw;
 	}
 
+	.moneySymbol {
+		font-size: 5.75vw;
+	}
 	
   }
