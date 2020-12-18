@@ -91,6 +91,7 @@ label{
 #homepageContact {
     flex-direction: column;
     padding: 0 5% !important;
+    padding-bottom: 4vw !important;
 }
 #contactName, #contactEmail {
     width: 100% !important;
