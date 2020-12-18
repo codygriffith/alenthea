@@ -141,13 +141,13 @@
 		   and where we believe your current SEO could see some improvements.</p>
 		<a class="button" href="/pages/contact">Request An SEO Audit</a>
 	</section>	
-    <section>
+    <!-- <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>
 		    <h1>Highest Standards.</h1>
 	    </div>
         <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
-    </section>
+    </section> -->
 	<!-- <section class="full column flex center">
 		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
 		<div class="flex row wrap center" id="serviceTiles">

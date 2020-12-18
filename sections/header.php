@@ -19,6 +19,7 @@
 						<li><a>Services</a></li>
 						<ul>
 							<li><a href="/services/columbus-ga-web-design">Website Design</a></li>
+							<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
 							<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
 							<li><a href="/services/branding">Logos & Branding</a></li>
 							<li><a href="/services/ecommerce">E-Commerce</a></li>
