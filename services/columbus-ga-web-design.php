@@ -56,15 +56,15 @@
 <body>
     <?php include "../sections/header.php";?>
 	<h1 class="flex column bigOlText">
-            <span>Columbus, Ga</span>
-            Web Design
+            <!-- <span>Columbus, Ga</span> -->
+            Website Design
     </h1>
     <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website designed by Alenthea.</h2>
 	
 	
 
 	<section class="full flex center column" id="columbusGaWebDesign">
-		<h1 class="flex column center sectionHeader">Columbus, Ga Website Design</h1>
+		<h1 class="flex column center sectionHeader">Columbus, Ga Web Design</h1>
 		<div class="full flex center column">
 		<h2>Designed by Experts - Built by Professionals</h2>
 		<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
