@@ -24,7 +24,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
   exit -1
 fi
 
-maintainer_public_key=${MAINTAINER_GPG:-"583A612D890159BE"}
+maintainer_public_key=${MAINTAINER_GPG:-"F17EF334CCB2679A"}
 
 branch=$(git symbolic-ref --short -q HEAD)
 if [ "$branch" != "develop" ] && [[ "$branch" != release/* ]]; then
