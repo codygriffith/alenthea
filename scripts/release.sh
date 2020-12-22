@@ -99,15 +99,15 @@ rm -f "./client/dist/embed-stats.json"
   git push origin --tag
 
   if [ -z "$github_prerelease_option" ]; then
-    github-release release --user chocobozzz --repo peertube --tag "$version" --name "$version" --description "$changelog"
+    github-release release --user codygriffith --repo peertube --tag "$version" --name "$version" --description "$changelog"
   else
-    github-release release --user chocobozzz --repo peertube --tag "$version" --name "$version" --description "$changelog" "$github_prerelease_option"
+    github-release release --user codygriffith --repo peertube --tag "$version" --name "$version" --description "$changelog" "$github_prerelease_option"
   fi
 
-  github-release upload --user chocobozzz --repo peertube --tag "$version" --name "$zip_name" --file "$zip_name"
-  github-release upload --user chocobozzz --repo peertube --tag "$version" --name "$zip_name.asc" --file "$zip_name.asc"
-  github-release upload --user chocobozzz --repo peertube --tag "$version" --name "$tar_name" --file "$tar_name"
-  github-release upload --user chocobozzz --repo peertube --tag "$version" --name "$tar_name.asc" --file "$tar_name.asc"
+  github-release upload --user codygriffith --repo peertube --tag "$version" --name "$zip_name" --file "$zip_name"
+  github-release upload --user codygriffith --repo peertube --tag "$version" --name "$zip_name.asc" --file "$zip_name.asc"
+  github-release upload --user codygriffith --repo peertube --tag "$version" --name "$tar_name" --file "$tar_name"
+  github-release upload --user codygriffith --repo peertube --tag "$version" --name "$tar_name.asc" --file "$tar_name.asc"
 
   git push origin "$branch"
 
