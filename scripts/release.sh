@@ -19,10 +19,7 @@ if [ -z "$1" ]; then
   exit -1
 fi
 
-if [ -z "$GITHUB_TOKEN" ]; then
-  echo "Need GITHUB_TOKEN env set."
-  exit -1
-fi
+
 
 maintainer_public_key=${MAINTAINER_GPG:-"F17EF334CCB2679A"}
 
