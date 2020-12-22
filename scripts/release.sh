@@ -36,6 +36,11 @@ if [[ "$version" = *"-alpha."* ]] || [[ "$version" = *"-beta."* ]] || [[ "$versi
   github_prerelease_option="--pre-release"
 fi
 
+if [ -z "$GITHUB_TOKEN" ]; then
+  echo "Need GITHUB_TOKEN env set."
+  exit -1
+fi
+
 directory_name="peertube-$version"
 zip_name="peertube-$version.zip"
 tar_name="peertube-$version.tar.xz"
