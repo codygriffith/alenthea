@@ -1,0 +1,61 @@
+.bigOlText {
+    background-image: none;
+    background: none !important;
+    padding: 0;
+}
+#hero{
+    background-image: url(/images/bg/atlanta-web-designer-award.svg);
+    background-size: 100%;
+    color: white;
+    padding: 0 11vw;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    height: 41vw;
+    justify-content: center;
+}
+#hero span{
+    font-size: 5.5vw;
+    margin: 0;
+    display: block;
+    width: fit-content;
+    background-color: #00000094 !important;
+}
+#hero h1{
+    background-color: #00000094 !important;
+    width: fit-content;
+    padding: .7vw;
+    margin-bottom: 3vw;
+    text-shadow: #5a5c61d1 0.2vw 0.2vw;
+}
+
+#hero p{
+    background-color: #00000094;
+    padding: 1vw;
+    font-size: 1.5vw;
+    width: 94%;
+    padding: 1vw;
+    margin-bottom: 1vw;
+}
+
+@media only screen and (max-width: 800px) {
+    #hero{
+        background-image: url(/images/bg/atlanta-web-designer-award-mobile.svg);
+        height: 111vw;
+        padding: 0 7vw;
+    }
+    #hero span{
+        font-size: 7vw;
+        background: none !important;
+    }
+    #hero h1{
+        margin-bottom: 6vw;
+        background-color: #00000057 !important;
+    }
+    #hero p{
+        margin-bottom: 3vw;
+        font-size: 3.6vw;
+        width: 96%;
+        text-align: justify;
+    }
+
+}

@@ -153,11 +153,11 @@
 }
 
 .bigOlText {
-    font-size: 7.5vw;
+    font-size: 6.5vw;
     line-height: 90%;
     width: auto;
-    text-align: center;
-    text-shadow: #4b548a 0.25vw 0.25vw;
+    /* text-align: center; */
+    /* text-shadow: #4b548a 0.25vw 0.25vw; */
     margin: 0;
     padding: 5vw 4vw 10vw 4vw;
 }
@@ -186,11 +186,11 @@
 }
 
 .bigOlText span{
-    font-size: 3.35vw;
+    font-size: 5.35vw;
     line-height: 125%;
     text-align: left;
     text-shadow: #5a5c61d1 0.2vw 0.2vw;
-    margin-bottom: 1.5vw;
+    /* margin-bottom: 1.5vw; */
 }
 
 #columbusGaWebDesign p{
