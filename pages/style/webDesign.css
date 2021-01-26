@@ -115,7 +115,7 @@
 }
 #ecommerce div{
     background-color: rgba(255, 255, 255, 0.722);
-    padding: 3vw;
+    padding: 2vw;
 }
 
 #ecommerce h1{
@@ -156,7 +156,7 @@
     font-size: 6.5vw;
     line-height: 90%;
     width: auto;
-    /* text-align: center; */
+    text-align: center;
     /* text-shadow: #4b548a 0.25vw 0.25vw; */
     margin: 0;
     padding: 5vw 4vw 10vw 4vw;
@@ -412,15 +412,102 @@
     width: fit-content;
 }
 
+#atlantaDesign{
+    background-image: url(/images/bg/atlanta-web-designer-services.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    display: block;
+    padding: 3vw 6vw;
+}
+
+#atlantaDesign h1{
+    font-size: 4.5vw;
+    width: 70%;
+    /* line-height: 5.5vw; */
+    /* padding: 1vw; */
+    align-self: start;
+    margin-top: 1vw;
+    background-color: #222C3C;
+    color: #EEEEEE;
+    display: inline;
+    /* width: fit-content; */
+    /* padding: 1vw; */
+    /* border: black solid 2vw; */
+    box-shadow: #59647b 0vw 0.1vw;
+    background: linear-gradient(#fff0 70.1%, #222C3C -9%);
+    text-shadow: 0.2vw 0.2vw #222c3c99;
+    /* margin-bottom: 14vw; */
+}
+#atlantaDesign p{
+    font-size: 2vw;
+    padding: .5vw 1vw;
+    /* padding-top: 1vw; */
+    /* background: linear-gradient(to bottom right, rgb(0 14 37 / .65) 15%, rgb(58 63 74 / .63) 55%); */
+    color: #EEEEEE;
+}
+#atlantaDesign button{
+    margin: auto;
+    display: block;
+    font-size: 1.75vw;
+    padding: 1vw;
+    background-color: #E4E4E4;
+    border: none;
+    border-radius: 0.4vw;
+    margin-top: 3vw;
+    /* margin-bottom: 3vw; */
+    color: rgb(0 0 0 / 0.75);
+    box-shadow: 0.2vw 0.2vw #59647B;
+}
+#atlantaDesign button a{
+    color: rgb(0 0 0 / 0.75);
+    font-weight: 600;
+    font-size: 2.25vw;
+}
+
+#atlantaDesign div{
+    background: linear-gradient(to bottom right, rgb(0 14 37 / .65) 5%, rgb(58 63 74 / .63) 92%);
+    margin-top: 3vw;
+}
+#atlantaDesign br{
+
+}
 @media only screen and (max-width: 800px) {
+    #atlantaDesign button a {
+        font-size: 3.25vw;
+    }
+    #atlantaDesign br{
+        display: none;
+    }
+    #atlantaDesign h1 br{
+        display: initial;
+    }
+    #atlantaDesign{
+        
+padding: 3vw;
+    }
     
+    #atlantaDesign h1{
+    
+font-size: 7vw;
+    
+/* margin-bottom: 3vw; */
+    }
+    #atlantaDesign p{
+    
+font-size: 3.7vw;
+    
+padding: 1.75vw;
+    }
+
     #ecommerce p{
         line-height: 100%;
         color: #566673;
         font-weight: 500;
     }
     #ecommerce {
-        padding: 6vw;
+        padding: 12vw 6vw;
         margin-bottom:2vw;
     }
     #ecommerce div{
@@ -493,10 +580,12 @@
     }
 
     .secondBigText{
+        padding: 11vw;
+        padding-top: 5vw;
         padding-right: 4vw !important;
         padding-left: 3vw !important;
-        height: 31vw;
-        padding-bottom: 7vw;
+        /* height: 28vw; */
+        /* padding-bottom: 7vw; */
     }
 
     .secondBigText h1{
@@ -504,7 +593,7 @@
     }
 
     .secondLittleText {
-        display: none;
+        /* display: none; */
     }
 
     #hosting img {
@@ -692,8 +781,10 @@
         margin-bottom: 2.25vw;
     }
     #reDesign .button{
-        font-size: 3.5vw;
-        padding: 1.25vw;
+        
+font-size: 3.5vw;
+        
+padding: 1.25vw;
     }
 
 }

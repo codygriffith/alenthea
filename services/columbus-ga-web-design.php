@@ -171,7 +171,16 @@
 			</section>
 		</div>
 	</section>
-	<section class="flex center column" id="hosting">
+	<section id="atlantaDesign" class="flex center column">
+		<h1>Now serving Metro Atlanta <br>& the North Georgia<br> area.</h1>
+		
+		<div>
+			<p>We understand what it takes to stand out and excel in such large and diverse markets like Atlanta.</p>
+			<p>Alenthea comes prepared to handle all of your unique needs and challenges when it comes to Web Design and Development in Atlanta, Georgia.</p>
+		</div>
+		<button><a href="/services/atlanta-web-designer">See How We Excel in Atlanta Web Design</a></button>
+	</section>
+	<article class="flex center column" id="hosting">
 	<div class="flex row center">
 		<img src="/images/server.jpg" alt="Hosting Illustration">
 		
@@ -182,14 +191,14 @@
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
 			<a class="button disabled">Click Here For Hosting Solutions</a>
-	</section>
-	<section id="ecommerce" class="flex column bigOlText secondBigText">
+	</article>
+	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
 			<a class="button" href="/services/ecommerce">Click Here For Better Conversions</a>
 		</div>
-	</section>
+	</article>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

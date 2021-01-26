@@ -66,9 +66,16 @@
 	<p>Accelerate your business towards it's full potential. Trust a company like Alenthea to build a beautiful and functional website for 
 	  your Atlanta business. We construct top-rated websites with built-in S.E.O and pagespeed optimization.</p>
 	</div>
+	<section id="diverseMarkets" class="flex column">
+		<div class="flex column">
+			<h1>Diverse markets like Atlanta come with their own unique challenges and requirements with Website Design.</h1>
+			<p>We take Website Design & Development up a notch. We offer premium Websites that convert clicks into customers, giving your business the perfect foundation it needs to build it's presence in Atlanta.</p>
+			<p>Whether you require an E-Commerce, Corporate, Retail, Start-Up, or any other type of companywebsite, Alenthea is prepared to serve your Atlanta Web Design needs.</p>
+		</div>
+	</section>
 	
 
-	<section class="full flex center column" id="columbusGaWebDesign">
+	<!-- <section class="full flex center column" id="columbusGaWebDesign">
 		<h1 class="flex column center sectionHeader">Columbus, Ga Web Design</h1>
 		<div class="full flex center column">
 		<h2>Designed by Experts - Built by Professionals</h2>
@@ -76,48 +83,14 @@
 				by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
 		</p>
 	</div>
-	</section>
-
-	<section class="flex center row" id="pricing_section">
-			<section>
-				<h1>Get A Professional Website<br>
-					 @ A Sensible Budget</h1>
-					 <hr>
-				<div>
-					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
-					<ul>
-						<li>Great for small businesses that require a minimal web presence.</li>
-						<li>Start small but keep your ability to scale up in the future.</li>
-						<li>Fit any budget; Big or Small.</li>
-					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
-				</div>
-			</section>
-			<section>
-				<h1>Need A More Custom<br>
-					 Solution?</h1>
-					 <hr>
-				<div>
-					<H2>Stand out from the rest with an end-all Web Solution for your Business. 
-						Our Custom Websites begin at just $2000 and are guaranteed to efficiently 
-						match your budget with our performance.</H2>
-					<ul>
-						<li>For larger operations with more robust requirements.</li>
-						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
-						<li>Built in On-Page S.E.O. and Mobile Optimization.</li>
-					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
-				</div>
-			</section>
-	</section>
-
+	</section> -->
 
 	<section class="flex center" id="designSolutions">
 		<section>
-			<h1>Alenthea's Web Design Solutions</h1>
-			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
+			<h1>Our Atlanta Web Design Difference</h1>
+			<p>Alenthea is a premium website design and development company serving the Atlanta and surrounding metro area. We make surelocal businesses don't get lost during their journey for a professional website design.</p>
 		</section>
-	<div class="flex space-between">
+	<!-- <div class="flex space-between">
 		<section>
 			<h1>Web Development Experts</h1>
 			<p>As experts in HTML5, CSS, Javascript, and php, we write code that turns visitors 
@@ -139,23 +112,23 @@
 				Take the first step to success with Alenthea Web Design in Columbus, Ga.
 			</p>
 		</section>
-	</div>
+	</div> -->
 	</section>
-	<section id="reDesign">
+	<!-- <section id="reDesign">
 		<h1>Website Re-Design service starting at only <br> $100 per page.*</h1>
 		<p>Just like employees need to be trained, your website will 
 			need to be updated; After all, your website is basically your 
 			24/7 salesman. Take a look at our website re-design packages now.</p>
 		<a class="button" href="/pages/contact">Get A Free Quote</a>
-	</section>	
-    <section>
+	</section>	 -->
+    <!-- <section>
 	    <div class="flex column bigOlText secondBigText">
 		    <h1>Latest Technologies;</h1>
 		    <h1>Highest Standards.</h1>
 	    </div>
         <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
-    </section>
-	<section class="full column flex center">
+    </section> -->
+	<!-- <section class="full column flex center">
 		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
 		<div class="flex row wrap center" id="serviceTiles">
 			<section>
@@ -175,8 +148,8 @@
 				<p>Place your content in front of the right people when they need you most.</p>
 			</section>
 		</div>
-	</section>
-	<section class="flex center column" id="hosting">
+	</section> -->
+	<article class="flex center column" id="hosting">
 	<div class="flex row center">
 		<img src="/images/server.jpg" alt="Hosting Illustration">
 		
@@ -187,14 +160,14 @@
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
 			<a class="button disabled">Click Here For Hosting Solutions</a>
-	</section>
-	<section id="ecommerce" class="flex column bigOlText secondBigText">
+	</article>
+	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
 			<a class="button" href="/services/ecommerce">Click Here For Better Conversions</a>
 		</div>
-	</section>
+	</article>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>

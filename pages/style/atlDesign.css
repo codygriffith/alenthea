@@ -1,4 +1,4 @@
-.bigOlText {
+#hero .bigOlText {
     background-image: none;
     background: none !important;
     padding: 0;
@@ -12,6 +12,7 @@
     /* background-position: center; */
     height: 41vw;
     justify-content: center;
+    
 }
 #hero span{
     font-size: 5.5vw;
@@ -31,10 +32,26 @@
 #hero p{
     background-color: #00000094;
     padding: 1vw;
-    font-size: 1.5vw;
+    font-size: 1.75vw;
     width: 94%;
     padding: 1vw;
     margin-bottom: 1vw;
+}
+
+#diverseMarkets{
+    width: 90%;
+    margin: 3vw auto;
+}
+#diverseMarkets h1{
+    font-size: 3vw;
+    width: 68%;
+    margin-bottom: 3vw;
+}
+
+#diverseMarkets p{
+    font-size: 2vw;
+    margin-bottom: 1.5vw;
+    line-height: 100%;
 }
 
 @media only screen and (max-width: 800px) {
@@ -50,12 +67,33 @@
     #hero h1{
         margin-bottom: 6vw;
         background-color: #00000057 !important;
+        text-align: left;
     }
     #hero p{
         margin-bottom: 3vw;
-        font-size: 3.6vw;
+        font-size: 3.7vw;
         width: 96%;
         text-align: justify;
     }
 
+    #diverseMarkets{
+        margin: 3vw auto;
+        width: 97%;
+    }
+    #diverseMarkets h1 {
+        font-size: 4.75vw;
+        width: 100%;
+        margin-bottom: 3vw;
+        font-weight: 800;
+        /* line-height: 100%; */
+        text-shadow: 0.1vw 0.1vw #c26f00;
+    }
+    #diverseMarkets p {
+        font-size: 3.5vw;
+        margin-bottom: 1.5vw;
+        line-height: 100%;
+        font-weight: 400;
+        width: 97%;
+        margin: 1vw auto;
+    }
 }
