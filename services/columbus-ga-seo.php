@@ -21,10 +21,10 @@
 <link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<title>Web Design Columbus, GA | Alenthea Website Development</title>
-<meta name="description" content="Web Design & Development in Columbus, Georgia. 
-	Out-class and out-rank your competition with a custom and highly effective website design. 
-	We are the top choice in Web Design & Development in Columbus, Ga and the Southeastern US." />
+<title>S.E.O. Columbus, GA | Alenthea Search Engine Optimization</title>
+<meta name="description" content="Search Engine Optimization in Columbus, Georgia. 
+	Take your business to the top of the search results - both local and global.
+	Alenthea Design Co. is the top choice for Columbus, Georgia SEO." />
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",
