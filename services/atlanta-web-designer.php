@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/services/columbus-ga-web-design" />
+<link rel="canonical" href="https://alenthea.com/services/atlanta-web-designer" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -22,10 +22,10 @@
 <link href="/pages/style/atlDesign.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<title>Web Design - Columbus, GA | Alenthea Website Development</title>
-<meta name="description" content="Web Design & Development in Columbus, Georgia. 
-	Out-class and out-rank your competition with a custom and highly effective website design. 
-	We are the top choice in Web Design & Development in Columbus, Ga and the Southeastern US." />
+<title>Web Design - Atlanta, GA | Alenthea Website Development in Atlanta</title>
+<meta name="description" content="Web Design & Development in Atlanta. 
+	Out-do your competition with a top ranking, highly effective website design. 
+	There is no surprise why we are the top web designers in Atlanta, Ga."/>
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",
@@ -48,8 +48,8 @@
   		},{
     	  "@type": "ListItem",
       	  "position": 2,
-      	  "name": "Columbus Ga Web Design",
-          "item": "https://alenthea.com/services/columbus-ga-web-design"
+      	  "name": "Atlanta Web Design",
+          "item": "https://alenthea.com/services/atlanta-web-designer"
         }]
 	}
 </script>
