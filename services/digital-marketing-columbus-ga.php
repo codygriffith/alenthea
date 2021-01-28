@@ -21,7 +21,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<title>Internet & Digital Marketing in Columbus, Ga</title>
-	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia." />
+	<meta name="description" content="Reach your target audience and engage users with effective Digital Marketing in Columbus, Georgia. 
+										We are a top rated marketing agency established in Columbus, Ga. " />
 	<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
