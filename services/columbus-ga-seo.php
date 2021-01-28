@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<link rel="canonical" href="https://alenthea.com/services/columbus-ga-web-design" />
+<link rel="canonical" href="https://alenthea.com/services/columbus-ga-seo" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157506747-1"></script>
 <script>
@@ -47,8 +47,8 @@
   		},{
     	  "@type": "ListItem",
       	  "position": 2,
-      	  "name": "Columbus Ga Web Design",
-          "item": "https://alenthea.com/services/columbus-ga-web-design"
+      	  "name": "Columbus Ga SEO",
+          "item": "https://alenthea.com/services/columbus-ga-seo"
         }]
 	}
 </script>
@@ -181,13 +181,13 @@
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
 			<a class="button disabled">Click Here For Hosting Solutions</a>
 	</section> -->
-	<section id="ecommerce" class="flex column bigOlText secondBigText">
+	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
 			<h1>E-Commerce</h1>
 			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
 			<a class="button" href="/services/ecommerce">Click Here For Better Conversions</a>
 		</div>
-	</section>
+	</article>
 	<?php include "../sections/contact.php";?>
 	<br><br>
 	<?php include "../sections/footer.php";?>
