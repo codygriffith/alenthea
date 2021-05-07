@@ -15,17 +15,15 @@
 			</ul>
 			<nav>
 				<ul class="desktop flex row white-text space-evenly">
-					<div>
-						<li><a>Services</a></li>
+					<li>Services
 						<ul>
 							<li><a href="/services/columbus-ga-web-design">Website Design</a></li>
 							<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
 							<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
 							<li><a href="/services/branding">Logos & Branding</a></li>
 							<li><a href="/services/ecommerce">E-Commerce</a></li>
-							<!-- <li><a href="/services/ecommerce.php">S.E.O.</a></li>-->
 						</ul>
-					</div>
+					</li>
 					<li><a href="/pages/blog">Our Blog</a></li>
 					<li><a id="headerContact" href="/pages/contact">Contact Us</a></li>
 				</ul>

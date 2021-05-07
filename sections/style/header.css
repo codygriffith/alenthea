@@ -3,12 +3,10 @@ header{
 	background-color: #0d0d0d;
 }
 #social_links img{
-	width: 2.25vw;
+	width: 2vw;
 }
 #social_links a{
-	width: 2.25vw;
-	padding: 0;
-	padding-top: 1vw;
+	padding: 1vw 0;
 }
 #social_links {
 	width: 35%;
@@ -23,11 +21,11 @@ nav ul li{
 	padding:0 1vw;
 }
 
-nav ul div{
+nav ul{
 	position: relative;
 }
 
-nav ul div ul {
+nav ul ul{
     position: absolute;
     height: 0;
     overflow: hidden;
@@ -45,7 +43,7 @@ nav ul div ul {
     /* padding-top: .5vw; */
 }
 
-nav ul div ul li{
+nav ul ul li{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -58,24 +56,28 @@ nav ul div ul li{
 	align-items: start;
 }
 
-nav ul div ul li a{
+nav ul ul li a{
 	font-weight: 400;
 	font-size: 1.25vw;
 	line-height: 90%;
 	padding: 0 .5vw .5vw .5vw;
 }
 
+nav ul li{
+	font-weight: 400;
+	font-size: 1.25vw;
+	line-height: 90%;
+	padding: 1.25vw 0;
+	align-self: center;
+	cursor: pointer;
+}
+
 nav ul div:hover ul{
 	height: 20vw;
 }
 
-
-
-
-
-
 #companyLogo{
-	width: 6vw;
+	width: 5.5vw;
 	padding-right: 4vw;
 	height: 5.7vw;
 	padding-left: 9vw;
@@ -104,12 +106,10 @@ header li{
 }
 
 header a {
-	font-size: 1.55vw;
 	text-decoration: none;
 	background-color: #0d0d0d;
 	z-index: 100;
 	font-weight: 500;
-	padding: 1vw 0;
 	cursor: pointer;
 }
 
@@ -136,8 +136,6 @@ mobileHeader{
     height: 8.5vh !important;
 }
 
-
-
 header ul li ul {
 	position: absolute;
 	height: 0;
@@ -148,9 +146,9 @@ header ul li ul {
 	margin-left: .25vw;
 	padding-left: .25vw;
 	background-color: #0d0d0d;
-	top: 6vw;
+	top: 3vw;
 	left: 0;
-	max-height: 13vw;
+	max-height: 13.75vw;
 	width: max-content;
 	padding-top: .5vw;
 }
@@ -170,13 +168,13 @@ header ul li ul li{
 
 header ul li ul li a{
 	font-weight: 400;
-	font-size: 1.25vw;
+	font-size: 1vw;
 	line-height: 90%;
 	padding: 0 .5vw .5vw .5vw;
 }
 
 header ul li:hover ul{
-	height: 12vw;
+	height: 15vw;
 }
 
 @media screen and (max-width: 800px) {

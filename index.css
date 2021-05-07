@@ -11,8 +11,8 @@
 }
 	
 .serviceIconContainer img{
-	width: 3.2vw;
-	/* padding: .5vw 1vw; */
+	width: 2.9vw;
+	padding: 0.3vw 0.4vw;
 }
 
 .serviceIconContainer picture{
@@ -25,7 +25,7 @@
 
 
 .button {
-	font-size: 1.1vw;
+	font-size: 0.95vw;
 }
 
 .serviceTile {
@@ -39,18 +39,18 @@
 }
 
 .serviceTileContent *{
-	margin: 1%;
+	margin: 1% 2%;
 }
 
 .serviceTile h1{
-	font-size: 1.55vw;
+	font-size: 1.35vw;
 	font-weight: 600;
 	opacity: 0.77;
 	margin-top: 0.5vw;
 }
 	
 .serviceTileContent p{
-	font-size: 1.2vw;
+	font-size: 1vw;
 	font-weight: 500;
 }
 
@@ -66,12 +66,12 @@
 
 
 #heroImage img {
-	width: 22%;
+	width: 20%;
 	margin-bottom: 5vw;
 	margin: auto 0;
 }
 #heroImage {
-	height: 39vw;
+	height: 33vw;
 	width: 100vw;
 }
 
@@ -245,7 +245,7 @@ form {
 
 #openingPitch h1{
 	padding: 0 3%;
-	font-size: 2.5vw;
+	font-size: 2.4vw;
 	font-style: normal;
 	font-weight: 600;
 	margin-bottom: 1.5vw;
@@ -261,7 +261,7 @@ form {
 	padding: .75vw 0;
 	text-align: right;
 	padding: 0 3%;
-	font-size: 1.7vw;
+	font-size: 1.45vw;
 	font-weight: 600;
 	text-shadow: white 0.1vw 0.1vw 0.2vw;
 	opacity: 0.85;
@@ -306,7 +306,7 @@ form {
 
 #services{
 	position: absolute;
-	top: 45vw;
+	top: 42vw;
 	/* padding: 0 2.5% 0 2%; */
 	/* width: 96%; */
 	width: 100%;
@@ -316,16 +316,17 @@ form {
 	width: 96%;
 	margin: auto;
 	background: #dfe2ee59;
-	/* padding: 1vw; */
+	padding: 0.5vw;
 	margin-top: 2vw;
 }
 #webManagement h1{
-	font-size: 2.25vw;
+	font-size: 2vw;
 }
 #webManagement h2{
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	font-style: italic;
 	font-weight: 300;
+	padding-top: 0.5vw;
 }
 #webManagement h3{
 	font-size: 1.25vw;
