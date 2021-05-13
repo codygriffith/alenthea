@@ -38,7 +38,7 @@
 }
 
 #pageOpener h2{
-    font-size: 2.5vw;
+    font-size: 2.25vw;
 }
 
 .openingPoints div img{
@@ -51,7 +51,7 @@
     display: inline-flex;
     /* margin-right: 3%; */
     /* width: 62vw; */
-    font-size: 1.5vw;
+    font-size: 1.35vw;
     /* font-family: roboto !important; */
     margin-bottom: 6vw;
     font-weight: 600;

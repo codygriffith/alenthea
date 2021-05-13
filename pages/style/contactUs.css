@@ -14,6 +14,10 @@
     margin-left: 3vw;
 }
 
+.bigOlText {
+    padding: 2vw 12vw;
+}
+
 @media only screen and (max-width: 800px) {
 
 

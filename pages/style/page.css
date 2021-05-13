@@ -6,7 +6,7 @@ header .mobile {
 
 .sectionHeader {
     width: auto;
-    font-size: 2.15vw;
+    font-size: 1.75vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
@@ -17,17 +17,18 @@ header .mobile {
     text-align: center;
     display: inline;
     /* box-shadow: red 1vw 1vw; */
+    /* padding: 0.5vw; */
 }
 
 .bigOlText {
-    padding: 4vw 12vw 7vw 12vw;
+    padding: 2vw 12vw 5vw 12vw;
     background-color: rgba(0,0,0,.95);
     background-position: initial;
     background-size: cover;
 }
 
 .bigOlText img{
-    width: 45vw;
+    width: 40vw;
     margin: auto;
     padding: 1%;
     height: 100%;
@@ -42,17 +43,17 @@ header .mobile {
 
 
 .littleOlText {
-    font-size: 1.8vw;
+    font-size: 1.35vw;
     color: rgb(70, 72, 75);
     width: 90%;
     margin: auto;
-    margin-top: -3vw;
+    margin-top: -2vw;
     background-color: #ecf3ff;
     padding: .75%;
     padding-top: .75%;
     box-shadow: rgba(0, 0, 0, 0.38) 0.1vw 0.1vw 0.5vw;
     font-weight: 700;
-    margin-bottom: 1vw;
+    margin-bottom: 3vw;
 }
 
 #servicesList {
@@ -65,7 +66,7 @@ header .mobile {
 #servicesList li {
     margin: 1% 1%;
     font-weight: 500;
-    font-size: 1.6vw;
+    font-size: 1.25vw;
     color: rgb(70, 72, 75);
     background-color: rgba(130, 172, 215, 0.271);
     padding: .5%;
@@ -109,7 +110,7 @@ header .mobile {
     text-shadow: none;
     color: rgba(255, 255, 255, 0.859);
     padding: 0.6%;
-    font-size: 1.4vw;
+    font-size: 1.25vw;
     font-weight: 500;
     text-shadow: rgb(27, 27, 27) 0.1vw 0.1vw;
     box-shadow: rgb(111, 220, 200) 0.4vw 0.4vw 0vw;
