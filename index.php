@@ -18,7 +18,8 @@
 	"addressCountry" : "United States",
 	"postalCode" : "31909"
   },
-  "url" : "https://alenthea.com/"
+  "url" : "https://alenthea.com/",
+  "priceRange" : "$$"
 }
 </script>
 
