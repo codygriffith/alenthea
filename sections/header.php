@@ -33,8 +33,8 @@
 							<li><a href="/services/ecommerce">E-Commerce</a></li>
 						</ul>
 					</li> -->
-					<!-- <li><a href="/pages/blog">Our Blog</a></li> -->
-					<li><a id="headerContact" href="/pages/contact">Contact Us</a></li>
+					<li><a href="/pages/blog">Blog</a></li>
+					<li><a id="headerContact" href="/pages/contact">Contact</a></li>
 				</ul>
 			</nav>
 			
