@@ -81,8 +81,8 @@
 	</div>
 	</section>
 
-	<section class="flex center row" id="pricing_section">
-			<section>
+	<div class="flex center row" id="pricing_section">
+			<article>
 				<h1>Get A Professional Website<br>
 					 @ A Sensible Budget</h1>
 					 <hr>
@@ -95,8 +95,8 @@
 					</ul>
 					<a class="button" href="/pages/contact">Get Started</a>
 				</div>
-			</section>
-			<section>
+			</article>
+			<article>
 				<h1>Need A More Custom<br>
 					 Solution?</h1>
 					 <hr>
@@ -111,8 +111,8 @@
 					</ul>
 					<a class="button" href="/pages/contact">Get Started</a>
 				</div>
-			</section>
-	</section>
+			</article>
+	</div>
 
 
 	<section class="flex center" id="designSolutions">
@@ -151,34 +151,6 @@
 			24/7 salesman. Take a look at our website re-design packages now.</p>
 		<a class="button" href="/pages/contact">Get A Free Quote</a>
 	</section>	
-    <section>
-	    <div class="flex column bigOlText secondBigText">
-		    <h1>Latest Technologies;</h1>
-		    <h1>Highest Standards.</h1>
-	    </div>
-        <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
-    </section>
-	<section class="full column flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
-		<div class="flex row wrap center" id="serviceTiles">
-			<section>
-				<h1>Mobile Ready</h1>
-				<p>All of our websites are built responsive and with all devices in mind.</p>
-			</section>
-			<section>
-				<h1>Dynamic Content</h1>
-				<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
-			</section>
-			<section>
-				<h1>Domain Email</h1>
-				<p>Impress your clients with your own custom business email address.</p>
-			</section>
-			<section>
-				<h1>Intelligent S.E.O.</h1>
-				<p>Place your content in front of the right people when they need you most.</p>
-			</section>
-		</div>
-	</section>
 	<section id="atlantaDesign" class="flex center column">
 		<h1>Now serving Metro Atlanta <br>& the North Georgia<br> area.</h1>
 		

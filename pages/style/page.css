@@ -5,19 +5,19 @@ header .mobile {
 
 
 .sectionHeader {
-    width: auto;
-    font-size: 1.75vw;
+    /* width: auto; */
+    font-size: 1.5vw;
     color: #1d1d1d;
     text-shadow: grey 0.05vw 0.05vw;
     box-shadow: #59647b 0vw 0.1vw;
-    /* background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%); */
-    margin: auto;
+    background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
+    /* margin: auto; */
     margin-top: 1vw;
     margin-bottom: 1vw;
-    text-align: center;
+    /* text-align: center; */
     display: inline;
     /* box-shadow: red 1vw 1vw; */
-    /* padding: 0.5vw; */
+    padding: 0.5vw;
 }
 
 .bigOlText {
@@ -43,11 +43,11 @@ header .mobile {
 
 
 .littleOlText {
-    font-size: 1.35vw;
+    font-size: 1.25vw;
     color: rgb(70, 72, 75);
-    width: 90%;
+    width: 75%;
     margin: auto;
-    margin-top: -2vw;
+    margin-top: -4vw;
     background-color: #ecf3ff;
     padding: .75%;
     padding-top: .75%;

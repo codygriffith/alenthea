@@ -28,7 +28,7 @@
 
 #serviceTiles {
     justify-content: space-between;
-    width: 95%;
+    width: 80%;
     margin: auto;
     /* margin-bottom: 7vw; */
     /* align-items: center; */
@@ -38,7 +38,7 @@
 }
 
 #serviceTiles section {
-    width: 20.5%;
+    width: 20%;
     padding: 1% 1%;
     background-color: rgba(88, 100, 125, 0.15);
     border-radius: .2vw;
@@ -52,15 +52,15 @@
 #serviceTiles h1 {
     margin: 0;
     margin-bottom: 2%;
-    font-size: 1.65vw;
-    color: rgb(69, 93, 111)
+    font-size: 1.25vw;
+    color: rgb(69, 93, 111);
 }
 
 #serviceTiles p{
     margin: 0;
     margin-left: 1%;
-    /* text-align: justify; */
-    font-size: 1.2vw;
+    text-align: left;
+    font-size: 1.1vw;
     font-weight: 500;
     line-height: 100%;
     white-space: break-spaces;
@@ -83,21 +83,20 @@
     padding-bottom: 4vw;
 }
 #hosting h1{
-    font-size: 7vw;
+    font-size: 5vw;
     line-height: 100%;
     text-shadow: rgb(144, 173, 204) 0.25vw 0.2vw;
     margin-bottom: .5vw;
 }
 #hosting h2{
-    font-size: 2.75vw;
+    font-size: 2.5vw;
     line-height: 100%;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
 
 #hosting img{
-    width: 23vw;
+    width: 21vw;
     margin-right: 8vw;
-
 }
 
 #hosting a{
@@ -107,7 +106,7 @@
 }
 
 #ecommerce{
-    padding: 2.5vw 3.5vw 2.5vw 3.5vw;
+    padding: 2.5vw 5.5vw;
     background-image: url("/images/minimalBackground4.jpg");
     background-color: white;
     background-size: cover;
@@ -115,14 +114,12 @@
 }
 #ecommerce div{
     background-color: rgba(255, 255, 255, 0.722);
-    padding: 2vw;
+    padding: 3vw;
 }
 
 #ecommerce h1{
-    font-size: 5.25vw;
-    margin-bottom: 3vw;
-    font-size: 3.75vw;
-    margin-bottom: 2vw;
+    font-size: 3.5vw;
+    margin-bottom: 1.5vw;
     color: #1b1b1b;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
@@ -134,7 +131,7 @@
     padding-left: 0;
     color: #1b1b1b;
     /* padding: 2vw; */
-    padding-bottom: 2vw;
+    padding-bottom: 1vw;
 }
 
 .options {
@@ -159,7 +156,7 @@
     text-align: center;
     /* text-shadow: #4b548a 0.25vw 0.25vw; */
     margin: 0;
-    padding: 4vw 4vw 7vw 4vw;
+    padding: 3vw 4vw 8vw 4vw;
 }
 .secondBigText {
     text-align: unset;
@@ -194,8 +191,8 @@
 }
 
 #columbusGaWebDesign p{
-    width: 75%;
-    font-size: 1.55vw;
+    width: 65%;
+    font-size: 1.25vw;
     margin-bottom: 3vw;
     text-align: justify;
 }
@@ -238,7 +235,7 @@
     margin-top: 1.2vw;
     line-height: 95%;
     background-color: #e4e4e4;
-    font-size: 1.5vw;
+    font-size: 1.25vw;
     font-weight: 600;
     padding: 0.5vw;
     border-radius: 0.2vw;
@@ -248,41 +245,41 @@
 
 }
 
-#pricing_section section{
-    width: 41%;
+#pricing_section article{
+    width: 40%;
     background-color: #e1edf0;
     padding-bottom: 1vw;
 }
-#pricing_section section div{
+#pricing_section article div{
     background: #f4f7fb;
     width: 95%;
     margin: auto;
     padding-top: 0.6vw;
     padding-bottom: 0.8vw;
 }
-#pricing_section section h1{
-    font-size: 2vw;
+#pricing_section article h1{
+    font-size: 1.65vw;
     text-align: center;
     font-weight: 400;
     background: #cfdce3c7;
     padding: 1vw;
-    line-height: 2.4vw;
     margin-bottom: 0.7vw;
     min-height: 2vw;
 }
 
-#pricing_section section h2{
+#pricing_section article h2{
     width: 95%;
     margin: auto;
     margin-bottom: 1vw;
     font-size: 1.25vw;
+    font-weight: 500;
 }
-#pricing_section section ul{
+#pricing_section article ul{
     display: block;
     width: 92%;
     margin-left: auto;
 }
-#pricing_section section li{
+#pricing_section article li{
     width: fit-content;
     font-size: 1.25vw;
     margin-bottom: 0.3vw;
@@ -325,7 +322,7 @@
     flex-wrap: wrap;
     background-size: cover;
     /* height: 47vh; */
-    padding: 1vw;
+    padding: 2vw 3vw;
     margin-top: 2.5vw;
 }
 
@@ -334,7 +331,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 1vw;
-    margin-bottom: 3vw;
+    margin-bottom: 1vw;
 }
 
 #designSolutions h1, #designSolutions p{
@@ -353,18 +350,18 @@
 }
 
 #designSolutions div section h1{
-    font-size: 2vw;
+    font-size: 2.25vw;
 }
 
 #designSolutions section h1{
-    font-size: 3vw;
+    font-size: 2.75vw;
     margin-bottom: .8vw;
     padding: .25vw 1vw;
     width: fit-content;
 }
 
 #designSolutions section p{
-    font-size: 1.1vw;
+    font-size: 1.25vw;
     font-weight: 500;
     text-align: left;
     padding: 0.55vw 1vw;
@@ -372,22 +369,22 @@
 }
 
 #reDesign {
-    width: 75%;
+    width: 66%;
     margin: 2vw auto;
     background: linear-gradient(to bottom right, rgb(243 243 243 / 14%) 25%, rgb(243 243 243) 50%, rgb(172 178 193 / 28%) 55%);
     box-shadow: #cacaca 0.2vw 0.2vw 0.3vw;
     padding: 1vw 3vw;
 }
 #reDesign h1{
-    font-size: 2.25vw;
+    font-size: 2vw;
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
     margin-top: 1vw;
     display: inline;
 }
 #reDesign p{
-    font-size: 1.5vw;
-    width: 94%;
+    font-size: 1.45vw;
+    width: 100%;
     margin: auto;
     line-height: 100%;
     color: #272727;
@@ -402,7 +399,7 @@
     text-align: center;
     margin: auto;
     background-color: #e4e4e4d6;
-    font-size: 1.5vw;
+    font-size: 1.25vw;
     font-weight: 600;
     padding: .75vw;
     border: none;
@@ -418,14 +415,12 @@
     background-image: url(/images/bg/atlanta-web-designer-services.svg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding-left: 6vw;
-    padding-right: 6vw;
     display: block;
-    padding: 3vw 6vw;
+    padding: 3vw 7vw;
 }
 
 #atlantaDesign h1{
-    font-size: 3.75vw;
+    font-size: 3vw;
     width: 70%;
     /* line-height: 5.5vw; */
     /* padding: 1vw; */
