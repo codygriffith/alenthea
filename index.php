@@ -138,15 +138,10 @@
 			</section>
 		</section>
 
-	
-
-
 	<section class="flex center row light" id="missionBanner">
 		<img src="/images/alentheaFullLogoDark.svg" alt="Alenthea Design Company Logo">
 		<h1>Our Mission Is To Help Our Clients Realize Their Dreams,<br> No Matter How Big Or Small.</h1>
 	</section>
-
-
 
 	<section class="flex center column" id="webManagement">
 		<h1>Need Help With Your Current Website?</h1>
@@ -228,51 +223,9 @@
 		</section>
 	</section>
 
-
-
-
-	<!-- <article id="ourWork" class="flex full center column">
-		<h1>Our Work</h1>
-		<div class="flex center row">
-		<section class="flex column center">
-			<img src="/images/12407.png">
-			<h1>The Wade Companies</h1>
-			<h2>Website Design</h2>
-		</section>
-		<section class="flex column center">
-			<img src="/images/businessCard Tile 1.png">
-			<h1>All Wood Work</h1>
-			<h2>Branding & Identity</h2>
-		</section>
-		<section class="flex column center">
-			<img src="/images/buddybaked.svg">
-			<h1>Buddy Baked</h1>
-			<h2>Marketing & E-Commerce</h2>
-		</section>
-	</div>
-	</article> -->
-
-
-
-
-
-		<!-- <section id="goals" class="flex center column">
-			<h2>Achieve Your Goals</h2>
-			<div class="flex row center">
-				<p>Generate more leads and market your services locally and nationally. Promote trust in your brand and show your expertise.</p>
-				<p>Rank higher in organic search results and make yourself discoverable on the web. Increase your presence in local search.</p>
-				<p>Refresh your brand identity and maintain a modern appearance in today’s ever evolving market.</p>
-			</div>
-		</section> -->
-
-
-
 	</main>
 	<?php include 'sections/contact.php';?>
-	<!-- <a href="https://twitter.com/alentheac?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @alenthea2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	 -->
 	<?php include 'sections/footer.php';?>
 
 </body>
-
-	
 </html>
