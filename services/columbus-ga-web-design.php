@@ -26,16 +26,6 @@
 	Out-class and out-rank your competition with a custom and highly effective website design. 
 	We are the top choice in Web Design & Development in Columbus, Ga and the Southeastern US." />
 <script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "Organization", 
-	  "url": "https://alenthea.com",
-	  "logo": "https://alenthea.com/images/alentheaFullDark.png",
-	  "areaServed": "Columbus, Georgia, Alabama, Atlanta",
-	  "brand": "Alenthea Design Co"  
-	}
-</script>
-<script type="application/ld+json">
     {
 	  "@context": "https://schema.org",
 	  "@type": "BreadcrumbList",
@@ -52,6 +42,24 @@
         }]
 	}
 </script>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name" : "Website Design",
+  "description" : "Give your business the website it deserves. Whether you need a few updates, a massive re-design, or you're starting completely from scratch, Alenthea is here to serve.  Out-class and out-rank your competition with a highly effective, completely custom website design. All of our sites are designed to be ADA compliant, mobile friendly, and with SEO in mind. Discover how we can put you above the competition.",
+  "url" : "https://alenthea.com/services/columbus-ga-web-design",
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Alenthea",
+    "logo" : "https://alenthea.com/images/alentheaFullLogo_light.svg"
+  },
+  "offers" : {
+    "@type" : "Offer",
+    "price" : "1000"
+  }
+}
+</script>
 </head>
 <body>
     <?php include "../sections/header.php";?>
@@ -59,10 +67,10 @@
             <!-- <span>Columbus, Ga</span> -->
             Website Design
     </h1>
-    <h2 class="littleOlText">Out-class and out-rank your competition with a custom and highly effective website designed by Alenthea.</h2>
+    <h2 class="littleOlText">Give your business the website it deserves. Whether you need a few updates, a massive re-design, or you're starting completely from scratch, Alenthea is here 
+		to serve. <br> <br> Out-class and out-rank your competition with a highly effective, completely custom website design. All of our sites are designed to be ADA compliant, mobile friendly, 
+		and with SEO in mind. Discover how we can put you above the competition.</h2>
 	
-	
-
 	<section class="full flex center column" id="columbusGaWebDesign">
 		<h1 class="flex column center sectionHeader">Columbus, Ga Web Design</h1>
 		<div class="full flex center column">
