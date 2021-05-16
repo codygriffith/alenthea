@@ -241,10 +241,6 @@
     border-radius: 0.2vw;
 }
 
-#pricing_section{
-
-}
-
 #pricing_section article{
     width: 40%;
     background-color: #e1edf0;
@@ -466,9 +462,7 @@
     background: linear-gradient(to bottom right, rgb(0 14 37 / .65) 5%, rgb(58 63 74 / .63) 92%);
     margin-top: 3vw;
 }
-#atlantaDesign br{
 
-}
 @media only screen and (max-width: 800px) {
     #atlantaDesign button a {
         font-size: 3.25vw;
@@ -553,10 +547,6 @@ padding: 1.75vw;
         height: 100%;
     }
 
-    #serviceTiles{
-        /* flex-direction: column; */
-    }
-
     #serviceTiles h1{
         font-size: 5vw;
     }
@@ -586,10 +576,6 @@ padding: 1.75vw;
 
     .secondBigText h1{
         font-size: 6.75vw;
-    }
-
-    .secondLittleText {
-        /* display: none; */
     }
 
     #hosting img {

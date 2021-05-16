@@ -15,7 +15,16 @@
 			</ul>
 			<nav>
 				<ul class="desktop flex row white-text space-evenly">
-					<li>Services
+					<li><a href="/services/columbus-ga-web-design">Web Design</a>
+						<ul>
+							<!-- <li><a href="/services/wordpress">Wordpress</a></li> -->
+							<li><a href="/services/ecommerce">E-Commerce</a></li>
+							<!-- <li><a href="/services/columbus-ga-seo">Website Redesign</a></li> -->
+						</ul>
+					</li>
+					<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
+					<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
+					<!-- <li>Services
 						<ul>
 							<li><a href="/services/columbus-ga-web-design">Website Design</a></li>
 							<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
@@ -23,8 +32,8 @@
 							<li><a href="/services/branding">Logos & Branding</a></li>
 							<li><a href="/services/ecommerce">E-Commerce</a></li>
 						</ul>
-					</li>
-					<li><a href="/pages/blog">Our Blog</a></li>
+					</li> -->
+					<!-- <li><a href="/pages/blog">Our Blog</a></li> -->
 					<li><a id="headerContact" href="/pages/contact">Contact Us</a></li>
 				</ul>
 			</nav>

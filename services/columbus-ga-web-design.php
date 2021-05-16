@@ -114,7 +114,6 @@
 			</article>
 	</div>
 
-
 	<section class="flex center" id="designSolutions">
 		<section>
 			<h1>Alenthea's Web Design Solutions</h1>
