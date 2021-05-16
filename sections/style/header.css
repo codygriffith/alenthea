@@ -221,9 +221,16 @@ header ul li:hover ul{
 		opacity: .5;
 	}
 
+	header li{
+		height: inherit;
+		-webkit-transition: height .75s;
+		-o-transition: height .75s;
+		transition: height .75s;
+		overflow: hidden;
+	}
+
 	.mobileHeaderLinks {
 		line-height: 150%;
-		/* display: none; */
 		font-size: inherit;
 		height: inherit;
 		overflow: hidden;
@@ -232,7 +239,6 @@ header ul li:hover ul{
 		transition: height .5s;
 		padding-right: 4vw;
 		background-color: rgba(0, 0, 0, 0.831);
-		/* padding-bottom: 3vw; */
 	}
 
 }
