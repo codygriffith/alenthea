@@ -168,7 +168,7 @@
 		</div>
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
-			<a class="button disabled font15">Find Hosting Solutions</a>
+			<a href="/pages/contact" class="button font15">Find Hosting Solutions</a>
 	</article>
 	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
