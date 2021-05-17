@@ -1,110 +1,14 @@
-#serviceBanner {
-    height: auto;
-    background-image: url(../images/minimalBackground.png);
-    background-size: 114%;
-    background-position: bottom;
-}
-
-#serviceImage img{
-    width: 67%;
-    margin: 2% 5%;
-}
-
-.bigOlText img {
-    width: 58vw;
-    margin: unset;
-}
-
-.bigOlText {
-    background-image: url("/images/starsBackground.jpg");
-    color: white;
-}
-
-.secondLittleText{
-    margin-top: 0;
-    background: none;
-    box-shadow: none;
-}
-
-#serviceTiles {
-    justify-content: space-between;
-    width: 80%;
-    margin: auto;
-    /* margin-bottom: 7vw; */
-    /* align-items: center; */
-    /* align-self: center; */
-    /* display: flex;*/
-    margin-bottom: 1.5vw;
-}
-
-#serviceTiles section {
-    width: 20%;
-    padding: 1% 1%;
-    background-color: rgba(88, 100, 125, 0.15);
-    border-radius: .2vw;
-    box-shadow: grey 0.1vw 0.1vw 0.2vw;
-    margin-top: 1vw;
-    /* min-height: 8vw; */
-    /* height: 26vw; */
-    margin-bottom: 1vw;
-    text-align: justify;
-}
-#serviceTiles h1 {
-    margin: 0;
-    margin-bottom: 2%;
-    font-size: 1.25vw;
-    color: rgb(69, 93, 111);
-}
-
-#serviceTiles p{
-    margin: 0;
-    margin-left: 1%;
-    text-align: left;
-    font-size: 1.1vw;
-    font-weight: 500;
-    line-height: 100%;
-    white-space: break-spaces;
-    opacity: .8;
-    color: rgb(46, 46, 47);
-}
-
-#serviceTiles a {
-    margin: auto;
-    padding-top: 1vw;
-    font-size: 1.5vw;
-    float: right;   
-}
-#hosting{
-    /* padding: 3vw 8vw 3vw 5vw; */
-    background-size: 48%;
-    background-position: left;
-    background-repeat: no-repeat;
-    justify-content: center;
-    padding-bottom: 4vw;
-}
 #hosting h1{
-    font-size: 5vw;
     line-height: 100%;
     text-shadow: rgb(144, 173, 204) 0.25vw 0.2vw;
     margin-bottom: .5vw;
 }
 #hosting h2{
-    font-size: 2.5vw;
-    line-height: 100%;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
-
 #hosting img{
     width: 21vw;
-    margin-right: 8vw;
 }
-
-#hosting a{
-    font-size: 2.5vw;
-    /* line-height: 60%; */
-    margin-top: 2vw;
-}
-
 #ecommerce{
     padding: 2.5vw 5.5vw;
     background-image: url("/images/minimalBackground4.jpg");
@@ -116,118 +20,40 @@
     background-color: rgba(255, 255, 255, 0.722);
     padding: 3vw;
 }
-
 #ecommerce h1{
-    font-size: 3.5vw;
     margin-bottom: 1.5vw;
-    color: #1b1b1b;
     text-shadow: rgb(144, 173, 204) 0.15vw 0.15vw;
 }
-
-#ecommerce p{
-    font-size: 2.25vw;
-    padding-left: 6vw;
-    font-size: 1.5vw;
-    padding-left: 0;
-    color: #1b1b1b;
-    /* padding: 2vw; */
-    padding-bottom: 1vw;
-}
-
-.options {
-    padding: 2vw 4vw;
-    padding-top: 0;
-}
-
-.options h1 {
-    font-size: 4.5vw;
-    font-weight: 700;
-}
-.options p {
-    font-size: 2vw;
-    font-weight: 500;
-    width: 70vw;
-}
-
 .bigOlText {
-    font-size: 6vw;
     line-height: 90%;
-    width: auto;
-    text-align: center;
-    /* text-shadow: #4b548a 0.25vw 0.25vw; */
-    margin: 0;
-    padding: 3vw 4vw 8vw 4vw;
 }
-.secondBigText {
-    text-align: unset;
-    text-shadow: #4b548a 0.25vw 0.25vw;
-    padding: 7vw;
-    padding-top: 2vw;
-    padding-bottom: 5vw;
-    font-size: 2.75vw;
-    height: 18vw;
-    justify-content: space-around;
-}
-.secondBigText p{
-    text-align: left;
-    width: 100%;
-    line-height: 120%;
-    font-weight: 600;
-    text-shadow: rgba(103, 117, 152, 0.57) 0.075vw 0.075vw;
-}
-
-.secondBigText h1:nth-child(2) {
-    text-align: end;
-    margin-top: 0;
-    text-align: right;
-}
-
 .bigOlText span{
     font-size: 5.35vw;
     line-height: 125%;
     text-align: left;
     text-shadow: #5a5c61d1 0.2vw 0.2vw;
-    /* margin-bottom: 1.5vw; */
 }
-
 #columbusGaWebDesign p{
     width: 65%;
-    font-size: 1.25vw;
-    margin-bottom: 3vw;
     text-align: justify;
 }
-
-#columbusGaWebDesign h1{
-    font-size: 2vw;
-    margin-top: 2vw;
-    margin-bottom: 1vw;
-}
-
 #columbusGaWebDesign h2{
-    font-size: 1.65vw;
     font-weight: 500;
     font-style: italic;
     margin-bottom: 2vw;
 }
-
 #columbusGaWebDesign br{
     display: none;
 }
-
-
 #hosting>div {
-    padding: 3vw 8vw 0 5vw;
+    padding: 0 8vw;
 }
-
 #hosting .button {
     background-color: #ECF3FF;
-    font-size: 1.7vw;
     font-weight: 600;
     padding: 0.5vw;
     border-radius: 0.2vw;
-    line-height: 95%;
 }
-
 #ecommerce .button{
     text-shadow: none;
     text-align: center;
@@ -235,12 +61,10 @@
     margin-top: 1.2vw;
     line-height: 95%;
     background-color: #e4e4e4;
-    font-size: 1.25vw;
     font-weight: 600;
     padding: 0.5vw;
     border-radius: 0.2vw;
 }
-
 #pricing_section article{
     width: 40%;
     background-color: #e1edf0;
@@ -254,7 +78,6 @@
     padding-bottom: 0.8vw;
 }
 #pricing_section article h1{
-    font-size: 1.65vw;
     text-align: center;
     font-weight: 400;
     background: #cfdce3c7;
@@ -262,7 +85,6 @@
     margin-bottom: 0.7vw;
     min-height: 2vw;
 }
-
 #pricing_section article h2{
     width: 95%;
     margin: auto;
@@ -274,6 +96,7 @@
     display: block;
     width: 92%;
     margin-left: auto;
+    text-align: left;
 }
 #pricing_section article li{
     width: fit-content;
@@ -298,75 +121,46 @@
     width: fit-content;
     padding-bottom: .5vw;
 }
-
-#openingSection{
-    background: linear-gradient(to bottom right, rgb(236 243 255 / 27%) 50%, rgb(249 249 249) 55%);
-    box-shadow: #cacaca 0.2vw 0.2vw 0.3vw, #e8e8e8 -0.1vw 0vw 0.3vw;
-    width: 85%;
-    margin: auto;
-    padding-bottom: 3vw;
-    margin-top: 3vw;
-}
-
 #pricing_section hr{
     display: none;
 }
-
 #designSolutions{
     color: white;
     background: url(/images/about-web-design.jpg);
     flex-wrap: wrap;
     background-size: cover;
-    /* height: 47vh; */
     padding: 2vw 3vw;
-    margin-top: 2.5vw;
 }
-
 #designSolutions section{
-    width: 98%;
-    display: flex;
-    flex-direction: column;
-    margin-top: 1vw;
-    margin-bottom: 1vw;
+    margin: 1vw 0;
 }
-
 #designSolutions h1, #designSolutions p{
     background-color: rgb(0 2 31 / 0.65);
 }
-
 #designSolutions div{
     width: 90%;
-    /* margin-bottom: 1vw; */
 }
-
 #designSolutions div section{
     width: 48%;
     display: flex;
     flex-direction: column;
 }
-
 #designSolutions div section h1{
     font-size: 2.25vw;
 }
-
 #designSolutions section h1{
     font-size: 2.75vw;
     margin-bottom: .8vw;
     padding: .25vw 1vw;
     width: fit-content;
 }
-
 #designSolutions section p{
     font-size: 1.25vw;
-    font-weight: 500;
-    text-align: left;
     padding: 0.55vw 1vw;
-    width: fit-content;
+    color: whitesmoke;
 }
-
 #reDesign {
     width: 66%;
-    margin: 2vw auto;
     background: linear-gradient(to bottom right, rgb(243 243 243 / 14%) 25%, rgb(243 243 243) 50%, rgb(172 178 193 / 28%) 55%);
     box-shadow: #cacaca 0.2vw 0.2vw 0.3vw;
     padding: 1vw 3vw;
@@ -375,30 +169,15 @@
     font-size: 2vw;
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff0 65%, rgb(230 232 236) 30%);
-    margin-top: 1vw;
     display: inline;
 }
 #reDesign p{
-    font-size: 1.45vw;
-    width: 100%;
-    margin: auto;
-    line-height: 100%;
-    color: #272727;
-    margin-top: 1.5vw;
-    margin-bottom: 2vw;
-    font-weight: 500;
-    line-height: 95%;
+    margin: 1.5vw 0;
 }
 #reDesign .button{
     display: block;
-    text-shadow: none;
-    text-align: center;
     margin: auto;
-    background-color: #e4e4e4d6;
-    font-size: 1.25vw;
     font-weight: 600;
-    padding: .75vw;
-    border: none;
     border-radius: 0.2vw;
     border-bottom: .15vw solid rgba(89, 100, 123, .65);
     color: rgba(0, 0, 0, 0.76);
@@ -406,66 +185,58 @@
     width: fit-content;
     padding: .5vw;
 }
-
 #atlantaDesign{
     background-image: url(/images/bg/atlanta-web-designer-services.svg);
     background-size: cover;
     background-repeat: no-repeat;
     display: block;
     padding: 3vw 7vw;
+    color: #EEEEEE;
 }
-
 #atlantaDesign h1{
     font-size: 3vw;
     width: 70%;
-    /* line-height: 5.5vw; */
-    /* padding: 1vw; */
     align-self: start;
     margin-top: 1vw;
     background-color: #222C3C;
-    color: #EEEEEE;
     display: inline;
-    /* width: fit-content; */
-    /* padding: 1vw; */
-    /* border: black solid 2vw; */
     box-shadow: #59647b 0vw 0.1vw;
     background: linear-gradient(#fff0 70.1%, #222C3C -9%);
     text-shadow: 0.2vw 0.2vw #222c3c99;
-    /* margin-bottom: 14vw; */
 }
 #atlantaDesign p{
     font-size: 1.5vw;
     padding: .5vw 1vw;
-    /* padding-top: 1vw; */
-    /* background: linear-gradient(to bottom right, rgb(0 14 37 / .65) 15%, rgb(58 63 74 / .63) 55%); */
-    color: #EEEEEE;
+    color: inherit;
 }
 #atlantaDesign button{
     margin: auto;
     display: block;
-    font-size: 1.45vw;
     padding: 0.5vw;
-    background-color: #E4E4E4;
     border: none;
     border-radius: 0.4vw;
     margin-top: 3vw;
-    /* margin-bottom: 3vw; */
-    color: rgb(0 0 0 / 0.75);
     box-shadow: 0.2vw 0.2vw #59647B;
 }
 #atlantaDesign button a{
     color: rgb(0 0 0 / 0.75);
     font-weight: 600;
 }
-
 #atlantaDesign div{
     background: linear-gradient(to bottom right, rgb(0 14 37 / .65) 5%, rgb(58 63 74 / .63) 92%);
     margin-top: 3vw;
+}
+#hosting p{
+    width: 90%;
 }
 
 @media only screen and (max-width: 800px) {
     #atlantaDesign button a {
         font-size: 3.25vw;
+    }
+    #hosting p{
+        font-size: 2.95vw;
+        margin-bottom: 3vw;
     }
     #atlantaDesign br{
         display: none;
@@ -474,30 +245,22 @@
         display: initial;
     }
     #atlantaDesign{
-        
-padding: 3vw;
+        padding: 3vw;
     }
-    
     #atlantaDesign h1{
-    
-font-size: 7vw;
-    
-/* margin-bottom: 3vw; */
+        font-size: 7vw;
     }
     #atlantaDesign p{
-    
-font-size: 3.7vw;
-    
-padding: 1.75vw;
+        font-size: 3.7vw;
+        padding: 1.75vw;
     }
-
     #ecommerce p{
         line-height: 100%;
         color: #566673;
         font-weight: 500;
     }
     #ecommerce {
-        padding: 12vw 6vw;
+        padding: 3vw 6vw;
         margin-bottom:2vw;
     }
     #ecommerce div{
@@ -509,75 +272,24 @@ padding: 1.75vw;
         border-radius: 1vw;   
         background: #a9a9a91c;
     }
-
     #ecommerce .button {
         font-size: 3.2vw;
         padding: 1%;
         margin-top: 5%;
     }
-
-    #serviceTiles section {
-        width: 47%;
-        padding: .75%;
-    }
-
-    mobileHeader {
-        position: unset;
-    }
-    
     #sectionHeader{
         font-size: 6.5vw;
         margin: 5% 0px 4% 0%;
     }
-    
-    .bigOlText {
-        font-size: 14vw;
-        font-size: 14vw !important;
-        padding-bottom: 18vw;
-        padding-top: 12vw;
-        background-size: 175%;
-    }
-
-    .bigOlText span {
-        font-size: 6.5vw;
-    }
-
-    .bigOlText img {
-        width: 100%;
-        height: 100%;
-    }
-
-    #serviceTiles h1{
-        font-size: 5vw;
-    }
-
-    #serviceTiles div{
-        width: 45%;
-        margin-bottom: 5vw;
-    }
-
-    #serviceTiles p{
-        font-size: 3.5vw;
-        font-weight: 500;
-        /* padding-bottom: 2vw; */
-        text-align: left;
-        width: 95%;
-        margin: auto;
-    }
-
     .secondBigText{
         padding: 11vw;
         padding-top: 5vw;
         padding-right: 4vw !important;
         padding-left: 3vw !important;
-        /* height: 28vw; */
-        /* padding-bottom: 7vw; */
     }
-
     .secondBigText h1{
         font-size: 6.75vw;
     }
-
     #hosting img {
         width: 40vw;
         margin-right: 1vw;
@@ -602,9 +314,6 @@ padding: 1.75vw;
         font-size: 3.65vw;
         padding: 0;
     }
-
-
-
     .options h1 {
         font-size: 7vw;
         text-align: center;
@@ -617,13 +326,10 @@ padding: 1.75vw;
         text-align: justify;
         line-height: 4.5vw;
     }
-
-
     .sectionHeader {
         font-size: 6.25vw;
         padding: 0 .5vw;
     }
-
     #columbusGaWebDesign p {
         width: 98%;
         font-size: 3.6vw;
@@ -631,19 +337,16 @@ padding: 1.75vw;
         margin: 2vw 0;
         text-align: justify;
     }
-    
     #columbusGaWebDesign h1{
         font-size: 5.25vw;
         margin-top: 0vw;
     }
-    
     #columbusGaWebDesign h2{
         font-size: 3.5vw;
         font-weight: 500;
         font-style: italic;
         margin-bottom: 2vw;
     }
-
     #columbusGaWebDesign h2 {
         font-size: 4.3vw;
         font-weight: 600;
@@ -651,52 +354,45 @@ padding: 1.75vw;
         margin-bottom: 0vw;
         color: dimgrey;
     }
-
     #columbusGaWebDesign br{
         display: initial;
     }
-
     #pricing_section{
         flex-direction: column;
     }
-
-    #pricing_section section{
+    #pricing_section article{
         width: 95%;
         margin-bottom: 5vw;
         background: #cfdce34f;
         box-shadow: #0000008a 0.2vw 0.2vw 0.5vw 0vw;
         border-radius: 1%;
     }
-    
-    #pricing_section section h1{
+    #pricing_section article h1{
         font-size: 5vw;
         line-height: normal;
         background: none;
     }
-
-    #pricing_section section div h2{
+    #pricing_section article div h2{
         font-size: 3.5vw;
         line-height: 100%;
         margin-bottom: 2vw;
         font-weight: 500;
+        text-align: left;
     }
-
-    #pricing_section section li {
+    #pricing_section article li {
         font-size: 3.5vw;
         line-height: 100%;
         margin-bottom: 2vw;
     }
-
     #pricing_section .button{
-        font-size: 5vw;
+        font-size: 3.5vw;
         margin-bottom: 1vw;
         margin-top: 3vw;
     }
-
     #columbusGaWebDesign {
         margin-bottom: 2vw;
     }
-    #pricing_section section div{
+    #pricing_section article div{
         background: none;
         margin-top: 2.75vw;
     }
@@ -706,46 +402,39 @@ padding: 1.75vw;
         width: 85%;
         margin: auto;
     }
-
     #designSolutions{
         padding: 4vw 0;
     }
-
     #designSolutions div section{
         width: 97%;
         padding-left: 2%;
         border-left: #03063dd4 solid medium;
     }
-
     #designSolutions div{
         flex-direction: column;
         width: 97%;
     }
-
     #designSolutions div section h1 {
-        font-size: 7vw;
-        max-width: 65%;
+        font-size: 5.5vw;
+        max-width: 78%;
         padding: 2vw;
         line-height: 97%;
     }
-
     #designSolutions div section p {
         font-size: 3.75vw;
         line-height: 115%;
     }
-
     #designSolutions section h1 {
-        font-size: 7.5vw;
+        font-size: 6.3vw;
         max-width: 85%;
         padding-left: 2vw;
     }
-
     #designSolutions section p {
         font-size: 4.5vw;
         padding: 2vw;
         line-height: 115%;
+        text-align: left;
     }
-
     #reDesign {
         width: 95%;
         padding: 1vw 1vw;
@@ -763,10 +452,7 @@ padding: 1.75vw;
         margin-bottom: 2.25vw;
     }
     #reDesign .button{
-        
-font-size: 3.5vw;
-        
-padding: 1.25vw;
+        font-size: 3.5vw;
+        padding: 1.25vw;
     }
-
 }

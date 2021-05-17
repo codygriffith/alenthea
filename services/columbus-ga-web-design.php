@@ -17,8 +17,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/services/style/style.css" rel="stylesheet" type="text/css">
-<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
-<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
+<link href="/services/style/webDesign.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <title>Web Design - Columbus, GA | Alenthea Website Development</title>
@@ -63,27 +62,27 @@
 </head>
 <body>
     <?php include "../sections/header.php";?>
-	<h1 class="flex column bigOlText">
+	<h1 class="flex column serviceBanner">
             <!-- <span>Columbus, Ga</span> -->
             Website Design
     </h1>
-    <h2 class="littleOlText">Give your business the website it deserves. Whether you need a few updates, a massive re-design, or you're starting completely from scratch, Alenthea is here 
+    <h2 class="serviceBannerText font125">Give your business the website it deserves. Whether you need a few updates, a massive re-design, or you're starting completely from scratch, Alenthea is here 
 		to serve. <br> <br> Out-class and out-rank your competition with a highly effective, completely custom website design. All of our sites are designed to be ADA compliant, mobile friendly, 
 		and with SEO in mind. Discover how we can put you above the competition.</h2>
 	
 	<section class="full flex center column" id="columbusGaWebDesign">
 		<h1 class="flex column center sectionHeader">Columbus, Ga Web Design</h1>
 		<div class="full flex center column">
-		<h2>Designed by Experts - Built by Professionals</h2>
-		<p class="font-two">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
-				by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
-		</p>
-	</div>
+			<h2 class="font165">Designed by Experts - Built by Professionals</h2>
+			<p class="font125">We strive to be the best Website Design & Development agency located in the Columbus, GA and Ft. Benning area
+					by combining the right tools with the right level of expertise to build a website that meets all of your business's needs.
+			</p>
+		</div>
 	</section>
 
 	<div class="flex center row" id="pricing_section">
 			<article>
-				<h1>Get A Professional Website<br>
+				<h1 class="font165">Get A Professional Website<br>
 					 @ A Sensible Budget</h1>
 					 <hr>
 				<div>
@@ -97,7 +96,7 @@
 				</div>
 			</article>
 			<article>
-				<h1>Need A More Custom<br>
+				<h1 class="font165">Need A More Custom<br>
 					 Solution?</h1>
 					 <hr>
 				<div>
@@ -114,7 +113,7 @@
 			</article>
 	</div>
 
-	<section class="flex center" id="designSolutions">
+	<section class="flex center wrap" id="designSolutions">
 		<section>
 			<h1>Alenthea's Web Design Solutions</h1>
 			<p>We specialize in building web solutions that maximize your digital effectiveness. Take control of how to world views your business with the Website Development Experts at Alenthea.</p>
@@ -145,37 +144,37 @@
 	</section>
 	<section id="reDesign">
 		<h1>Website Re-Design service starting at only <br> $100 per page.*</h1>
-		<p>Just like employees need to be trained, your website will 
+		<p class="font15">Just like employees need to be trained, your website will 
 			need to be updated; After all, your website is basically your 
 			24/7 salesman. Take a look at our website re-design packages now.</p>
-		<a class="button" href="/pages/contact">Get A Free Quote</a>
+		<a class="button font125" href="/pages/contact">Get A Free Quote</a>
 	</section>	
 	<section id="atlantaDesign" class="flex center column">
-		<h1>Now serving Metro Atlanta <br>& the North Georgia<br> area.</h1>
+		<h1 class="font3">Now serving Metro Atlanta <br>& the North Georgia<br> area.</h1>
 		
-		<div>
+		<div class="font15">
 			<p>We understand what it takes to stand out and excel in such large and diverse markets like Atlanta.</p>
 			<p>Alenthea comes prepared to handle all of your unique needs and challenges when it comes to Web Design and Development in Atlanta, Georgia.</p>
 		</div>
-		<button><a href="/services/atlanta-web-designer">See How We Excel in Atlanta Web Design</a></button>
+		<button><a href="/services/atlanta-web-designer" class="font145">See How We Excel in Atlanta Web Design</a></button>
 	</section>
 	<article class="flex center column" id="hosting">
 	<div class="flex row center">
 		<img src="/images/server.jpg" alt="Hosting Illustration">
 		
 		<div class="flex center column">
-			<h1>HOSTING</h1>
-			<h2>Low to No Cost</h2>
+			<h1 class="font5">HOSTING</h1>
+			<h2 class="font25">Low to No Cost</h2>
 		</div>
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
-			<a class="button disabled">Click Here For Hosting Solutions</a>
+			<a class="button disabled font15">Find Hosting Solutions</a>
 	</article>
 	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
-			<h1>E-Commerce</h1>
-			<p>Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
-			<a class="button" href="/services/ecommerce">Click Here For Better Conversions</a>
+			<h1 class="font35">E-Commerce</h1>
+			<p class="font125 linheight120">Take your business online and market your products across the most popular platforms and maximize your profits through exposure to a to a global market.</p>
+			<a class="button font15" href="/services/ecommerce">Click Here For Better Conversions</a>
 		</div>
 	</article>
 	<?php include "../sections/contact.php";?>

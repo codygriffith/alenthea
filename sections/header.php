@@ -23,16 +23,8 @@
 						</ul>
 					</li>
 					<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
+					<li><a href="/services/branding">Branding</a></li>
 					<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
-					<!-- <li>Services
-						<ul>
-							<li><a href="/services/columbus-ga-web-design">Website Design</a></li>
-							<li><a href="/services/columbus-ga-seo">S.E.O.</a></li>
-							<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
-							<li><a href="/services/branding">Logos & Branding</a></li>
-							<li><a href="/services/ecommerce">E-Commerce</a></li>
-						</ul>
-					</li> -->
 					<li><a href="/pages/blog">Blog</a></li>
 					<li><a id="headerContact" href="/pages/contact">Contact</a></li>
 				</ul>
@@ -43,48 +35,7 @@
 	</div>
 </header>
 
-
-
-
-
 <header>
-	<!-- <div>
-		<ul class="desktop flex row center dark white-text" id="social_links">
-			<li><a href=""><img src="/images/icons/social_media/facebook.svg" alt="ff"></a></li>
-			<li><a href=""><img src="/images/icons/social_media/twitter.svg" alt="ff"></a></li>
-			<li><a href=""><img src="/images/icons/social_media/instagram.svg" alt="ff"></a></li>
-		</ul>	
-	<ul class="desktop flex row dark white-text space-evenly">
-	<li>
-		<a href="/" id="companyLogo">
-			<img src="/images/alentheaFullLogo_light.svg" alt="Alenthea Logo">
-		</a>
-	</li>
-	<li>
-		<a>Services</a>
-		<ul>
-			<li>
-				<a href="/services/columbus-ga-web-design">Website Design</a>
-			</li>
-			<li>
-				<a href="/services/digital-marketing-columbus-ga">Digital Marketing</a>
-			</li>
-			<li>
-				<a href="/services/branding">Logos & Branding</a>
-			</li>
-			<li>
-				<a href="/services/ecommerce">E-Commerce</a>
-			</li>
-		</ul>
-	</li>
-	<li>
-		<a href="/pages/blog">Our Blog</a>
-	</li>
-	<li>
-		<a id="headerContact" href="/pages/contact">Contact Us</a>
-	</li>
-</ul>
-</div> -->
 	<div class="mobile flex column dark white-text">
 		<div onclick="myFunction()" id="toggleBar" class="row flex space-between full">
 			<a href="/" id="mobileCompanyLogo">
@@ -102,22 +53,6 @@
 		</ul>
 </ul>
 </header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <script>
 function myFunction() {

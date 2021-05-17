@@ -1,59 +1,32 @@
-.disabled{
-    display: none;
+.serviceBanner {
+    font-size: 6vw;
+    line-height: 90%;
+    width: auto;
+    text-align: center;
+    margin: 0;
+    padding: 3vw 4vw 8vw 4vw;
+    background-image: url(/images/starsBackground.jpg);
+    color: whitesmoke;
 }
 
-.bigOlText{
-    padding: 5vw 2vw 10vw 2vw;
+.serviceBannerText {
+    color: rgb(70, 72, 75);
+    width: 75%;
+    margin: auto;
+    margin-top: -4vw;
+    background-color: #ecf3ff;
+    padding: .75%;
+    box-shadow: rgba(0, 0, 0, 0.38) 0.1vw 0.1vw 0.5vw;
 }
-
-#featuredProducts {
-    margin-top: -5.6vw;
-}
-
-
-#featuredProducts article:nth-child(1){
-    background-color: rgb(255 255 174);
-    padding-top: 8vw;
-}
-#featuredProducts article:nth-child(2){
-    background-color: #66FF78;
-    padding-top: 2vw;
-}
-#featuredProducts article:nth-child(3){
-    background-color: #668EFF;
-    padding-top: 2vw;
-
-}
-#featuredProducts article:nth-child(4){
-    background-color: #D966FF;
-    padding-top: 2vw;
-
-}
-
-
-#featuredProducts article div{
-    width: 100%;
- }
-
-#featuredProducts article h1 {
-    font-size: 4vw;
-}
-
-#featuredProducts article p {
-    width: 80%;
-    font-size: 2.1vw;
-    margin-top: 2vw;
-}
-
-#featuredProducts article a {
-    font-size: 2.1vw;
-    margin: 1vw 0 3vw 0;
-}
-
-#featuredProducts article h1 span:nth-of-type(2){
-    margin-left: 6vw;
-}
-
-label{
-    display: none;
+@media only screen and (max-width: 800px) {
+    .serviceBanner {
+        font-size: 11vw;
+        padding-bottom: 10vw;
+        padding-top: 26vw;
+        background-size: 175%;
+    }
+    .serviceBannerText{
+        font-size: 3vw;
+        width: 90%;
+    }
 }

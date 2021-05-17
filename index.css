@@ -210,42 +210,11 @@ form {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 }
-
-#ourWork img{
-	width: 100%;
-}
-
-#ourWork h1{
-	font-size: 2.75vw;
-	margin-top: 1vw;
-	margin-bottom: 2vw;
-}
-
-#ourWork section {
-	width: 27%;
-	margin: auto;
-	display: block;
-}
-
-#ourWork section h1{
-	font-size: 2.2vw;
-	text-align: left;
-	width: 100%;
-	margin-bottom: .2vw;
-}
-
-#ourWork section h2{
-	text-align: left;
-	width: 100%;
-	font-size: 1.75vw;
-}
-
 #services{
 	position: absolute;
 	top: 42vw;
 	width: 100%;
 }
-
 #webManagement{
 	width: 96%;
 	margin: auto;
@@ -253,18 +222,15 @@ form {
 	padding: 0.5vw;
 	margin-top: 2vw;
 }
-
 #webManagement h1{
 	font-size: 2vw;
 }
-
 #webManagement h2{
 	font-size: 1.3vw;
 	font-style: italic;
 	font-weight: 300;
 	padding-top: 0.5vw;
 }
-
 #webManagement h3{
 	font-size: 1.25vw;
 	width: 65%;
@@ -272,47 +238,39 @@ form {
 	margin: 0vw 0 1.5vw 0;
 	font-weight: 500;
 }
-
 #webManagement hr{
 	width: 96%;
 	margin: 1vw;
 	border: #a5a5a575 solid 0.01vw !important;
 }
-
 #webManagement section section{
 	width: 30%;
 	background-color: #E6E9F6;
 	margin: 1vw .5vw;
 }
-
 #webManagement section section h1{
 	font-size: 1.75vw;
 	font-weight: 400;
 	padding: 1vw;
 }
-
 #webManagement section section p{
 	width: 95%;
 	margin: auto;
 	font-size: 1vw;
 	text-align: center;
 }
-
 .price{
 	margin-left: -1vw;
 	margin-right: 1.5vw;
 }
-
 .moneySymbol{
 	font-size: 1.75vw;
 	align-self: start;
 	width: initial !important;
 }
-
 .serviceCost{
 	font-size: 3vw;
 }
-
 .eachMonth{
 	font-size: 0.75vw;
 	text-align: center;
@@ -321,104 +279,82 @@ form {
 	margin-top: -.25vw;
 	width: initial !important;
 }
-
-#webManagement section section ul{
+#webManagement section article ul{
 	width: 98%;
 	margin: auto;
 	margin-bottom: 1vw;
 }
-
-#webManagement section section ul li{
+#webManagement section article ul li{
 	list-style: none;
 	font-size: 1.15vw;
 	margin: .5vw 0 .75vw 0;
 }
-
-#middleManagement{
-	width: 33% !important;
-}
-
 #middleManagement h1{
 	font-size: 1.8vw !important;
 	width: 85%;
 	text-align: center;
 	padding: 0 !important;
 }
-
 #middleManagement p{
 	font-size: 1.2vw !important;
 }
-
 #middleManagement .moneySymbol{
 	font-size: 2vw;
 }
-
 #middleManagement .serviceCost{
 	font-size: 3.75vw;
 }
-
 #middleManagement .eachMonth{
 	font-size: .90vw;
 }
-
 #middleManagement li{
 	font-size: 1.25vw !important;
 }
-
 .managementHalf{
 	width: 90%;
 }
-
 .pricingCont{
 	margin-top: 1vw;
 }
-
 #webManagement button{
 	font-size: 1.15vw;
 }
-
 @media only screen and (max-width: 800px) {
 	#webDesign {
 		background: linear-gradient(-112deg, #eaea97 0, rgb(172 178 193 / 0%) 84%);
 		color: black;
 	}
-
+	#middleManagement{
+		width: 100%;
+	}
 	#ecommerce {
 		background: linear-gradient(111deg, #66FF94 0, rgb(172 178 193 / 0%) 70%);
 		color: black;
 	}
-
 	#onlineMarketing {
 		background: linear-gradient(-112deg, #DFA4FF 0, rgb(172 178 193 / 0%) 79%);
 		color: black;
 	}
-
 	#logosBranding {
 		background: linear-gradient(117deg, #95C8F4 0, rgb(172 178 193 / 0%) 62%);
 		color: black;
 	}
-
 	#ecommerce .container, #logosBranding .container { 
 		flex-direction: row-reverse;
 	}
-
 	.container {
 		background: #ffffffe8;
 	}
-
 	#services {
 		margin-top: 0;
 		
 	}
-
 	#heroImage{
 		height: 83vh;
 	}
-
 	#heroImage img {
 		width: 60%;
 	}
-
 	.homepage-pitch{
 		font-size: 4.75vw;
 		padding: 2% 4.3%;
@@ -427,7 +363,6 @@ form {
 		width: fit-content;
 		font-weight: 600;
 	}
-
 	.serviceTile{
 		width: 100%;
 		display: -webkit-box;
@@ -439,13 +374,11 @@ form {
 		flex-direction: row;
 		padding: 3% 1.5%;
 	}
-
 	.serviceIconContainer img{
 		width: 20vw;
 		opacity: .9;
 	}
-	
-	.serviceTileContent{
+		.serviceTileContent{
 		width: 100%;
 		background-color: unset !important;
 	}
@@ -455,14 +388,12 @@ form {
 		margin-right: 2%;
 		box-shadow: none;
 	}
-
 	.serviceTileContent h1{
 		font-size: 7vw;
 		font-weight: 700;
 		color: #1b1b1b;
 		opacity: .9;
 	}
-
 	.serviceTileContent p{
 		text-align: end !important;
 		opacity: .85;
@@ -470,13 +401,11 @@ form {
 		font-size: 4.2vw;
 		line-height: 6vw;
 	}
-
 	.serviceTileContent a{
 		font-size: 4.25vw;
 		margin-top: 1vw;
 		margin-left: vw;
 	}
-
 	#webDesign *, #onlineMarketing *{
 		text-align: end;
 		-webkit-box-align: end;
@@ -484,12 +413,9 @@ form {
 		align-items: flex-end;
 		align-items: center;
 	}
-
-
 	#webDesign .serviceTileContent, #onlineMarketing .serviceTileContent{
 		align-items: flex-end;
 	}
-
 	#ecommerce, #logosBranding{
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: reverse;
@@ -499,7 +425,6 @@ form {
 		    -ms-flex-pack: justify;
 		        justify-content: space-between;
 	}
-
 	#ecommerce *, #logosBranding *{
 		text-align: start !important;
 		-webkit-box-align: start;
@@ -507,18 +432,15 @@ form {
 				align-items: flex-start;
 		
 	}
-
 	#webDesign p, #onlineMarketing p{
 		width: 100%;
 	}
-
 	.serviceTileContent p{
 		text-align: end;
 		line-height: 6vw;
 		opacity: .85;
 		line-height: 4vw;
 	}
-
 	#missionBanner h1{
 		font-size: 4.25vw;
 		padding: 0 2%;
@@ -530,7 +452,6 @@ form {
 	#goals{
 		background-size: 180%;
 	}
-
 	#goals div{
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
@@ -540,7 +461,6 @@ form {
 		    -ms-flex-align: unset;
 		        align-items: unset;
 	}
-
 	#goals h2{
 		font-size: 6.5vw;
 		background: -webkit-gradient(linear, left top, left bottom, color-stop(65%, #fff0), color-stop(30%, #ab85763b));
@@ -566,11 +486,9 @@ form {
 		-ms-flex-item-align: end;
 		    align-self: flex-end;
 	}
-
 	.text-highlight{
 		font-size: 4vw;
 	}
-
 	#ourWork div {
 		-ms-flex-wrap: wrap;
 		    flex-wrap: wrap;
@@ -579,7 +497,6 @@ form {
 	#ourWork h1{
 		font-size: 4vw;
 	}
-
 	#ourWork section h1{
 		font-size: 3.5vw;
 	}
@@ -590,7 +507,6 @@ form {
 	#ourWork section{
 		width: 44%;
 	}
-
 	#openingPitch {
 		background-size: 171%;
 		padding-top: 2vw;
@@ -621,10 +537,12 @@ form {
 		position: unset;
 		top: unset;
 	}
-	
-	#webManagement section section h1 {
+	#webManagement section{
+		flex-direction: column;
+	}
+	#webManagement section article h1 {
 		font-size: 7.25vw !important;
-		text-align: left;
+		text-align: center;
 		width: 99%;
 		align-self: start;
 		line-height: 109%;
@@ -632,83 +550,73 @@ form {
 		font-weight: 500;
 		margin-bottom: 1vw;
 	}
-
-	#webManagement section section p {
+	#webManagement section article p {
 		font-size: 4.4vw !important;
 		text-align: left;
 		padding-top: 2vw;
 		font-weight: 500;
 		line-height: 120%;
 	}
-
-	#webManagement section section ul {
+	#webManagement section article ul {
 		width: 95%;
 		margin: auto;
+		text-align: left;
 	}
-
 	.managementHalf{
 		width: 100%;
 	}
-	#webManagement section section ul li {
+	#webManagement section article ul li {
 		font-size: 4.4vw !important;
 		line-height: 100%;
 		margin-bottom: 1.5vw;
 		font-weight: 400;
 	}
-
 	.serviceCost {
 		font-size: 10.8vw !important;
 	}
 
 	#webManagement h1 {
-		font-size: 6vw;
+		font-size: 5vw;
 		width: 100%;
 		text-align: center;
 		margin-top: 2.5vw;
 	}
-
 	#webManagement h3 {
 		font-size: 3.5vw;
 		width: 93%;
 		text-align: left;
 		margin-bottom: 5vw;
+		text-align: justify;
 	}
-
 	#webManagement h2 {
-		font-size: 5vw;
+		font-size: 4.3vw;
 		padding: 1vw;
+		width: 65%;
 	}
-
-	#webManagement section{
+	#webManagement article{
 		flex-direction: column;
 		width: 98%;
 	}
-
-	#webManagement section section {
+	#webManagement section article {
 		width: 100% !important;
 		margin: 2vw 0;
-		border-left: solid grey thin;
-		border-bottom: solid grey thin;
+		/* border-left: solid grey thin; */
+		/* border-bottom: solid grey thin; */
 	}
-
 	.price{
 		line-height: 1;
 	}
-
 	#webManagement div {
 		align-self: flex-start;
 	}
-
 	#webManagement hr {
 		width: 94%;
 		margin-top: 1vw;
 		align-self: start;
 	}
-
 	#missionBanner {
 		margin: 6vw 0;
 	}
-
 	.pricingCont{
 		display: flex;
 		align-self: flex-end;
@@ -728,9 +636,7 @@ form {
 		font-size: 3vw !important;
 		margin-bottom: 2vw;
 	}
-
 	.moneySymbol {
 		font-size: 5.75vw;
 	}
-	
-  }
+}

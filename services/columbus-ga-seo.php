@@ -17,8 +17,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/services/style/style.css" rel="stylesheet" type="text/css">
-<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
-<link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
+<link href="/services/style/webDesign.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <title>S.E.O. Columbus, GA | Alenthea Search Engine Optimization</title>
@@ -55,13 +54,11 @@
 </head>
 <body>
     <?php include "../sections/header.php";?>
-	<h1 class="flex column bigOlText">
+	<h1 class="flex column serviceBanner">
 		Search Engine Optimization
     </h1>
-    <h2 class="littleOlText">Bring more organic traffic to your website and out-rank the competition with our professional SEO services for Columbus, Ga.</h2>
+    <h2 class="serviceBannerText font125">Bring more organic traffic to your website and out-rank the competition with our professional SEO services for Columbus, Ga.</h2>
 	
-	
-
 	<section class="full flex center column" id="columbusGaWebDesign">
 		<h1 class="flex column center sectionHeader">Expert SEO In Columbus, Ga.</h1>
 		<div class="full flex center column">
@@ -72,40 +69,6 @@
 		</p>
 	</div>
 	</section>
-
-	<!-- <section class="flex center row" id="pricing_section">
-			<section>
-				<h1>Get A Professional Website<br>
-					 @ A Sensible Budget</h1>
-					 <hr>
-				<div>
-					<H2>Get started today for as low as $500 for a Basic WordPress Website and spread your message across the internet.</H2>
-					<ul>
-						<li>Great for small businesses that require a minimal web presence.</li>
-						<li>Start small but keep your ability to scale up in the future.</li>
-						<li>Fit any budget; Big or Small.</li>
-					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
-				</div>
-			</section>
-			<section>
-				<h1>Need A More Custom<br>
-					 Solution?</h1>
-					 <hr>
-				<div>
-					<H2>Stand out from the rest with an end-all Web Solution for your Business. 
-						Our Custom Websites begin at just $2000 and are guaranteed to efficiently 
-						match your budget with our performance.</H2>
-					<ul>
-						<li>For larger operations with more robust requirements.</li>
-						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
-						<li>Built in On-Page S.E.O. and Mobile Optimization.</li>
-					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
-				</div>
-			</section>
-	</section> -->
-
 
 	<section class="flex center" id="designSolutions">
 		<section>
@@ -135,52 +98,14 @@
 		</section>
 	</div>
 	</section>
+
 	<section id="reDesign">
 		<h1>Start with an SEO audit of your website for <br> just $199.*</h1>
 		<p>Discover what is working for your business, what could be hurting you, 
 		   and where we believe your current SEO could see some improvements.</p>
 		<a class="button" href="/pages/contact">Request An SEO Audit</a>
 	</section>	
-    <!-- <section>
-	    <div class="flex column bigOlText secondBigText">
-		    <h1>Latest Technologies;</h1>
-		    <h1>Highest Standards.</h1>
-	    </div>
-        <p class="littleOlText">Our websites work exceptionally well to deliver an intuitive and encapsulating experience for both your audience and yourself alike.</p>
-    </section> -->
-	<!-- <section class="full column flex center">
-		<h1 class="flex column center sectionHeader">Loaded with features:</h1>
-		<div class="flex row wrap center" id="serviceTiles">
-			<section>
-				<h1>Mobile Ready</h1>
-				<p>All of our websites are built responsive and with all devices in mind.</p>
-			</section>
-			<section>
-				<h1>Dynamic Content</h1>
-				<p>Dynamic websites are faster, more secure, and deliver fresh content.</p>
-			</section>
-			<section>
-				<h1>Domain Email</h1>
-				<p>Impress your clients with your own custom business email address.</p>
-			</section>
-			<section>
-				<h1>Intelligent S.E.O.</h1>
-				<p>Place your content in front of the right people when they need you most.</p>
-			</section>
-		</div>
-	</section> -->
-	<!-- <section class="flex center column" id="hosting">
-	<div class="flex row center">
-		<img src="/images/server.jpg" alt="Hosting Illustration">
-		
-		<div class="flex center column">
-			<h1>HOSTING</h1>
-			<h2>Low to No Cost</h2>
-		</div>
-		</div>
-		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
-			<a class="button disabled">Click Here For Hosting Solutions</a>
-	</section> -->
+
 	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">
 			<h1>E-Commerce</h1>

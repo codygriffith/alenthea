@@ -16,8 +16,9 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
 	<link href="/style.css" rel="stylesheet" type="text/css">
+	<link href="/services/style/style.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
-	<link href="/pages/style/marketing.css" rel="stylesheet" type="text/css">
+	<link href="/services/style/digitalMarketing.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<title>Internet & Digital Marketing Agency in Columbus, Ga</title>
@@ -53,15 +54,12 @@
 </head>
 <body>
 	<?php include "../sections/header.php";?>
-	<h1 class="flex column bigOlText">
+	<h1 class="flex column serviceBanner">
 		<img src="/images/digitalMarketing.svg" alt="Internet Marketing and Digital Marketing in Columbus, Georgia.">
 	</h1>
-    
-	
 	<section>
-		<h3 class="littleOlText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
+		<h3 class="serviceBannerText">Make yourself accessible to your potential buyers and generate organic user engagement with Digital Marketing.</h3>
 	</section>
-
 
 	<div class="openingPoints flex row space-around">
 	<div id="pageOpener">
@@ -76,14 +74,10 @@
 			
 			<p>Be everywhere your customers are. The better they think they know you, the more confident they will feel they are making the expert choice. Reward your followers with special discounts and offers to grow a dedicated and active following.</p>
 		</div>
-		
 	</div>
-
-
 
 	<section class="full flex center column">
 		<h1 class="flex column center sectionHeader">Our Specialties:</h4>
-	
 		<ul class="flex row center wrap" id="servicesList">
 				<li>E-Commerce</li>
             	<li>Lead Collection</li>

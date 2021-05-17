@@ -32,6 +32,10 @@ ul {
 	margin-top: 2%;
 }
 
+p{
+	color: #1b1b1b;
+}
+
 /* Flex */
 .flex {
 	display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
@@ -39,51 +43,42 @@ ul {
 	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
 	display: flex;
 }
-
 .column {
 	flex-direction: column;
 	-webkit-flex-direction: column;
 }
-
 .row {
 	flex-direction: row;
 	-webkit-flex-direction: row;
 }
-
 .row-reverse {
 	flex-direction: row-reverse;
 	-webkit-flex-direction: row-reverse;
 }
-
 .center {
 	justify-content: space-evenly;
 	-webkit-justify-content: space-evenly;
 	align-items: center;
 	-webkit-align-items: center;
+	text-align: center;
 }
-
 .center-left {
 	justify-content: space-evenly;
 	-webkit-justify-content: space-evenly;
 }
-
 .full {
 	width: 100%;
 }
-
 .wrap{
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap;
 }
-
 .space-between {
 	justify-content: space-between;
 }
-
 .space-around {
 	justify-content: space-around;
 }
-
 .space-evenly {
 	justify-content: space-evenly;
 }
@@ -92,17 +87,56 @@ ul {
 .thin-text *{
 	font-weight: 200;
 }
-
 .white-text *{
 	color: white !important;
 }
-
-.font-two {
-	font-size: 2vw;
-}
-
 .centerText {
 	text-align: center;
+}
+.linheight120{
+	line-height: 120%;
+}
+.font125{
+	font-size: 1.25vw;
+}
+.font145{
+	font-size: 1.45vw;
+}
+.font15{
+	font-size: 1.5vw;
+}
+.font165{
+	font-size: 1.65vw;
+}
+.font2 {
+	font-size: 2vw;
+}
+.font225{
+	font-size: 2.25vw;
+}
+.font25{
+	font-size: 2.5vw;
+}
+.font275{
+	font-size: 2.75vw;
+}
+.font3{
+	font-size: 3vw;
+}
+.font325{
+	font-size: 3.25vw;
+}
+.font35{
+	font-size: 3.5vw;
+}
+.font475{
+	font-size: 4.75vw;
+}
+.font5{
+	font-size: 5vw;
+}
+.font6{
+	font-size: 6vw;
 }
 
 /* Color */
@@ -124,6 +158,10 @@ ul {
 
 .mobile {
 	display: none;
+}
+
+body > section, body > article {
+    margin: 2vw auto;
 }
 
 @media screen and (max-width: 800px) {

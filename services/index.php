@@ -17,7 +17,7 @@
 	<link rel="manifest" href="/site.webmanifest">
 	<link href="/style.css" rel="stylesheet" type="text/css">
 	<link href="/pages/style/page.css" rel="stylesheet" type="text/css">
-    <link href="/pages/style/webDesign.css" rel="stylesheet" type="text/css">
+    <link href="/services/style/webDesign.css" rel="stylesheet" type="text/css">
     <link href="/services/style/style.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
