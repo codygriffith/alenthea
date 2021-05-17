@@ -186,12 +186,13 @@
     padding: .5vw;
 }
 #atlantaDesign{
-    background-image: url(/images/bg/atlanta-web-designer-services.svg);
+    background-image: url(/images/bg/atlanta-web-designer-services.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: block;
     padding: 3vw 7vw;
     color: #EEEEEE;
+    text-align: left;
 }
 #atlantaDesign h1{
     font-size: 3vw;
