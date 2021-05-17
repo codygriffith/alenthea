@@ -39,7 +39,13 @@
 #openerTextTwo{
     width: 80vw;
 }
-
+.serviceBanner img{
+    width: 50%;
+    margin: auto;
+}
+.serviceBanner{
+    padding: 3.5vw 4vw;
+}
 @media only screen and (max-width: 800px) {
     .bigOlText{
         padding-bottom: 13vw;
