@@ -140,11 +140,11 @@
         margin: auto;
     }
     #pageOpener{
-        width: 52vw;
+        width: 47vw;
         margin-bottom: 3vw;
     }
     #pageOpener h2{
-        font-size: 4.5vw;
+        font-size: 3.75vw;
     }
     .openingPoints div img{
         margin-top: -8.8vw;
@@ -157,8 +157,8 @@
     }
 
     .openingPoints div {
-        font-size: 3.5vw;
-        width: 40vw;
+        font-size: 3vw;
+        width: 37vw;
         margin-bottom: 3vw;
         height: fit-content;
     }
