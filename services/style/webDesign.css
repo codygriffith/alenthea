@@ -45,9 +45,6 @@
 #columbusGaWebDesign br{
     display: none;
 }
-#hosting>div {
-    padding: 0 8vw;
-}
 #hosting .button {
     background-color: #ECF3FF;
     font-weight: 600;
@@ -65,19 +62,19 @@
     padding: 0.5vw;
     border-radius: 0.2vw;
 }
-#pricing_section article{
+#pricing_section section{
     width: 40%;
     background-color: #e1edf0;
     padding-bottom: 1vw;
 }
-#pricing_section article div{
+#pricing_section section div{
     background: #f4f7fb;
     width: 95%;
     margin: auto;
     padding-top: 0.6vw;
     padding-bottom: 0.8vw;
 }
-#pricing_section article h1{
+#pricing_section section h1{
     text-align: center;
     font-weight: 400;
     background: #cfdce3c7;
@@ -85,20 +82,20 @@
     margin-bottom: 0.7vw;
     min-height: 2vw;
 }
-#pricing_section article h2{
+#pricing_section section h2{
     width: 95%;
     margin: auto;
     margin-bottom: 1vw;
     font-size: 1.25vw;
     font-weight: 500;
 }
-#pricing_section article ul{
+#pricing_section section ul{
     display: block;
     width: 92%;
     margin-left: auto;
     text-align: left;
 }
-#pricing_section article li{
+#pricing_section section li{
     width: fit-content;
     font-size: 1.25vw;
     margin-bottom: 0.3vw;
@@ -236,8 +233,9 @@
         font-size: 3.25vw;
     }
     #hosting p{
-        font-size: 2.95vw;
+        font-size: 3.5vw;
         margin-bottom: 3vw;
+        text-align: left;
     }
     #atlantaDesign br{
         display: none;
@@ -332,11 +330,11 @@
         padding: 0 .5vw;
     }
     #columbusGaWebDesign p {
-        width: 98%;
-        font-size: 3.6vw;
+        width: 94%;
+        font-size: 3.75vw;
         line-height: 110%;
         margin: 2vw 0;
-        text-align: justify;
+        text-align: left;
     }
     #columbusGaWebDesign h1{
         font-size: 5.25vw;
@@ -349,7 +347,7 @@
         margin-bottom: 2vw;
     }
     #columbusGaWebDesign h2 {
-        font-size: 4.3vw;
+        font-size: 4.25vw;
         font-weight: 600;
         font-style: italic;
         margin-bottom: 0vw;
@@ -361,26 +359,26 @@
     #pricing_section{
         flex-direction: column;
     }
-    #pricing_section article{
+    #pricing_section section{
         width: 95%;
         margin-bottom: 5vw;
         background: #cfdce34f;
         box-shadow: #0000008a 0.2vw 0.2vw 0.5vw 0vw;
         border-radius: 1%;
     }
-    #pricing_section article h1{
+    #pricing_section section h1{
         font-size: 5vw;
         line-height: normal;
         background: none;
     }
-    #pricing_section article div h2{
+    #pricing_section section div h2{
         font-size: 3.5vw;
         line-height: 100%;
         margin-bottom: 2vw;
         font-weight: 500;
         text-align: left;
     }
-    #pricing_section article li {
+    #pricing_section section li {
         font-size: 3.5vw;
         line-height: 100%;
         margin-bottom: 2vw;
@@ -390,10 +388,7 @@
         margin-bottom: 1vw;
         margin-top: 3vw;
     }
-    #columbusGaWebDesign {
-        margin-bottom: 2vw;
-    }
-    #pricing_section article div{
+    #pricing_section section div{
         background: none;
         margin-top: 2.75vw;
     }
@@ -437,20 +432,18 @@
         text-align: left;
     }
     #reDesign {
-        width: 95%;
+        width: 90%;
         padding: 1vw 1vw;
     }
     #reDesign br{
         display: none;
     }
     #reDesign h1{
-        font-size: 6vw;
+        font-size: 5.5vw;
     }
     #reDesign p{
-        font-size: 3.7vw;
+        font-size: 3.75vw;
         width: 98%;
-        margin-top: 2.25vw;
-        margin-bottom: 2.25vw;
     }
     #reDesign .button{
         font-size: 3.5vw;

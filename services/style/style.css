@@ -26,7 +26,9 @@
         background-size: 175%;
     }
     .serviceBannerText{
-        font-size: 3vw;
+        font-size: 3.55vw;
         width: 90%;
+        padding: 2.5%;
+        /* font-weight: 600; */
     }
 }

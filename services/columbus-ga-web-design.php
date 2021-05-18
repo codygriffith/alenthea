@@ -55,7 +55,9 @@
   },
   "offers" : {
     "@type" : "Offer",
-    "price" : "1000"
+    "price" : "1000",
+	"priceCurrency" : "USD",
+	"url" : "https://alenthea.com/services/columbus-ga-web-design"
   }
 }
 </script>
@@ -81,7 +83,7 @@
 	</section>
 
 	<div class="flex center row" id="pricing_section">
-			<article>
+			<section>
 				<h1 class="font165">Get A Professional Website<br>
 					 @ A Sensible Budget</h1>
 					 <hr>
@@ -94,8 +96,8 @@
 					</ul>
 					<a class="button" href="/pages/contact">Get Started</a>
 				</div>
-			</article>
-			<article>
+			</section>
+			<section>
 				<h1 class="font165">Need A More Custom<br>
 					 Solution?</h1>
 					 <hr>
@@ -110,7 +112,7 @@
 					</ul>
 					<a class="button" href="/pages/contact">Get Started</a>
 				</div>
-			</article>
+			</section>
 	</div>
 
 	<section class="flex center wrap" id="designSolutions">
