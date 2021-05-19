@@ -541,7 +541,7 @@ form {
 		flex-direction: column;
 	}
 	#webManagement section article h1 {
-		font-size: 7.25vw !important;
+		font-size: 6.25vw !important;
 		text-align: center;
 		width: 99%;
 		align-self: start;
@@ -553,9 +553,11 @@ form {
 	#webManagement section article p {
 		font-size: 4.4vw !important;
 		text-align: left;
-		padding-top: 2vw;
 		font-weight: 500;
 		line-height: 120%;
+		width: auto;
+		display: inline-flex;
+		padding: .5vw 2vw 0 2vw;
 	}
 	#webManagement section article ul {
 		width: 95%;
@@ -575,33 +577,45 @@ form {
 		font-size: 10.8vw !important;
 	}
 
-	#webManagement h1 {
-		font-size: 5vw;
+	#webManagement {
 		width: 100%;
+		/* margin: auto; */
+		background: white;
+		padding: 0;
+		margin-top: 0;
+	}
+
+	#webManagement h1 {
+		font-size: 7.5vw;
+		width: 90%;
 		text-align: center;
 		margin-top: 2.5vw;
+		text-align: left;
 	}
 	#webManagement h3 {
-		font-size: 3.5vw;
-		width: 93%;
+		font-size: 4.5vw;
+		width: 95%;
 		text-align: left;
 		margin-bottom: 5vw;
-		text-align: justify;
 	}
 	#webManagement h2 {
-		font-size: 4.3vw;
+		font-size: 5.3vw;
 		padding: 1vw;
-		width: 65%;
+		width: 90%;
+		text-align: left;
 	}
 	#webManagement article{
 		flex-direction: column;
 		width: 98%;
 	}
 	#webManagement section article {
-		width: 100% !important;
+		width: 93% !important;
 		margin: 2vw 0;
-		/* border-left: solid grey thin; */
-		/* border-bottom: solid grey thin; */
+		border-right: solid #6d758fa6 thin;
+		border-bottom: solid #6d758fa6 thin;
+		box-shadow: #9c9c9c87 0.1vw 0.2vw 0.85vw;
+		padding: 1.5%;
+		background-color: #dfe2ee3d;
 	}
 	.price{
 		line-height: 1;
@@ -633,8 +647,15 @@ form {
 	}
 	.managementHalf button{
 		margin-top: 2vw;
-		font-size: 3vw !important;
+		font-size: 4vw !important;
 		margin-bottom: 2vw;
+		background-color: whitesmoke;
+		border-top: none;
+		border-left: none;
+		padding: 1vw 2vw;
+		border-right: none;
+		box-shadow: grey 0.2vw 0.2vw 0.51vw;
+		border: none;
 	}
 	.moneySymbol {
 		font-size: 5.75vw;
