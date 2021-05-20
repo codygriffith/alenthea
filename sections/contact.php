@@ -1,4 +1,5 @@
 <style>
+/* <?php include 'style/contact.css'; ?> */
 <?php include 'style/contact.css'; ?>
 </style>
 <form method="post" action="/pages/sendForm.php" class="flex column space-between wrap" id="homepageContact">

@@ -26,7 +26,7 @@
 					<li><a href="/services/branding">Branding</a></li>
 					<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
 					<li><a href="/pages/blog">Blog</a></li>
-					<li><a id="headerContact" href="/pages/contact">Contact</a></li>
+					<li><a id="headerContact" href="/contact">Contact</a></li>
 				</ul>
 			</nav>
 			
@@ -49,7 +49,7 @@
 			<li><a class="mobileHeaderLinks" href="/services/ecommerce">E-Commerce</a></li>
 			<li><a class="mobileHeaderLinks" href="/services/branding">Logos & Branding</a></li>
 			<li><a class="mobileHeaderLinks" href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
-			<li><a class="mobileHeaderLinks" href="/pages/contact">Contact Us</a></li>			
+			<li><a class="mobileHeaderLinks" href="/contact">Contact</a></li>			
 		</ul>
 </ul>
 </header>
