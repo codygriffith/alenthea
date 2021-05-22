@@ -451,7 +451,7 @@ form {
 		line-height: 4vw;
 	}
 	#missionBanner h1{
-		font-size: 4.25vw;
+		font-size: 4vw;
 		padding: 0 2%;
 	}
 	#missionBanner br{
@@ -639,7 +639,7 @@ form {
 		align-self: start;
 	}
 	#missionBanner {
-		margin: 6vw 0;
+		margin: 4vw 0;
 	}
 	.pricingCont{
 		display: flex;
