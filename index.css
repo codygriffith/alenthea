@@ -319,7 +319,9 @@ form {
 #webManagement button{
 	font-size: 1.15vw;
 }
-
+#webManagement button a{
+	color: #1b1b1b;
+}
 @media only screen and (max-width: 800px) {
 	#webDesign {
 		background: linear-gradient(-112deg, #eaea97 0, rgb(172 178 193 / 0%) 84%);
