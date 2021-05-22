@@ -218,7 +218,7 @@ form {
 #webManagement{
 	width: 96%;
 	margin: auto;
-	background: #dfe2ee59;
+	background: whitesmoke;
 	padding: 0.5vw;
 	margin-top: 2vw;
 }
@@ -321,6 +321,12 @@ form {
 }
 #webManagement button a{
 	color: #1b1b1b;
+}
+#webManagement article{
+	margin: 0.5vw;
+	background-color: whitesmoke;
+	box-shadow: #c5c5c5 0.15vw 0.15vw 0.4vw, #1919190d 0vw 0vw 0.95vw;
+	padding: 0.5vw;
 }
 @media only screen and (max-width: 800px) {
 	#webDesign {
