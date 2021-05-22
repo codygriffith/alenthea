@@ -94,7 +94,7 @@
 						<li>Start small but keep your ability to scale up in the future.</li>
 						<li>Fit any budget; Big or Small.</li>
 					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
+					<a class="button" href="/contact">Get Started</a>
 				</div>
 			</section>
 			<section>
@@ -110,7 +110,7 @@
 						<li>Enjoy a quick turnaround and a lightning fast response time.</li>
 						<li>Built in On-Page S.E.O. and Mobile Optimization.</li>
 					</ul>
-					<a class="button" href="/pages/contact">Get Started</a>
+					<a class="button" href="/contact">Get Started</a>
 				</div>
 			</section>
 	</div>
@@ -149,7 +149,7 @@
 		<p class="font15">Just like employees need to be trained, your website will 
 			need to be updated; After all, your website is basically your 
 			24/7 salesman. Take a look at our website re-design packages now.</p>
-		<a class="button font125" href="/pages/contact">Get A Free Quote</a>
+		<a class="button font125" href="/contact">Get A Free Quote</a>
 	</section>	
 	<section id="atlantaDesign" class="flex center column">
 		<h1 class="font3">Now serving Metro Atlanta <br>& the North Georgia<br> area.</h1>
@@ -170,7 +170,7 @@
 		</div>
 		</div>
 		<p class="littleOlText secondLittleText">Find the perfect hosting solution for your Website. With scale-able options, you can pay for exactly what you need while allowing room to grow. Let us see how much you could be saving.</p>
-			<a href="/pages/contact" class="button font15">Find Hosting Solutions</a>
+			<a href="/contact" class="button font15">Find Hosting Solutions</a>
 	</article>
 	<article id="ecommerce" class="flex column bigOlText secondBigText">
 		<div class="flex column">

@@ -169,7 +169,7 @@
 						<li>• 5 hours of premium support each month.</li>
 						<li>• Guaranteed 99.9% Website Up-time.</li>
 					</ul>
-					<button>Explore Plan</button>
+					<button><a href="/contact.php">Learn More</a></button>
 				</div>
 			</article>
 			<article class="flex column center" id="middleManagement">
@@ -192,7 +192,7 @@
 						<li>• 20 hours of premium support each month.</li>
 						<li>• Monthly analytics review and strategy.</li>
 					</ul>
-					<button>Explore Plan</button>
+					<button><a href="/contact.php">Learn More</a></button>
 				</div>
 			</article>
 			<article class="flex column center">
@@ -217,7 +217,7 @@
 						<li>• Server monitoring and Weekly backups.</li>
 						<li>• 24/7 Emergency Phone Support.</li>
 					</ul>
-					<button>Explore Plan</button>
+					<button><a href="/contact.php">Learn More</a></button>
 				</div>
 			</article>
 		</section>

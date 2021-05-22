@@ -103,7 +103,7 @@
 		<h1>Start with an SEO audit of your website for <br> just $199.*</h1>
 		<p>Discover what is working for your business, what could be hurting you, 
 		   and where we believe your current SEO could see some improvements.</p>
-		<a class="button" href="/pages/contact">Request An SEO Audit</a>
+		<a class="button" href="/contact">Request An SEO Audit</a>
 	</section>	
 
 	<article id="ecommerce" class="flex column bigOlText secondBigText">

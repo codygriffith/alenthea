@@ -233,7 +233,7 @@ form {
 }
 #webManagement h3{
 	font-size: 1.25vw;
-	width: 65%;
+	width: 80%;
 	text-align: center;
 	margin: 0vw 0 1.5vw 0;
 	font-weight: 500;
@@ -296,7 +296,7 @@ form {
 	padding: 0 !important;
 }
 #middleManagement p{
-	font-size: 1.2vw !important;
+	/* font-size: 1.2vw !important; */
 }
 #middleManagement .moneySymbol{
 	font-size: 2vw;
@@ -318,6 +318,9 @@ form {
 }
 #webManagement button{
 	font-size: 1.15vw;
+}
+#webManagement button a{
+	color: #1b1b1b;
 }
 @media only screen and (max-width: 800px) {
 	#webDesign {
