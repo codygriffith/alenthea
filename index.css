@@ -614,6 +614,9 @@ form {
 		width: 90%;
 		text-align: left;
 	}
+	.mobile{
+		position: absolute;
+	}
 	#webManagement article{
 		flex-direction: column;
 		width: 98%;

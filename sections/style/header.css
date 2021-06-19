@@ -12,19 +12,15 @@ header{
 	width: 35%;
 	align-self: flex-end;
 }
-
 #header-right{
 	width: 50%;
 }
-
 nav ul li{
 	padding:0 1vw;
 }
-
 nav ul{
 	position: relative;
 }
-
 nav ul ul{
     position: absolute;
     height: 0;
@@ -42,7 +38,6 @@ nav ul ul{
     width: max-content;
     /* padding-top: .5vw; */
 }
-
 nav ul ul li{
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -55,14 +50,12 @@ nav ul ul li{
 	padding: .72vw;
 	align-items: start;
 }
-
 nav ul ul li a{
 	font-weight: 400;
 	font-size: 1.25vw;
 	line-height: 90%;
 	padding: 0 .5vw .5vw .5vw;
 }
-
 nav ul li{
 	font-weight: 400;
 	font-size: 1.25vw;
@@ -71,11 +64,9 @@ nav ul li{
 	align-self: center;
 	cursor: pointer;
 }
-
 nav ul div:hover ul{
 	height: 20vw;
 }
-
 #companyLogo{
 	width: 5.5vw;
 	padding-right: 4vw;
@@ -83,19 +74,11 @@ nav ul div:hover ul{
 	padding-left: 9vw;
 	align-self: center;
 }
-
 #mobileCompanyLogo{
-	width: 6vw;
 	padding-right: 4vw;
-	height: 5vw;
-
-}
-#mobileCompanyLogo{
 	margin-right: 30vw;
-	/* padding: .25%; */
 	padding-left: 5vw;
 }
-
 header li{
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -104,7 +87,6 @@ header li{
 	align-items: flex-end;
 	position: relative;
 }
-
 header a {
 	text-decoration: none;
 	background-color: #0d0d0d;
@@ -112,30 +94,24 @@ header a {
 	font-weight: 500;
 	cursor: pointer;
 }
-
 .desktop #companyLogo img {
 	padding: .3vw 10vw .3vw 0;
 }
-
 .desktop #mobileCompanyLogo img {
 	padding: .3vw 10vw .3vw 0;
 }
-
 mobileHeader{
 	display: none !important;
 }
-
 .mobileServiceIcon {
 	display: none;
 }
-
 #mobileContactHeader {
 	display: none;
 }
 .toggle {
     height: 8.5vh !important;
 }
-
 header ul li ul {
 	position: absolute;
 	height: 0;
@@ -152,7 +128,6 @@ header ul li ul {
 	width: max-content;
 	padding-top: .5vw;
 }
-
 header ul li ul li{
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -165,18 +140,15 @@ header ul li ul li{
 	padding: .72vw;
 	align-items: start;
 }
-
 header ul li ul li a{
 	font-weight: 400;
 	font-size: 1vw;
 	line-height: 90%;
 	padding: 0 .5vw .5vw .5vw;
 }
-
 header ul li:hover ul{
 	height: 15vw;
 }
-
 @media screen and (max-width: 800px) {
 	header li {
 		display: block;
@@ -187,32 +159,25 @@ header ul li:hover ul{
 		background-color: unset;
 		text-decoration: none;
     }
-    	
-	header a {
+    	header a {
 		padding: 0;
 	}
-
 	#mobileCompanyLogo img{
 		width: 18vw;
 	}
-
 	#companyLogo img{
 		width: 18vw;
 	}
-
 	.mobile{
 		text-align: right;
-		position: absolute;
 		width: 100%;
 		padding: 2.5vw 0;
 	}
-
 	#toggle{
 		font-size: 14vw;
 		padding-right: 2vw;
 		align-self: center;
 	}
-
 	#mobileHeaderLinks {
 		display: contents;
 		font-size: 7.5vw;
@@ -220,7 +185,6 @@ header ul li:hover ul{
 		/* padding-right: 2vw; */
 		opacity: .5;
 	}
-
 	header li{
 		height: inherit;
 		-webkit-transition: height .75s;
@@ -228,7 +192,6 @@ header ul li:hover ul{
 		transition: height .75s;
 		overflow: hidden;
 	}
-
 	.mobileHeaderLinks {
 		line-height: 150%;
 		font-size: inherit;
@@ -240,5 +203,4 @@ header ul li:hover ul{
 		padding-right: 4vw;
 		background-color: rgba(0, 0, 0, 0.831);
 	}
-
 }
