@@ -27,6 +27,8 @@
 					<li><a href="/services/digital-marketing-columbus-ga">Digital Marketing</a></li>
 					<li><a href="/pages/blog">Blog</a></li>
 					<li><a id="headerContact" href="/contact">Contact</a></li>
+					<?php include 'http://hosting.alenthea.com/template/includes/navbar.tpl' ?>
+					
 				</ul>
 			</nav>
 			
